@@ -1,0 +1,14 @@
+228 labelled hubs, high-delay = more than 25% of outbound legs delayed (45% of hubs)
+5-fold CV over hubs x 3 repeats; test-fold hubs unseen in training; neighbourhood features use training-fold labels only
+
+method                                      ROC-AUC   (sd)  PR-AUC
+State mean                                    0.668  0.002   0.628
+XGBoost (hub features)                        0.706  0.022   0.692
+GraphSAGE                                     0.660  0.008   0.610
+GAT                                           0.671  0.019   0.634
+XGBoost + neighbourhood labels (hybrid)       0.719  0.006   0.729
+Neighbourhood labels only                     0.671  0.015   0.685
+
+hybrid minus plain XGBoost: +0.014 ROC-AUC
+message passing (GraphSAGE / GAT) over the 20 hub features does not use neighbours' observed
+delay rates; the hybrid does, which is why the graph/geography helps there and not in the GNNs.

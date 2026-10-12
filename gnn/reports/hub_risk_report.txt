@@ -1,0 +1,10 @@
+labelled hubs: 228, high-delay (>25% of legs delayed): 45%
+5-fold CV over hubs, 3 repeats; hubs in the test fold are unseen during training
+
+method                    roc_auc   (std)  pr_auc precision  recall
+Majority / state mean       0.668   0.002   0.628     0.675   0.500
+XGBoost (no graph)          0.705   0.021   0.692     0.623   0.592
+GraphSAGE                   0.660   0.008   0.609     0.594   0.572
+
+scores used downstream: XGBoost (no graph)
+scored 1,594 hubs; 228 labelled ones out-of-fold, 1,366 unlabelled ones by the model average

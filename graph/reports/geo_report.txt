@@ -1,0 +1,20 @@
+hubs: 1,657   located: 1,594
+
+by source (hubs | share of leg endpoints):
+  exact      840 | 42.8%
+  name        29 | 5.6%
+  prefix3     99 | 6.9%
+  prefix4    127 | 7.6%
+  prefix5    499 | 34.3%
+  nan         63 | 2.8%
+  outside India bounding box, removed: 0
+
+error of each estimate, tested by hiding the pincode of hubs that have one:
+  name     n= 327  median  14.8 km | p90  484.9 km
+  prefix3  n= 839  median  12.1 km | p90   83.3 km
+  prefix4  n= 801  median   0.0 km | p90   39.3 km
+  prefix5  n= 682  median   0.0 km | p90   10.8 km
+
+recorded leg distance / straight-line distance (3,722 legs, exact coordinates):
+  median 0.67. Below 1 is not possible for a full road route, so the
+  distance fields are cut off at the last checkpoint on long legs. Geometry uses coordinates.

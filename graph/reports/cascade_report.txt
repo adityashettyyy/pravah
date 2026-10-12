@@ -1,0 +1,11 @@
+disruption of severity 0.8 at each of the 40 busiest hubs
+assumed: BETA=1.5, DECAY=0.7, 3 hops, 100 runs
+
+BETA    hubs at risk (P>0.2), mean  median   max
+0.5                            3.1       2    14
+1.5                            9.2       6    28
+3.0                           16.4      15    48
+
+top-5 most affected hubs, BETA 0.5 vs 3.0: 66% overlap
+BETA sets how far a disruption spreads. Which hubs are hit first depends mostly on
+the traffic structure, so the ranking is more robust than the spread size.

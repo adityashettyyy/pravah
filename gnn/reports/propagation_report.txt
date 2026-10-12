@@ -1,0 +1,24 @@
+source hubs: train 998 / val 214 / test 215 (test hubs never seen as an origin)
+scenarios: train 2500 (oversampling major hubs), val 300; labels = share of 100 simulation runs
+test hubs with a local graph of 30+ hubs: 57
+validation MAE of chosen checkpoint: 0.017
+
+all source hubs (500 scenarios, local graph median 10 hubs, max 120)
+method                         MAE  Spearman  AUC(>0.2)  precision@5
+GNN surrogate                0.022     0.742      0.998        0.989
+XGBoost (no edges/flows)     0.107     0.203      0.917        0.308
+Hop-decay heuristic          0.094     0.751      0.974        0.824
+Simulator, second run        0.017     0.858      0.999        0.994
+
+major source hubs only (200 scenarios, local graph median 99 hubs, max 120)
+method                         MAE  Spearman  AUC(>0.2)  precision@5
+GNN surrogate                0.003     0.425      1.000        0.984
+XGBoost (no edges/flows)     0.016     0.313      0.955        0.407
+Hop-decay heuristic          0.080     0.517      0.981        0.684
+Simulator, second run        0.002     0.711      1.000        0.979
+
+'Simulator, second run' is the noise floor: two independent runs of the same scenario.
+The GNN learns the assumed dynamics. XGBoost cannot see edges or flows, which the
+simulator depends on, so that gap only shows the graph structure is needed.
+
+latency on the largest local graph (120 hubs): GNN 0.6 ms, simulator (100 runs) 1.9 ms

@@ -1,0 +1,16 @@
+hubs (nodes): 1,594   directed edges: 2,649   legs used: 25,207
+features per node: 20
+connected components (undirected): 75, largest 1,291 hubs (81.0%)
+edges with 5+ legs: 1,548   median edge length 62 km
+hubs with 20+ outbound legs (labelled): 228
+  delayed rate of labelled hubs: median 0.22, 45% above the 0.25 network average
+
+most connected hubs (in + out degree):
+  Gurgaon_Bilaspur_HB (Haryana)           93
+  Bangalore_Nelmngla_H (Karnataka)        70
+  Chandigarh_Mehmdpur_H (Punjab)          61
+  Hyderabad_Shamshbd_H (Telangana)        57
+  Bhiwandi_Mankoli_HB (Maharashtra)       56
+  Delhi_Airport_H (Delhi)                 45
+  Pune_Tathawde_H (Maharashtra)           43
+  Kolkata_Dankuni_HB (West Bengal)        41
