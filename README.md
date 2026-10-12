@@ -12,7 +12,9 @@ dashboard puts it together.
 pip install -r requirements.txt
 streamlit run app/dashboard.py                      # dashboard (all trained artifacts are included)
 python pipeline.py --hub "Bhiwandi" --severity 0.8  # same loop on the command line
-python -m pytest -q tests                           # 22 tests incl. leakage and conformal-coverage checks
+python -m pytest -q tests                           # 37 tests incl. leakage, conformal-coverage and API checks
+uvicorn api.main:app --reload                       # REST API, docs at http://127.0.0.1:8000/docs
+python -m evaluation.sweep                          # multi-scenario evaluation table (held-out hubs)
 python run_all.py --fast                            # re-train everything quickly (python run_all.py --list)
 ```
 
@@ -34,7 +36,9 @@ without re-downloading anything. `data/prepare_geo.py` needs internet once if yo
 | **Regional / monsoon scenarios** | `novelty/scenarios.py` | many simultaneous sources, spillover outside the region |
 | **Pravah Criticality Index** | `novelty/criticality.py` | traffic-weighted exposure per hub, targeted-failure robustness |
 | **RL rerouting (masked PPO)** | `rl/` | masked PPO cuts excess delay 20.9 -> 13.7 h (-34%) on unseen hubs with 0 overloads; a hand-written risk-aware rule reaches 11.8 h, so RL does **not** beat the best rule |
-| Dashboard | `app/` | 5 tabs, click-to-disrupt, propagation playback, before/after |
+| Dashboard | `app/` | 5 tabs, click-to-disrupt, propagation playback, before/after, CSV / JSON export |
+| **REST API** | `api/` | `/simulate`, `/propagation`, `/hubs`, `/health`; see `docs/API.md` |
+| **Evaluation sweep** | `evaluation/` | held-out hubs x severities x manifests, by state, latency p50 / p95 |
 
 ## What is novel here, and what is not
 
@@ -113,7 +117,9 @@ novelty/    criticality.py, scenarios.py
 ml/         baseline leg model        gnn/    hub-risk models, propagation GNN
 graph/      graph build + cascade     rl/     env, policies, training
 analysis/   propagation evidence      tests/  pytest suite
-docs/       REPORT.md, VIVA_QA.md     legacy/ superseded first-generation code
+api/        FastAPI service           evaluation/  scenario sweep and report
+docs/       REPORT.md, VIVA_QA.md, API.md, CASE_STUDY_COVERAGE.md
+legacy/     superseded first-generation code
 ```
 
 ## Data
@@ -123,3 +129,12 @@ Delhivery Logistics Dataset (Kaggle `santanukundu/delhivery-dataset`): 144,867 c
 `data/prepare_data.py` takes the max per (trip, source, destination): 26,368 legs. Target:
 `is_delayed = actual_time > 2.6 x osrm_time` (about the 75th percentile of the ratio; one constant in
 `ml/problem.py`). Short legs are flagged more often (41% of the shortest quartile vs 16% of the longest).
+
+## Deployment
+
+```bash
+docker compose up --build        # dashboard on :8501, API on :8000
+```
+
+CI (`.github/workflows/ci.yml`) runs the test suite and the CLI smoke test on every push. What the case study asked
+for and what was not built (OSRM, IMD, multi-courier data) is listed in `docs/CASE_STUDY_COVERAGE.md`.

@@ -1,0 +1,8 @@
+.git
+__pycache__/
+*.pyc
+.pytest_cache/
+legacy/
+docs/
+result.json
+evaluation/reports/sweep_raw.csv
