@@ -1,0 +1,8 @@
+Disruption injection: spiked delay_rate to 1.0 at 25 hubs (bucket 2 snapshot), one at a time, re-ran the GNN.
+Mean |change in predicted next-bucket delay rate|, averaged over the 25 injected hubs:
+  1-hop neighbours:     0.0350  (avg 2.6 hubs per injection)
+  2-hop neighbours:     0.0108  (avg 9.6 hubs per injection)
+  non-neighbour hubs:   0.0000  (random sample, not graph-connected to the injected hub)
+
+Non-neighbour hubs show exactly 0.0000 change - not noise, this is expected: a 2-layer GNN's prediction for a node is mathematically a function of only its 1-hop and 2-hop neighbours, so a hub with no path to the injected hub within 2 hops cannot be affected at all.
+1-hop effect (0.0350) > 2-hop effect (0.0108) > 0, decaying with distance as expected: the model is using the graph structure, bounded correctly by its receptive field. Whether the *size* of that effect reflects real-world propagation (vs. an artifact of a weakly-trained model, see gnn_report.txt - it did not beat the persistence baseline) is a separate, open question.

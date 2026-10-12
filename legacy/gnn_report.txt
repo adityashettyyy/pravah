@@ -1,0 +1,13 @@
+Hubs: 920. Buckets: 4 (3 transitions total).
+Train transitions [(0, 1), (1, 2)], held-out test transition (2, 3)
+
+Train-transition fit (not a generalization estimate, just a sanity check):
+  (0, 1): GNN MAE 0.1370 | persistence MAE 0.1323 | global-mean MAE 0.2750  (n=920)
+  (1, 2): GNN MAE 0.1452 | persistence MAE 0.1359 | global-mean MAE 0.2742  (n=920)
+
+Held-out test transition (the number that matters):
+  (2, 3): GNN MAE 0.1632 | persistence MAE 0.1365 | global-mean MAE 0.2798  (n=920)
+
+GNN beats persistence baseline on held-out transition: False
+
+Honest read: with only one held-out transition this is a single data point, not a statistically reliable comparison. The result should be read as 'does the graph-based prediction look reasonable', not as proof the GNN generalizes. More weeks of data would be needed for a real train/val/test split over independent time windows.

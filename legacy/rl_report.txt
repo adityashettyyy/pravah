@@ -1,0 +1,19 @@
+Trained PPO for 80,000 timesteps. Evaluated 300 episodes (same seed stream, so all three policies face the same origin/destination/disruption draws).
+
+PPO (uses GNN delay signal):
+  mean episode reward: -10.363
+  destination reach rate: 1.7%
+  mean steps to end of episode: 7.91
+
+Greedy shortest-path (ignores disruption):
+  mean episode reward: -8.637
+  destination reach rate: 19.0%
+  mean steps to end of episode: 7.21
+
+Random:
+  mean episode reward: -11.431
+  destination reach rate: 6.0%
+  mean steps to end of episode: 7.84
+
+PPO vs greedy reward gap: -1.727
+PPO does NOT beat the distance-only baseline, and its destination reach rate (1.7%) is close to random (6.0%) and far below greedy's (19.0%), and stayed flat across three training runs (40k/80k/150k timesteps, with reward-shaping and exploration fixes in between - see git history / earlier report versions if kept). That rules out 'just needs more training' as the explanation and points at something structural: in this action space, action index 0-5 means a DIFFERENT physical hub depending on which hub the agent is currently at (slots are ranked by traffic at the current hub, not a fixed compass direction). A feedforward MLP policy has to learn a context-dependent action mapping from scratch at every state, which is a much harder credit-assignment problem than e.g. grid-world up/down/left/right actions. The greedy baseline doesn't have this problem because it recomputes the best action directly from the observation every step rather than learning a fixed policy function. Fix for next iteration: feed the GNN's own hub embeddings into the policy (so the network reasons about hub identity, not a slot index), or use a graph-structured policy (e.g. pick a node via attention over neighbour embeddings) instead of SB3's default MlpPolicy over a Discrete action space. Reported as a real, understood limitation, not tuned away.

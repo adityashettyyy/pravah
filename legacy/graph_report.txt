@@ -1,0 +1,8 @@
+Hubs in legs data: 1657
+Geocoded: exact pincode 840, 3-digit prefix fallback 725, 2-digit prefix fallback 50, failed 42
+Nodes with coordinates: 1615 (97.5% of hubs)
+Edges (hub pairs with >=1 real leg): 2593
+Edges with n_legs>=3: 1798
+corr(real road distance, haversine distance) = 0.608 on 2593 edges
+
+Road distance note: no routing API is reachable from this sandbox. Distance on edges that exist in the data is the real OSRM-derived driving distance from the raw file. haversine_km is straight-line and is only used where no real distance exists (see rl/env.py).

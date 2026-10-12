@@ -1,0 +1,20 @@
+{
+  "ppo": {
+    "mean_reward": -10.36349023117487,
+    "reach_rate": 0.016666666666666666,
+    "mean_steps": 7.906666666666666,
+    "n_episodes": 300
+  },
+  "greedy": {
+    "mean_reward": -8.636738851638444,
+    "reach_rate": 0.19,
+    "mean_steps": 7.206666666666667,
+    "n_episodes": 300
+  },
+  "random": {
+    "mean_reward": -11.43068896956835,
+    "reach_rate": 0.06,
+    "mean_steps": 7.843333333333334,
+    "n_episodes": 300
+  }
+}
