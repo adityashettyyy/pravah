@@ -1,0 +1,142 @@
+{
+ "selected": "MaskPPO seed 0",
+ "val_reward": {
+  "MaskPPO seed 0": -67.63266661146656,
+  "MaskPPO seed 1": -68.64092700343572,
+  "MaskPPO seed 2": -68.21779513391239
+ },
+ "table": {
+  "Keep planned route": {
+   "excess_h": 20.856658370859776,
+   "excess_sd": 4.6499819064448955,
+   "cost": 0.0,
+   "overloads": 0.0,
+   "reward": -136.53478141890753,
+   "contained": 0.0,
+   "reroutes": 0.0,
+   "holds": 0.0
+  },
+  "Always hold": {
+   "excess_h": 34.94444875608316,
+   "excess_sd": 3.3318573670926246,
+   "cost": 2.9999999999999996,
+   "overloads": 0.0,
+   "reward": -157.82977940175746,
+   "contained": 0.0,
+   "reroutes": 0.0,
+   "holds": 10.0
+  },
+  "Random": {
+   "excess_h": 30.951017941213333,
+   "excess_sd": 19.293628594267727,
+   "cost": 4.9642252922058105,
+   "overloads": 0.01,
+   "reward": -154.16441802767633,
+   "contained": 0.016666666666666666,
+   "reroutes": 6.59,
+   "holds": 1.7533333333333334
+  },
+  "Nearest hub (greedy rule)": {
+   "excess_h": 23.065977994807714,
+   "excess_sd": 21.606446369196835,
+   "cost": 3.719467878341675,
+   "overloads": 0.0,
+   "reward": -142.9150726897076,
+   "contained": 0.21333333333333335,
+   "reroutes": 10.0,
+   "holds": 0.0
+  },
+  "Risk-aware rule": {
+   "excess_h": 11.808274949468942,
+   "excess_sd": 4.446650059700834,
+   "cost": 0.194049947943228,
+   "overloads": 0.0,
+   "reward": -124.82688712214697,
+   "contained": 0.3933333333333333,
+   "reroutes": 7.216666666666667,
+   "holds": 0.0
+  },
+  "PPO, no masking (ablation)": {
+   "excess_h": 13.3782946058033,
+   "excess_sd": 4.430914696164394,
+   "cost": 0.18250534562704465,
+   "overloads": 0.27,
+   "reward": -127.65753451636881,
+   "contained": 0.16666666666666666,
+   "reroutes": 5.933333333333334,
+   "holds": 0.0
+  },
+  "MaskPPO seed 0": {
+   "excess_h": 13.731922226018384,
+   "excess_sd": 4.35785073210941,
+   "cost": 0.23552085081736246,
+   "overloads": 0.0,
+   "reward": -127.27533843293388,
+   "contained": 0.18,
+   "reroutes": 6.05,
+   "holds": 0.0
+  },
+  "MaskPPO seed 1": {
+   "excess_h": 13.684183567198628,
+   "excess_sd": 4.193424734797027,
+   "cost": 0.31200212240219116,
+   "overloads": 0.0,
+   "reward": -127.38019089586138,
+   "contained": 0.19666666666666666,
+   "reroutes": 7.07,
+   "holds": 0.023333333333333334
+  },
+  "MaskPPO seed 2": {
+   "excess_h": 14.519580107380323,
+   "excess_sd": 4.370045639095268,
+   "cost": 0.3196700385585427,
+   "overloads": 0.0,
+   "reward": -128.35776026914218,
+   "contained": 0.16333333333333333,
+   "reroutes": 5.763333333333334,
+   "holds": 0.0
+  },
+  "One-step lookahead (oracle)": {
+   "excess_h": 11.285098667016646,
+   "excess_sd": 4.638071663277645,
+   "cost": 0.16954985847502638,
+   "overloads": 0.0,
+   "reward": -124.13893855069426,
+   "contained": 0.48333333333333334,
+   "reroutes": 7.14,
+   "holds": 0.0
+  }
+ },
+ "paired_vs": {
+  "Keep planned route": [
+   -7.12473614484139,
+   -7.624636434119337,
+   -6.613234064379483
+  ],
+  "Nearest hub (greedy rule)": [
+   -9.334055768789328,
+   -11.72593433864911,
+   -7.377481502665104
+  ],
+  "Risk-aware rule": [
+   1.923647276549444,
+   1.7307340805043447,
+   2.1231703107447424
+  ],
+  "PPO, no masking (ablation)": [
+   0.35362762021508737,
+   0.17225183922749607,
+   0.5351522766374966
+  ],
+  "One-step lookahead (oracle)": [
+   2.446823559001741,
+   2.2561410557670314,
+   2.654619308528312
+  ]
+ },
+ "hubs": {
+  "train": 54,
+  "val": 14,
+  "test": 23
+ }
+}
