@@ -1,0 +1,47 @@
+Pravah delay model (non-graph baseline)
+target: actual_time > 2.6 x osrm_time, split by trip
+train 18,401 | val 3,986 | test 3,981
+delayed rate: train 24.8% | val 25.2% | test 23.3%
+
+Validation
+model                  accuracy precision  recall     f1  roc_auc  pr_auc
+Dummy (majority)          0.748     0.000   0.000  0.000    0.500   0.252
+Logistic Regression       0.653     0.389   0.656  0.489    0.706   0.470
+Decision Tree             0.671     0.407   0.667  0.506    0.737   0.491
+Random Forest             0.745     0.496   0.636  0.557    0.778   0.570
+XGBoost                   0.768     0.531   0.709  0.607    0.817   0.643
+
+Tuning: XGBoost, 15 random candidates, 4-fold CV grouped by trip
+best CV PR-AUC 0.617
+  colsample_bytree   1.0
+  learning_rate      0.15
+  max_depth          5
+  min_child_weight   1
+  n_estimators       800
+  reg_lambda         2.0
+  subsample          0.9
+XGBoost (tuned)           0.779     0.550   0.686  0.611    0.819   0.647
+validation PR-AUC: default 0.643, tuned 0.647 -> using XGBoost (tuned)
+
+Test (n=3,981, refit on train + val)
+model                  accuracy precision  recall     f1  roc_auc  pr_auc
+Dummy (majority)          0.767     0.000   0.000  0.000    0.500   0.233
+XGBoost (tuned)           0.791     0.538   0.717  0.615    0.844   0.672
+
+Confusion matrix at 0.5 cutoff
+                  pred on time  pred delayed
+actual on time           2,482           571
+actual delayed             263           665
+flags 1,236 legs; 665 of 928 delayed legs caught (recall 71.7%, precision 53.8%)
+
+Top features (XGBoost gain importance)
+  destination_center_IND842001AAA               0.059
+  source_center_IND712311AAA                    0.034
+  destination_center_IND712311AAA               0.030
+  route_type_Carting                            0.024
+  source_center_IND560058AAB                    0.023
+  source_center_infrequent_sklearn              0.023
+  source_center_IND121004AAB                    0.021
+  destination_center_IND560060AAB               0.021
+  destination_center_infrequent_sklearn         0.019
+  destination_center_IND401104AAA               0.018

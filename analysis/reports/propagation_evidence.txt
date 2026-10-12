@@ -1,0 +1,20 @@
+26,368 legs, 12 Sep to 06 Oct 2018
+
+1. trip chains (9,986 consecutive leg pairs)
+   next leg delayed after a delayed leg: 36.2%, after an on-time leg: 17.6%
+   after removing each hub's own delay rate: -0.003 vs +0.000
+   -> the raw gap is explained by which hub the next leg leaves from, not by a cascade
+
+2. hub to hub, 24h buckets (96 hubs with 4+ legs/bucket, 198 edges)
+   corr(upstream delay at t, downstream delay at t+1): -0.022  (n=2,079)
+   same with a random hub as 'upstream':                -0.008  (n=753)
+   a hub's own delay at t vs t+1:                       -0.072  (n=600)
+   -> upstream hubs predict no better than random hubs
+
+3. congestion: within-hub corr(legs leaving in the same 6h, delayed) = -0.035  (23 hubs, 7,617 legs)
+   -> no load-delay relationship
+
+4. hub delay rate, first vs second half of the period (180 hubs): corr 0.86
+   corr(hub delay rate, mean rate of its neighbours) = 0.39 (801 hubs)
+   corr(hub delay rate, mean rate of its state)     = 0.43
+   -> delay-proneness is a stable, regional hub property; this is what a graph model can learn
