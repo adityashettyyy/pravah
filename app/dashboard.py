@@ -4,6 +4,7 @@ Tabs: live disruption simulation (GNN propagation + RL rerouting), regional / mo
 network criticality, single-leg delay predictor (calibrated, with uncertainty and explanation), and
 an evidence tab that states what is measured and what is assumed.
 """
+import json
 import os
 import sys
 import time
@@ -304,6 +305,20 @@ with tab1:
             .rename(columns={"to": "destination hub", "delay_h": "delay (h)"}))
     st.caption("Closed loop: after each reroute the flows change, the GNN is queried again, and the corridor "
                "hub's risk is updated (last column). The next decision sees that new state.")
+    # export: hand the plan to an operations team as CSV, or the whole scenario as JSON
+    steps_df = pd.DataFrame(ag["steps"])
+    scenario = {"disrupted_hub": hub_label, "severity": severity, "seed": int(seed),
+                "agent": ag["policy"], "hubs_at_risk": prop["n_at_risk"],
+                "traffic_exposed_pct": round(prop["traffic_exposed_pct"], 2),
+                "policies": {p: {"excess_delay_h": round(r["excess_h"], 2), "cost": round(r["cost"], 2),
+                                 "overloads": r["overloads"], "saving_pct": round(r["saving_pct"], 1)}
+                             for p, r in cmp.items()},
+                "plan": ag["steps"]}
+    d1, d2, _ = st.columns([1, 1, 3])
+    d1.download_button("⬇ Plan (CSV)", steps_df.to_csv(index=False), file_name="pravah_reroute_plan.csv",
+                       mime="text/csv")
+    d2.download_button("⬇ Scenario (JSON)", json.dumps(scenario, indent=2, default=lambda o: o.item()), file_name="pravah_scenario.json",
+                       mime="application/json")
 
 # ====================================================================== TAB 2
 with tab2:

@@ -31,6 +31,7 @@ def stages(fast):
         ("novelty: criticality index", [sys.executable, "-m", "novelty.criticality"], ROOT, {}),
         ("advanced: leg-delay model", [sys.executable, "-m", "advanced.train"], ROOT, {"PRAVAH_TRIALS": str(trials)}),
         ("rl: masked ppo", [sys.executable, "-m", "rl.train", "--steps", str(steps), "--seeds", "3"], ROOT, {}),
+        ("evaluation: scenario sweep", [sys.executable, "-m", "evaluation.sweep"], ROOT, {}),
         ("tests", [sys.executable, "-m", "pytest", "-q", "tests"], ROOT, {}),
         ("demo: pipeline", [sys.executable, "pipeline.py", "--hub", "Bhiwandi", "--severity", "0.8",
                             "--out", "result.json"], ROOT, {}),

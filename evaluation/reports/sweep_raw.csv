@@ -1,0 +1,1036 @@
+hub,state,split,severity,seed,policy,excess_h,cost,overloads,saving_pct,contained,hubs_at_risk,traffic_exposed_pct
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.5,0,Keep planned route,14.39291170647222,0.0,0,0.0,False,10,2.071328527111936
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.5,0,Nearest hub (greedy rule),8.888134516130563,0.0,0,38.24644590758006,False,10,2.071328527111936
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.5,0,Risk-aware rule,6.861852035428754,0.040908508002758026,0,52.32478198040283,True,10,2.071328527111936
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.5,0,RL agent (MaskablePPO),7.5505568076075775,0.0,0,47.53975455701409,False,10,2.071328527111936
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.5,0,Oracle one-step lookahead,6.697913199420029,0.03554580733180046,0,53.4638067958959,True,10,2.071328527111936
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.5,1,Keep planned route,15.284968611654861,0.0,0,0.0,False,10,2.071328527111936
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.5,1,Nearest hub (greedy rule),8.88922300545832,0.0,0,41.843367616206656,False,10,2.071328527111936
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.5,1,Risk-aware rule,6.358131833419236,0.04627120867371559,0,58.40271579902931,True,10,2.071328527111936
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.5,1,RL agent (MaskablePPO),8.910511434610527,0.0,0,41.70409072468609,False,10,2.071328527111936
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.5,1,Oracle one-step lookahead,6.106084248549877,0.040908508002758026,0,60.0517056744627,True,10,2.071328527111936
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.5,2,Keep planned route,17.01807831214282,0.0,0,0.0,False,10,2.071328527111936
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.5,2,Nearest hub (greedy rule),8.918459477677615,0.0,0,47.59420356343011,False,10,2.071328527111936
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.5,2,Risk-aware rule,5.9850519463438445,0.02581695467233658,0,64.83121162938025,True,10,2.071328527111936
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.5,2,RL agent (MaskablePPO),8.538296681864239,0.0,0,49.82807973229296,False,10,2.071328527111936
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.5,2,Oracle one-step lookahead,5.873619697478148,0.020454254001379013,0,65.48599912548778,True,10,2.071328527111936
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.8,0,Keep planned route,22.426601982283245,0.0,0,0.0,False,13,2.435806957222718
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.8,0,Nearest hub (greedy rule),10.133695650945768,0.0,0,54.81394970601757,True,13,2.435806957222718
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.8,0,Risk-aware rule,7.770328018144156,0.040908508002758026,0,65.35218298214492,True,13,2.435806957222718
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.8,0,RL agent (MaskablePPO),9.117988119580687,0.0,0,59.342979704264636,True,13,2.435806957222718
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.8,0,Oracle one-step lookahead,6.905578190154571,0.02581695467233658,0,69.2080940500487,True,13,2.435806957222718
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.8,1,Keep planned route,23.69870541740616,0.0,0,0.0,False,13,2.435806957222718
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.8,1,Nearest hub (greedy rule),10.33189516336681,0.0,0,56.40312421547606,True,13,2.435806957222718
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.8,1,Risk-aware rule,7.762627491505668,0.06136276200413704,0,67.24450827679306,True,13,2.435806957222718
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.8,1,RL agent (MaskablePPO),11.558653956396725,0.0,0,51.22664401783248,True,13,2.435806957222718
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.8,1,Oracle one-step lookahead,7.071283506136453,0.040908508002758026,0,70.16173085580128,True,13,2.435806957222718
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.8,2,Keep planned route,26.48906129020712,0.0,0,0.0,False,13,2.435806957222718
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.8,2,Nearest hub (greedy rule),10.395347572520066,0.0,0,60.756074144601044,True,13,2.435806957222718
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.8,2,Risk-aware rule,7.311238996458442,0.020454254001379013,0,72.39902570967521,True,13,2.435806957222718
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.8,2,RL agent (MaskablePPO),10.402976070072128,0.0,0,60.72727547382715,True,13,2.435806957222718
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,0.8,2,Oracle one-step lookahead,6.688951453925895,0.020454254001379013,0,74.74825030361204,True,13,2.435806957222718
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,1.0,0,Keep planned route,27.64890300851023,0.0,0,0.0,False,16,2.65443515821232
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,1.0,0,Nearest hub (greedy rule),10.983403957735177,0.0,0,60.2754440045794,True,16,2.65443515821232
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,1.0,0,Risk-aware rule,8.26002870308892,0.040908508002758026,0,70.12529321490074,True,16,2.65443515821232
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,1.0,0,RL agent (MaskablePPO),10.361930253277677,0.0,0,62.52317768235393,True,16,2.65443515821232
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,1.0,0,Oracle one-step lookahead,7.385715882546435,0.02581695467233658,0,73.28749035622448,True,16,2.65443515821232
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,1.0,1,Keep planned route,29.284728155647173,0.0,0,0.0,False,16,2.65443515821232
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,1.0,1,Nearest hub (greedy rule),11.297849219128082,0.0,0,61.42067920494102,True,16,2.65443515821232
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,1.0,1,Risk-aware rule,8.642196208389336,0.06136276200413704,0,70.48906801368821,True,16,2.65443515821232
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,1.0,1,RL agent (MaskablePPO),13.082588983120075,0.0,0,55.32624064807216,True,16,2.65443515821232
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,1.0,1,Oracle one-step lookahead,7.7385049360804885,0.040908508002758026,0,73.57494699984701,True,16,2.65443515821232
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,1.0,2,Keep planned route,32.89263239078548,0.0,0,0.0,False,16,2.65443515821232
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,1.0,2,Nearest hub (greedy rule),11.434638085494129,0.0,0,65.236476212535,True,16,2.65443515821232
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,1.0,2,Risk-aware rule,8.125377459597985,0.020454254001379013,0,75.29727215790055,True,16,2.65443515821232
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,1.0,2,RL agent (MaskablePPO),11.681817859759803,0.0,0,64.48500162293992,True,16,2.65443515821232
+Hyderabad_Shamshbd_H (Telangana),Telangana,test,1.0,2,Oracle one-step lookahead,7.286316099878832,0.020454254001379013,0,77.84818188671328,True,16,2.65443515821232
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.5,0,Keep planned route,11.687600276971642,0.0,0,0.0,False,0,1.7687466668668168
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.5,0,Nearest hub (greedy rule),9.524528611108105,0.0,0,18.507406264787214,False,0,1.7687466668668168
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.5,0,Risk-aware rule,7.417993096630502,0.0,0,36.53108490331971,False,0,1.7687466668668168
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.5,0,RL agent (MaskablePPO),7.4428002470165335,0.0,0,36.31883303126596,False,0,1.7687466668668168
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.5,0,Oracle one-step lookahead,7.221591048534316,0.0,0,38.21151581678243,False,0,1.7687466668668168
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.5,1,Keep planned route,11.588439477540287,0.0,0,0.0,False,0,1.7687466668668168
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.5,1,Nearest hub (greedy rule),9.018546827791699,0.0,0,22.176347857097866,False,0,1.7687466668668168
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.5,1,Risk-aware rule,7.154642435920746,0.0,0,38.26051859883934,False,0,1.7687466668668168
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.5,1,RL agent (MaskablePPO),9.014280045215738,0.0,0,22.21316715950895,False,0,1.7687466668668168
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.5,1,Oracle one-step lookahead,7.08174793418598,0.0,0,38.88954636289716,False,0,1.7687466668668168
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.5,2,Keep planned route,13.032939518356446,0.0,0,0.0,False,0,1.7687466668668168
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.5,2,Nearest hub (greedy rule),9.218315993268856,0.0,0,29.269095584421496,False,0,1.7687466668668168
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.5,2,Risk-aware rule,8.354650178770921,0.0,0,35.89588774655415,False,0,1.7687466668668168
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.5,2,RL agent (MaskablePPO),9.812786069569093,0.0,0,24.70780628001748,False,0,1.7687466668668168
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.5,2,Oracle one-step lookahead,7.311200529108447,0.0,0,43.902137205418065,False,0,1.7687466668668168
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.8,0,Keep planned route,18.516782252160368,0.0,0,0.0,False,4,2.0839551284953477
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.8,0,Nearest hub (greedy rule),11.199225014849935,0.0,0,39.51851427348662,False,4,2.0839551284953477
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.8,0,Risk-aware rule,9.031566568292723,0.0,0,51.22496746302127,True,4,2.0839551284953477
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.8,0,RL agent (MaskablePPO),8.93277420489377,0.0,0,51.75849624817198,True,4,2.0839551284953477
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.8,0,Oracle one-step lookahead,8.606137508868263,0.0,0,53.52249979683064,True,4,2.0839551284953477
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.8,1,Keep planned route,18.364351414135673,0.0,0,0.0,False,4,2.0839551284953477
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.8,1,Nearest hub (greedy rule),10.60539933756845,0.0,0,42.2500740788204,False,4,2.0839551284953477
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.8,1,Risk-aware rule,8.968544656629721,0.0,0,51.16329210665004,True,4,2.0839551284953477
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.8,1,RL agent (MaskablePPO),11.088650323343241,0.0,0,39.6186117697142,False,4,2.0839551284953477
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.8,1,Oracle one-step lookahead,8.369034200000055,0.0,0,54.42782589338754,True,4,2.0839551284953477
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.8,2,Keep planned route,20.65974474170069,0.0,0,0.0,False,4,2.0839551284953477
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.8,2,Nearest hub (greedy rule),10.992191684762211,0.0,0,46.79415538675554,False,4,2.0839551284953477
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.8,2,Risk-aware rule,9.503937069129304,0.0,0,53.99780012796543,True,4,2.0839551284953477
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.8,2,RL agent (MaskablePPO),11.540344039148895,0.0,0,44.14091663071096,False,4,2.0839551284953477
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,0.8,2,Oracle one-step lookahead,8.780213182879962,0.0,0,57.50086318754206,True,4,2.0839551284953477
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,1.0,0,Keep planned route,23.086077384362184,0.0,0,0.0,False,5,2.324218938913554
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,1.0,0,Nearest hub (greedy rule),12.599620773796675,0.0,0,45.42329316486101,False,5,2.324218938913554
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,1.0,0,Risk-aware rule,10.069127889220129,0.0,0,56.38441420091291,True,5,2.324218938913554
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,1.0,0,RL agent (MaskablePPO),9.871864357586682,0.0,0,57.238883881271285,True,5,2.324218938913554
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,1.0,0,Oracle one-step lookahead,9.343317985586742,0.0,0,59.52834329527274,True,5,2.324218938913554
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,1.0,1,Keep planned route,22.911199385041467,0.0,0,0.0,False,5,2.324218938913554
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,1.0,1,Nearest hub (greedy rule),11.941487501222465,0.0,0,47.87925633863165,False,5,2.324218938913554
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,1.0,1,Risk-aware rule,9.971346099452045,0.0,0,56.47828849168737,True,5,2.324218938913554
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,1.0,1,RL agent (MaskablePPO),12.533208860487047,0.0,0,45.29658334399606,False,5,2.324218938913554
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,1.0,1,Oracle one-step lookahead,8.715477412559263,0.0,0,61.95975048670073,True,5,2.324218938913554
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,1.0,2,Keep planned route,25.778059587606034,0.0,0,0.0,False,5,2.324218938913554
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,1.0,2,Nearest hub (greedy rule),12.44760206989405,0.0,0,51.712416415241755,True,5,2.324218938913554
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,1.0,2,Risk-aware rule,10.969241387661157,0.0,0,57.447373607068876,True,5,2.324218938913554
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,1.0,2,RL agent (MaskablePPO),12.709007650608946,0.0,0,50.69835412778946,True,5,2.324218938913554
+Bengaluru_KGAirprt_HB (Karnataka),Karnataka,test,1.0,2,Oracle one-step lookahead,9.579371582183715,0.0,0,62.83905097810608,True,5,2.324218938913554
+Mumbai Hub (Maharashtra),Maharashtra,test,0.5,0,Keep planned route,13.862730997904915,0.0,0,0.0,False,3,1.541417804346595
+Mumbai Hub (Maharashtra),Maharashtra,test,0.5,0,Nearest hub (greedy rule),13.313353325425368,0.0,0,3.962982997813167,False,3,1.541417804346595
+Mumbai Hub (Maharashtra),Maharashtra,test,0.5,0,Risk-aware rule,10.444859653938611,0.0,0,24.655108322327326,False,3,1.541417804346595
+Mumbai Hub (Maharashtra),Maharashtra,test,0.5,0,RL agent (MaskablePPO),11.586942649986952,0.0,0,16.416594596417582,False,3,1.541417804346595
+Mumbai Hub (Maharashtra),Maharashtra,test,0.5,0,Oracle one-step lookahead,10.203896231342203,0.0,0,26.39331865500149,False,3,1.541417804346595
+Mumbai Hub (Maharashtra),Maharashtra,test,0.5,1,Keep planned route,13.114111158308624,0.0,0,0.0,False,3,1.541417804346595
+Mumbai Hub (Maharashtra),Maharashtra,test,0.5,1,Nearest hub (greedy rule),13.297884912698407,0.0,0,-1.4013435769404066,False,3,1.541417804346595
+Mumbai Hub (Maharashtra),Maharashtra,test,0.5,1,Risk-aware rule,10.213130118636478,0.0,0,22.121064894544453,False,3,1.541417804346595
+Mumbai Hub (Maharashtra),Maharashtra,test,0.5,1,RL agent (MaskablePPO),11.97390671329741,0.0,0,8.694485133205708,False,3,1.541417804346595
+Mumbai Hub (Maharashtra),Maharashtra,test,0.5,1,Oracle one-step lookahead,9.682460508152431,0.0,0,26.167619053480603,False,3,1.541417804346595
+Mumbai Hub (Maharashtra),Maharashtra,test,0.5,2,Keep planned route,14.18017196741117,0.0,0,0.0,False,3,1.541417804346595
+Mumbai Hub (Maharashtra),Maharashtra,test,0.5,2,Nearest hub (greedy rule),12.481534790542177,0.0,0,11.978960345282097,False,3,1.541417804346595
+Mumbai Hub (Maharashtra),Maharashtra,test,0.5,2,Risk-aware rule,10.41336102142747,0.0,0,26.56392993428129,False,3,1.541417804346595
+Mumbai Hub (Maharashtra),Maharashtra,test,0.5,2,RL agent (MaskablePPO),12.70861115316331,0.0,0,10.377594980017136,False,3,1.541417804346595
+Mumbai Hub (Maharashtra),Maharashtra,test,0.5,2,Oracle one-step lookahead,9.913365037455982,0.0,0,30.089951939660185,False,3,1.541417804346595
+Mumbai Hub (Maharashtra),Maharashtra,test,0.8,0,Keep planned route,21.208890835610678,0.0,0,0.0,False,5,1.8157563245252555
+Mumbai Hub (Maharashtra),Maharashtra,test,0.8,0,Nearest hub (greedy rule),15.46979993333299,0.0,0,27.059835173659803,False,5,1.8157563245252555
+Mumbai Hub (Maharashtra),Maharashtra,test,0.8,0,Risk-aware rule,12.891204652983113,0.0,0,39.217921611731796,False,5,1.8157563245252555
+Mumbai Hub (Maharashtra),Maharashtra,test,0.8,0,RL agent (MaskablePPO),13.969367546697839,0.0,0,34.1343795157706,False,5,1.8157563245252555
+Mumbai Hub (Maharashtra),Maharashtra,test,0.8,0,Oracle one-step lookahead,12.57380637166786,0.0,0,40.71445570102197,False,5,1.8157563245252555
+Mumbai Hub (Maharashtra),Maharashtra,test,0.8,1,Keep planned route,20.161980985096676,0.0,0,0.0,False,5,1.8157563245252555
+Mumbai Hub (Maharashtra),Maharashtra,test,0.8,1,Nearest hub (greedy rule),15.473243760475455,0.0,0,23.255339979176846,False,5,1.8157563245252555
+Mumbai Hub (Maharashtra),Maharashtra,test,0.8,1,Risk-aware rule,12.22117038993705,0.0,0,39.385071343085336,False,5,1.8157563245252555
+Mumbai Hub (Maharashtra),Maharashtra,test,0.8,1,RL agent (MaskablePPO),14.384101475057953,0.0,0,28.657300660632572,False,5,1.8157563245252555
+Mumbai Hub (Maharashtra),Maharashtra,test,0.8,1,Oracle one-step lookahead,11.885681752739899,0.0,0,41.049037981309716,False,5,1.8157563245252555
+Mumbai Hub (Maharashtra),Maharashtra,test,0.8,2,Keep planned route,22.04481263774891,0.0,0,0.0,False,5,1.8157563245252555
+Mumbai Hub (Maharashtra),Maharashtra,test,0.8,2,Nearest hub (greedy rule),14.622996033774271,0.0,0,33.666952520457045,False,5,1.8157563245252555
+Mumbai Hub (Maharashtra),Maharashtra,test,0.8,2,Risk-aware rule,12.23115571683973,0.0,0,44.51685338483918,False,5,1.8157563245252555
+Mumbai Hub (Maharashtra),Maharashtra,test,0.8,2,RL agent (MaskablePPO),15.03559486667909,0.0,0,31.795315688314968,False,5,1.8157563245252555
+Mumbai Hub (Maharashtra),Maharashtra,test,0.8,2,Oracle one-step lookahead,11.917544997985367,0.0,0,45.939458893027286,False,5,1.8157563245252555
+Mumbai Hub (Maharashtra),Maharashtra,test,1.0,0,Keep planned route,26.221920828232722,0.0,0,0.0,False,9,2.0137144195282692
+Mumbai Hub (Maharashtra),Maharashtra,test,1.0,0,Nearest hub (greedy rule),16.939072713751376,0.0,0,35.40109885652104,False,9,2.0137144195282692
+Mumbai Hub (Maharashtra),Maharashtra,test,1.0,0,Risk-aware rule,14.239065130792348,0.0,0,45.69785629334456,False,9,2.0137144195282692
+Mumbai Hub (Maharashtra),Maharashtra,test,1.0,0,RL agent (MaskablePPO),15.974622749456582,0.0,0,39.07912828316924,False,9,2.0137144195282692
+Mumbai Hub (Maharashtra),Maharashtra,test,1.0,0,Oracle one-step lookahead,13.997830859849227,0.0,0,46.61782807010085,False,9,2.0137144195282692
+Mumbai Hub (Maharashtra),Maharashtra,test,1.0,1,Keep planned route,24.89364331773369,0.0,0,0.0,False,9,2.0137144195282692
+Mumbai Hub (Maharashtra),Maharashtra,test,1.0,1,Nearest hub (greedy rule),17.00002332469716,0.0,0,31.709380150929082,False,9,2.0137144195282692
+Mumbai Hub (Maharashtra),Maharashtra,test,1.0,1,Risk-aware rule,13.449637762708186,0.0,0,45.97159768442992,False,9,2.0137144195282692
+Mumbai Hub (Maharashtra),Maharashtra,test,1.0,1,RL agent (MaskablePPO),17.079579368295597,0.0,0,31.38979638175953,False,9,2.0137144195282692
+Mumbai Hub (Maharashtra),Maharashtra,test,1.0,1,Oracle one-step lookahead,12.946567244981075,0.0,0,47.992477116605016,False,9,2.0137144195282692
+Mumbai Hub (Maharashtra),Maharashtra,test,1.0,2,Keep planned route,27.246820467440536,0.0,0,0.0,False,9,2.0137144195282692
+Mumbai Hub (Maharashtra),Maharashtra,test,1.0,2,Nearest hub (greedy rule),16.120758691972938,0.0,0,40.83434905281165,False,9,2.0137144195282692
+Mumbai Hub (Maharashtra),Maharashtra,test,1.0,2,Risk-aware rule,14.08218260118393,0.0,0,48.31623521719943,False,9,2.0137144195282692
+Mumbai Hub (Maharashtra),Maharashtra,test,1.0,2,RL agent (MaskablePPO),17.23588533507047,0.0,0,36.741663653316735,False,9,2.0137144195282692
+Mumbai Hub (Maharashtra),Maharashtra,test,1.0,2,Oracle one-step lookahead,12.76752955648167,0.0,0,53.14121303900894,True,9,2.0137144195282692
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.5,0,Keep planned route,17.063069814547678,0.0,0,0.0,False,16,1.492429732828752
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.5,0,Nearest hub (greedy rule),15.40877606908921,0.0,0,9.695170701628644,False,16,1.492429732828752
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.5,0,Risk-aware rule,11.762523782097905,0.0,0,31.064433833181763,False,16,1.492429732828752
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.5,0,RL agent (MaskablePPO),15.614975978238927,0.0,0,8.486713422892583,False,16,1.492429732828752
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.5,0,Oracle one-step lookahead,10.507365183451956,0.0,0,38.42042904557796,False,16,1.492429732828752
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.5,1,Keep planned route,17.130539605078337,0.0,0,0.0,False,16,1.492429732828752
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.5,1,Nearest hub (greedy rule),14.83135360461095,0.0,0,13.421562037577582,False,16,1.492429732828752
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.5,1,Risk-aware rule,11.641266702043009,0.0,0,32.04378279717492,False,16,1.492429732828752
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.5,1,RL agent (MaskablePPO),15.916518128516184,0.0,0,7.086884036053695,False,16,1.492429732828752
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.5,1,Oracle one-step lookahead,11.155095426031142,0.0,0,34.881821103147146,False,16,1.492429732828752
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.5,2,Keep planned route,18.495592634741588,0.0,0,0.0,False,16,1.492429732828752
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.5,2,Nearest hub (greedy rule),15.188997169685425,0.0,0,17.877748122788717,False,16,1.492429732828752
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.5,2,Risk-aware rule,11.542135876060062,0.0,0,37.59520928040096,False,16,1.492429732828752
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.5,2,RL agent (MaskablePPO),17.90448353077929,0.0,0,3.1959457349421383,False,16,1.492429732828752
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.5,2,Oracle one-step lookahead,11.542135876060062,0.0,0,37.59520928040096,False,16,1.492429732828752
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.8,0,Keep planned route,26.004428021279633,0.0,0,0.0,False,19,1.7354257898908703
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.8,0,Nearest hub (greedy rule),17.146310194735168,0.0,0,34.06388257913535,False,19,1.7354257898908703
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.8,0,Risk-aware rule,14.461367426915128,0.0,0,44.388827106363294,False,19,1.7354257898908703
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.8,0,RL agent (MaskablePPO),20.317622435203287,0.0,0,21.868604767706433,False,19,1.7354257898908703
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.8,0,Oracle one-step lookahead,12.832677911724733,0.0,0,50.65195088611967,True,19,1.7354257898908703
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.8,1,Keep planned route,26.254572914532414,0.0,0,0.0,False,19,1.7354257898908703
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.8,1,Nearest hub (greedy rule),16.8927525359553,0.0,0,35.65786580895081,False,19,1.7354257898908703
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.8,1,Risk-aware rule,14.071909660931322,0.0,0,46.40206219792573,False,19,1.7354257898908703
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.8,1,RL agent (MaskablePPO),20.98973828238986,0.0,0,20.05301952266138,False,19,1.7354257898908703
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.8,1,Oracle one-step lookahead,13.7185078395237,0.0,0,47.748120359138504,False,19,1.7354257898908703
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.8,2,Keep planned route,28.474320552927853,0.0,0,0.0,False,19,1.7354257898908703
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.8,2,Nearest hub (greedy rule),17.119571205329944,0.0,0,39.87715642412534,False,19,1.7354257898908703
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.8,2,Risk-aware rule,15.048653666694424,0.0,0,47.15008690471789,False,19,1.7354257898908703
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.8,2,RL agent (MaskablePPO),22.03923698112143,0.0,0,22.599603596668576,False,19,1.7354257898908703
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,0.8,2,Oracle one-step lookahead,13.781153763053322,0.0,0,51.601465828001,True,19,1.7354257898908703
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,1.0,0,Keep planned route,31.57368264616486,0.0,0,0.0,False,24,1.8626576541196629
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,1.0,0,Nearest hub (greedy rule),18.358393327796893,0.0,0,41.85539414729368,False,24,1.8626576541196629
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,1.0,0,Risk-aware rule,16.257167207250962,0.0,0,48.510386357399895,False,24,1.8626576541196629
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,1.0,0,RL agent (MaskablePPO),22.880516832314083,0.0,0,27.53294859922431,False,24,1.8626576541196629
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,1.0,0,Oracle one-step lookahead,14.16922346913233,0.0,0,55.12331067642053,True,24,1.8626576541196629
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,1.0,1,Keep planned route,31.912706687166764,0.0,0,0.0,False,24,1.8626576541196629
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,1.0,1,Nearest hub (greedy rule),18.366955415225217,0.0,0,42.44626256471306,False,24,1.8626576541196629
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,1.0,1,Risk-aware rule,15.969350330993638,0.0,0,49.959273315367255,False,24,1.8626576541196629
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,1.0,1,RL agent (MaskablePPO),23.280430187409745,0.0,0,27.049653244324663,False,24,1.8626576541196629
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,1.0,1,Oracle one-step lookahead,15.175171488339192,0.0,0,52.44787088385183,True,24,1.8626576541196629
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,1.0,2,Keep planned route,34.80134857667312,0.0,0,0.0,False,24,1.8626576541196629
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,1.0,2,Nearest hub (greedy rule),18.713715358924926,0.0,0,46.22703968584574,False,24,1.8626576541196629
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,1.0,2,Risk-aware rule,15.901851819313539,0.0,0,54.30679422011727,True,24,1.8626576541196629
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,1.0,2,RL agent (MaskablePPO),23.951860513734548,0.0,0,31.17548171742643,False,24,1.8626576541196629
+Kolkata_Dankuni_HB (West Bengal),West Bengal,test,1.0,2,Oracle one-step lookahead,15.009649711149688,0.0,0,56.87049403249144,True,24,1.8626576541196629
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.5,0,Keep planned route,12.714992760722609,0.0,0,0.0,False,14,1.177212578737551
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.5,0,Nearest hub (greedy rule),8.065906615064563,0.0,0,36.56381276141468,False,14,1.177212578737551
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.5,0,Risk-aware rule,6.999955954521781,0.034193724393844604,0,44.94722815615693,False,14,1.177212578737551
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.5,0,RL agent (MaskablePPO),6.56358370038123,0.0,0,48.37917862874023,False,14,1.177212578737551
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.5,0,Oracle one-step lookahead,5.8601328986503916,0.034193724393844604,0,53.91163008167255,True,14,1.177212578737551
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.5,1,Keep planned route,12.426297207730258,0.0,0,0.0,False,14,1.177212578737551
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.5,1,Nearest hub (greedy rule),7.4231422228346275,0.0,0,40.262637383107375,False,14,1.177212578737551
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.5,1,Risk-aware rule,6.504416751230636,0.034193724393844604,0,47.656034275565915,False,14,1.177212578737551
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.5,1,RL agent (MaskablePPO),8.3246335625916,0.0,0,33.00793129740257,False,14,1.177212578737551
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.5,1,Oracle one-step lookahead,5.396449351969835,0.034193724393844604,0,56.57234603552886,True,14,1.177212578737551
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.5,2,Keep planned route,14.216021546089763,0.0,0,0.0,False,14,1.177212578737551
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.5,2,Nearest hub (greedy rule),7.135785163812329,0.0,0,49.80462613483385,False,14,1.177212578737551
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.5,2,Risk-aware rule,5.787263330524084,0.06838744878768921,0,59.290555998658284,True,14,1.177212578737551
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.5,2,RL agent (MaskablePPO),8.574926269554055,0.0,0,39.681251595228055,False,14,1.177212578737551
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.5,2,Oracle one-step lookahead,5.279119027172243,0.034193724393844604,0,62.86500403747412,True,14,1.177212578737551
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.8,0,Keep planned route,20.150031888651498,0.0,0,0.0,False,21,1.4778995610845167
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.8,0,Nearest hub (greedy rule),10.067953077709703,0.0,0,50.03505139175498,True,21,1.4778995610845167
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.8,0,Risk-aware rule,8.739909036775316,0.06838744878768921,0,56.6258302464641,True,21,1.4778995610845167
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.8,0,RL agent (MaskablePPO),9.436154084996915,0.0,0,53.17052530169265,True,21,1.4778995610845167
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.8,0,Oracle one-step lookahead,7.676602032121153,0.034193724393844604,0,61.902779734832,True,21,1.4778995610845167
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.8,1,Keep planned route,19.673911612720886,0.0,0,0.0,False,21,1.4778995610845167
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.8,1,Nearest hub (greedy rule),9.327178515516735,0.0,0,52.59113337946528,True,21,1.4778995610845167
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.8,1,Risk-aware rule,7.196891701798393,0.06838744878768921,0,63.41911134161556,True,21,1.4778995610845167
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.8,1,RL agent (MaskablePPO),11.369386204316655,0.0,0,42.21085044945834,False,21,1.4778995610845167
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.8,1,Oracle one-step lookahead,6.814545134286718,0.06838744878768921,0,65.36253050013437,True,21,1.4778995610845167
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.8,2,Keep planned route,22.343968808832358,0.0,0,0.0,False,21,1.4778995610845167
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.8,2,Nearest hub (greedy rule),8.992996961000046,0.0,0,59.752016134907954,True,21,1.4778995610845167
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.8,2,Risk-aware rule,7.440771949247903,0.034193724393844604,0,66.69896913610694,True,21,1.4778995610845167
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.8,2,RL agent (MaskablePPO),11.076909102120837,0.0,0,50.42550767551089,True,21,1.4778995610845167
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,0.8,2,Oracle one-step lookahead,6.52439292670951,0.034193724393844604,0,70.8002057175694,True,21,1.4778995610845167
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,1.0,0,Keep planned route,25.19982302507715,0.0,0,0.0,False,22,1.666592271831925
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,1.0,0,Nearest hub (greedy rule),11.562212507184384,0.0,0,54.11788211497178,True,22,1.666592271831925
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,1.0,0,Risk-aware rule,10.029201688190184,0.06838744878768921,0,60.20130110354424,True,22,1.666592271831925
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,1.0,0,RL agent (MaskablePPO),11.959115340526111,0.0,0,52.5428598104629,True,22,1.666592271831925
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,1.0,0,Oracle one-step lookahead,8.928001719475219,0.06838744878768921,0,64.57117293803739,True,22,1.666592271831925
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,1.0,1,Keep planned route,24.552382227892153,0.0,0,0.0,False,22,1.666592271831925
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,1.0,1,Nearest hub (greedy rule),10.743780386967458,0.0,0,56.2413932495632,True,22,1.666592271831925
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,1.0,1,Risk-aware rule,8.316126243601985,0.06838744878768921,0,66.12904537566767,True,22,1.666592271831925
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,1.0,1,RL agent (MaskablePPO),13.426546123994157,0.0,0,45.31469085414756,False,22,1.666592271831925
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,1.0,1,Oracle one-step lookahead,7.790749465988739,0.06838744878768921,0,68.2688653439981,True,22,1.666592271831925
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,1.0,2,Keep planned route,27.87582042885643,0.0,0,0.0,False,22,1.666592271831925
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,1.0,2,Nearest hub (greedy rule),10.416753400983907,0.0,0,62.63158091590834,True,22,1.666592271831925
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,1.0,2,Risk-aware rule,7.95872840111835,0.06838744878768921,0,71.44934829297561,True,22,1.666592271831925
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,1.0,2,RL agent (MaskablePPO),11.62750424898509,0.0,0,58.288207951904596,True,22,1.666592271831925
+Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,test,1.0,2,Oracle one-step lookahead,7.690385172781021,0.034193724393844604,0,72.41198625020519,True,22,1.666592271831925
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.5,0,Keep planned route,15.87785440495092,0.0,0,0.0,False,15,1.293505051239599
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.5,0,Nearest hub (greedy rule),10.817978530603632,0.0,0,31.86750391645834,False,15,1.293505051239599
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.5,0,Risk-aware rule,8.231143978103644,0.0,0,48.15959531952209,False,15,1.293505051239599
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.5,0,RL agent (MaskablePPO),10.404495350048277,0.0,0,34.47165413732462,False,15,1.293505051239599
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.5,0,Oracle one-step lookahead,7.43458781766921,0.0,0,53.176369879352144,True,15,1.293505051239599
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.5,1,Keep planned route,16.21841557528301,0.0,0,0.0,False,15,1.293505051239599
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.5,1,Nearest hub (greedy rule),10.035351751528117,0.0,0,38.12372296821602,False,15,1.293505051239599
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.5,1,Risk-aware rule,8.916826341558703,0.0,0,45.02036095839094,False,15,1.293505051239599
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.5,1,RL agent (MaskablePPO),10.910731328149561,0.0,0,32.72628095202099,False,15,1.293505051239599
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.5,1,Oracle one-step lookahead,7.783710298646083,0.0,0,52.00696231690772,True,15,1.293505051239599
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.5,2,Keep planned route,17.70198857870114,0.0,0,0.0,False,15,1.293505051239599
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.5,2,Nearest hub (greedy rule),10.10027302468298,0.0,0,42.94272092777458,False,15,1.293505051239599
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.5,2,Risk-aware rule,9.434450121304353,0.0,0,46.704009668971366,False,15,1.293505051239599
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.5,2,RL agent (MaskablePPO),12.030791523710727,0.0,0,32.03706199321551,False,15,1.293505051239599
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.5,2,Oracle one-step lookahead,8.352853217549612,0.0,0,52.81404018303524,True,15,1.293505051239599
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.8,0,Keep planned route,24.886876440214763,0.0,0,0.0,False,21,1.710033283356922
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.8,0,Nearest hub (greedy rule),12.47481689997314,0.0,0,49.8739147520536,False,21,1.710033283356922
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.8,0,Risk-aware rule,10.535503056362645,0.0,0,57.66643081275439,True,21,1.710033283356922
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.8,0,RL agent (MaskablePPO),13.487784126102293,0.0,0,45.803628034624104,False,21,1.710033283356922
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.8,0,Oracle one-step lookahead,8.854924088054231,0.0,0,64.41930304381012,True,21,1.710033283356922
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.8,1,Keep planned route,25.31017565577386,0.0,0,0.0,False,21,1.710033283356922
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.8,1,Nearest hub (greedy rule),11.578800409815642,0.0,0,54.25239015607449,True,21,1.710033283356922
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.8,1,Risk-aware rule,11.075346991037149,0.0,0,56.24152458811326,True,21,1.710033283356922
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.8,1,RL agent (MaskablePPO),14.126499420411857,0.0,0,44.18648209899222,False,21,1.710033283356922
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.8,1,Oracle one-step lookahead,9.488709981259063,0.0,0,62.51029581813882,True,21,1.710033283356922
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.8,2,Keep planned route,27.417882996978957,0.0,0,0.0,False,21,1.710033283356922
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.8,2,Nearest hub (greedy rule),11.673795691773078,0.0,0,57.42269491390215,True,21,1.710033283356922
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.8,2,Risk-aware rule,10.836745984917542,0.0,0,60.475628311231794,True,21,1.710033283356922
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.8,2,RL agent (MaskablePPO),14.076109949948117,0.0,0,48.6608431748757,False,21,1.710033283356922
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,0.8,2,Oracle one-step lookahead,9.981175540157116,0.0,0,63.59611155515949,True,21,1.710033283356922
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,1.0,0,Keep planned route,30.715282174159647,0.0,0,0.0,False,22,1.8869708655808788
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,1.0,0,Nearest hub (greedy rule),13.607105220832413,0.0,0,55.69923419984112,True,22,1.8869708655808788
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,1.0,0,Risk-aware rule,11.667997206184829,0.0,0,62.012404313833855,True,22,1.8869708655808788
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,1.0,0,RL agent (MaskablePPO),15.635488304308538,0.0,0,49.09541050069707,False,22,1.8869708655808788
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,1.0,0,Oracle one-step lookahead,9.797433476977876,0.0,0,68.10241422681663,True,22,1.8869708655808788
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,1.0,1,Keep planned route,31.35015080185182,0.0,0,0.0,False,22,1.8869708655808788
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,1.0,1,Nearest hub (greedy rule),12.622317602020436,0.0,0,59.737617589785735,True,22,1.8869708655808788
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,1.0,1,Risk-aware rule,12.123251274453995,0.0,0,61.32952804253214,True,22,1.8869708655808788
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,1.0,1,RL agent (MaskablePPO),16.514988390749505,0.0,0,47.320864594456815,False,22,1.8869708655808788
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,1.0,1,Oracle one-step lookahead,10.608362316236905,0.0,0,66.16168648346573,True,22,1.8869708655808788
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,1.0,2,Keep planned route,33.48122519029007,0.0,0,0.0,False,22,1.8869708655808788
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,1.0,2,Nearest hub (greedy rule),12.765504820788681,0.0,0,61.87264728743911,True,22,1.8869708655808788
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,1.0,2,Risk-aware rule,11.900911252232355,0.0,0,64.45497085428119,True,22,1.8869708655808788
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,1.0,2,RL agent (MaskablePPO),15.152968809425811,0.0,0,54.74189273748458,True,22,1.8869708655808788
+Muzaffrpur_Bbganj_I (Bihar),Bihar,test,1.0,2,Oracle one-step lookahead,11.053813408084666,0.0,0,66.98503909202704,True,22,1.8869708655808788
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.5,0,Keep planned route,12.687685150012156,0.0,0,0.0,False,1,0.6568532770049601
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.5,0,Nearest hub (greedy rule),9.703560435314525,0.0,0,23.519851567996792,False,1,0.6568532770049601
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.5,0,Risk-aware rule,8.33540840221307,0.0,0,34.30315850637984,False,1,0.6568532770049601
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.5,0,RL agent (MaskablePPO),9.514510547190216,0.0,0,25.009878203187437,False,1,0.6568532770049601
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.5,0,Oracle one-step lookahead,8.197411277434636,0.0,0,35.39080470146453,False,1,0.6568532770049601
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.5,1,Keep planned route,12.664342956798512,0.0,0,0.0,False,1,0.6568532770049601
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.5,1,Nearest hub (greedy rule),9.66937665826443,0.0,0,23.64880917036691,False,1,0.6568532770049601
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.5,1,Risk-aware rule,8.49594233785445,0.0,0,32.91446412311796,False,1,0.6568532770049601
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.5,1,RL agent (MaskablePPO),10.235964515862985,0.0,0,19.174926399414325,False,1,0.6568532770049601
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.5,1,Oracle one-step lookahead,8.133268642284479,0.0,0,35.77820286429978,False,1,0.6568532770049601
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.5,2,Keep planned route,14.000079942608005,0.0,0,0.0,False,1,0.6568532770049601
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.5,2,Nearest hub (greedy rule),9.692294093329572,0.0,0,30.76972322256581,False,1,0.6568532770049601
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.5,2,Risk-aware rule,9.502538319291173,0.0,0,32.1251138690213,False,1,0.6568532770049601
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.5,2,RL agent (MaskablePPO),10.43016208289805,0.0,0,25.499267678073938,False,1,0.6568532770049601
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.5,2,Oracle one-step lookahead,8.559104368813568,0.0,0,38.86388932134101,False,1,0.6568532770049601
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.8,0,Keep planned route,20.142142923839543,0.0,0,0.0,False,2,0.82805163054872
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.8,0,Nearest hub (greedy rule),11.241372505366357,0.0,0,44.189788803149355,False,2,0.82805163054872
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.8,0,Risk-aware rule,10.725295731884227,0.0,0,46.751962924510195,False,2,0.82805163054872
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.8,0,RL agent (MaskablePPO),11.27779715482144,0.0,0,44.0089507980135,False,2,0.82805163054872
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.8,0,Oracle one-step lookahead,10.153714130626385,0.0,0,49.58970269936472,False,2,0.82805163054872
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.8,1,Keep planned route,20.131967900685055,0.0,0,0.0,False,2,0.82805163054872
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.8,1,Nearest hub (greedy rule),11.183316472037266,0.0,0,44.44995875610989,False,2,0.82805163054872
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.8,1,Risk-aware rule,10.836268464817557,0.0,0,46.17382404802653,False,2,0.82805163054872
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.8,1,RL agent (MaskablePPO),12.52722158259713,0.0,0,37.774480644930634,False,2,0.82805163054872
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.8,1,Oracle one-step lookahead,10.501618457314503,0.0,0,47.83610569457966,False,2,0.82805163054872
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.8,2,Keep planned route,22.264229955457253,0.0,0,0.0,False,2,0.82805163054872
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.8,2,Nearest hub (greedy rule),11.160919136165445,0.0,0,49.870625849200955,False,2,0.82805163054872
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.8,2,Risk-aware rule,11.488067469029335,0.0,0,48.40123600945174,False,2,0.82805163054872
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.8,2,RL agent (MaskablePPO),12.257588306526237,0.0,0,44.94492586966053,False,2,0.82805163054872
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,0.8,2,Oracle one-step lookahead,10.635328923972159,0.10750192403793335,0,52.23131927199081,True,2,0.82805163054872
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,1.0,0,Keep planned route,25.121437450458174,0.0,0,0.0,False,3,0.9188496162910693
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,1.0,0,Nearest hub (greedy rule),12.218947092234641,0.0,0,51.360478012726986,True,3,0.9188496162910693
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,1.0,0,Risk-aware rule,11.7792416357466,0.0,0,53.11079766443952,True,3,0.9188496162910693
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,1.0,0,RL agent (MaskablePPO),13.182843148470852,0.0,0,47.52353174666597,False,3,0.9188496162910693
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,1.0,0,Oracle one-step lookahead,11.170585300817024,0.0,0,55.533653984385,True,3,0.9188496162910693
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,1.0,1,Keep planned route,25.12550538590995,0.0,0,0.0,False,3,0.9188496162910693
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,1.0,1,Nearest hub (greedy rule),12.14216664121909,0.0,0,51.6739406641816,True,3,0.9188496162910693
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,1.0,1,Risk-aware rule,12.200653287761503,0.0,0,51.441162673673155,True,3,0.9188496162910693
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,1.0,1,RL agent (MaskablePPO),14.092128503723915,0.0,0,43.9130545345106,False,3,0.9188496162910693
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,1.0,1,Oracle one-step lookahead,11.28542774636802,0.10750192403793335,0,55.08377812492983,True,3,0.9188496162910693
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,1.0,2,Keep planned route,27.800860454368834,0.0,0,0.0,False,3,0.9188496162910693
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,1.0,2,Nearest hub (greedy rule),12.143089131870733,0.0,0,56.32117519599118,True,3,0.9188496162910693
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,1.0,2,Risk-aware rule,13.17282646583238,0.10750192403793335,0,52.61719871061651,True,3,0.9188496162910693
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,1.0,2,RL agent (MaskablePPO),13.426377363908497,0.0,0,51.70517334905519,True,3,0.9188496162910693
+Chennai_Hub (Tamil Nadu),Tamil Nadu,test,1.0,2,Oracle one-step lookahead,11.268409422920689,0.10750192403793335,0,59.4674077033832,True,3,0.9188496162910693
+Surat_HUB (Gujarat),Gujarat,test,0.5,0,Keep planned route,10.95977904359978,0.0,0,0.0,False,2,0.5743409266846333
+Surat_HUB (Gujarat),Gujarat,test,0.5,0,Nearest hub (greedy rule),7.841875668462137,0.0,0,28.44859702676594,False,2,0.5743409266846333
+Surat_HUB (Gujarat),Gujarat,test,0.5,0,Risk-aware rule,6.893941126020195,0.0,0,37.09780919309616,False,2,0.5743409266846333
+Surat_HUB (Gujarat),Gujarat,test,0.5,0,RL agent (MaskablePPO),11.487096022921492,0.8923229575157166,0,-4.811383306396581,False,2,0.5743409266846333
+Surat_HUB (Gujarat),Gujarat,test,0.5,0,Oracle one-step lookahead,6.522466005311912,0.0,0,40.48724906437909,False,2,0.5743409266846333
+Surat_HUB (Gujarat),Gujarat,test,0.5,1,Keep planned route,11.089261367353004,0.0,0,0.0,False,2,0.5743409266846333
+Surat_HUB (Gujarat),Gujarat,test,0.5,1,Nearest hub (greedy rule),8.140131537574234,0.0,0,26.594465871830415,False,2,0.5743409266846333
+Surat_HUB (Gujarat),Gujarat,test,0.5,1,Risk-aware rule,6.8342136376593885,0.009519042447209358,0,38.37088502774907,False,2,0.5743409266846333
+Surat_HUB (Gujarat),Gujarat,test,0.5,1,RL agent (MaskablePPO),7.6153327732808975,0.0,0,31.326961093183517,False,2,0.5743409266846333
+Surat_HUB (Gujarat),Gujarat,test,0.5,1,Oracle one-step lookahead,6.622057241963034,0.0011010741582140326,0,40.28405479323901,False,2,0.5743409266846333
+Surat_HUB (Gujarat),Gujarat,test,0.5,2,Keep planned route,12.513942573829581,0.0,0,0.0,False,2,0.5743409266846333
+Surat_HUB (Gujarat),Gujarat,test,0.5,2,Nearest hub (greedy rule),8.001461964351506,0.0,0,36.059623758503015,False,2,0.5743409266846333
+Surat_HUB (Gujarat),Gujarat,test,0.5,2,Risk-aware rule,7.6927623302051416,0.009519042447209358,0,38.526469297589536,False,2,0.5743409266846333
+Surat_HUB (Gujarat),Gujarat,test,0.5,2,RL agent (MaskablePPO),9.061408257365713,0.0,0,27.58950103929801,False,2,0.5743409266846333
+Surat_HUB (Gujarat),Gujarat,test,0.5,2,Oracle one-step lookahead,6.87326125836131,0.009519042447209358,0,45.07517340909517,False,2,0.5743409266846333
+Surat_HUB (Gujarat),Gujarat,test,0.8,0,Keep planned route,17.50523996667829,0.0,0,0.0,False,5,0.6666484158569819
+Surat_HUB (Gujarat),Gujarat,test,0.8,0,Nearest hub (greedy rule),8.535776218743194,0.0,0,51.2387363155759,True,5,0.6666484158569819
+Surat_HUB (Gujarat),Gujarat,test,0.8,0,Risk-aware rule,8.038581252624624,0.0,0,54.07899995700552,True,5,0.6666484158569819
+Surat_HUB (Gujarat),Gujarat,test,0.8,0,RL agent (MaskablePPO),16.20892586214245,1.784645915031433,0,7.405291826923872,False,5,0.6666484158569819
+Surat_HUB (Gujarat),Gujarat,test,0.8,0,Oracle one-step lookahead,7.513862205627902,0.0022021483164280653,0,57.07649698072836,True,5,0.6666484158569819
+Surat_HUB (Gujarat),Gujarat,test,0.8,1,Keep planned route,17.71991368220904,0.0,0,0.0,False,5,0.6666484158569819
+Surat_HUB (Gujarat),Gujarat,test,0.8,1,Nearest hub (greedy rule),8.969414144277778,0.0,0,49.38229211983604,False,5,0.6666484158569819
+Surat_HUB (Gujarat),Gujarat,test,0.8,1,Risk-aware rule,8.109326575170314,0.010620116256177425,0,54.2360830836769,True,5,0.6666484158569819
+Surat_HUB (Gujarat),Gujarat,test,0.8,1,RL agent (MaskablePPO),9.116813147103016,0.0,0,48.55046525279419,False,5,0.6666484158569819
+Surat_HUB (Gujarat),Gujarat,test,0.8,1,Oracle one-step lookahead,7.61213836250289,0.010620116256177425,0,57.041899305945556,True,5,0.6666484158569819
+Surat_HUB (Gujarat),Gujarat,test,0.8,2,Keep planned route,19.977759388643108,0.0,0,0.0,False,5,0.6666484158569819
+Surat_HUB (Gujarat),Gujarat,test,0.8,2,Nearest hub (greedy rule),8.761159875060173,0.0,0,56.14543300566184,True,5,0.6666484158569819
+Surat_HUB (Gujarat),Gujarat,test,0.8,2,Risk-aware rule,9.448998197852973,0.009519042447209358,0,52.70241264781421,True,5,0.6666484158569819
+Surat_HUB (Gujarat),Gujarat,test,0.8,2,RL agent (MaskablePPO),9.888230281930703,0.0,0,50.503807311084486,True,5,0.6666484158569819
+Surat_HUB (Gujarat),Gujarat,test,0.8,2,Oracle one-step lookahead,7.606330711342935,0.019038084894418716,0,61.92600699922857,True,5,0.6666484158569819
+Surat_HUB (Gujarat),Gujarat,test,1.0,0,Keep planned route,21.872402374654598,0.0,0,0.0,False,6,0.7321738427440628
+Surat_HUB (Gujarat),Gujarat,test,1.0,0,Nearest hub (greedy rule),9.044932910150237,0.0,0,58.64682463673325,True,6,0.7321738427440628
+Surat_HUB (Gujarat),Gujarat,test,1.0,0,Risk-aware rule,7.9566729554146605,0.0011010741582140326,0,63.62231811977485,True,6,0.7321738427440628
+Surat_HUB (Gujarat),Gujarat,test,1.0,0,RL agent (MaskablePPO),20.144948334495723,2.676968812942505,0,7.897870615989683,False,6,0.7321738427440628
+Surat_HUB (Gujarat),Gujarat,test,1.0,0,Oracle one-step lookahead,7.915790915572018,0.0022021483164280653,0,63.80922964024878,True,6,0.7321738427440628
+Surat_HUB (Gujarat),Gujarat,test,1.0,1,Keep planned route,22.13607610748653,0.0,0,0.0,False,6,0.7321738427440628
+Surat_HUB (Gujarat),Gujarat,test,1.0,1,Nearest hub (greedy rule),9.529362799495686,0.0,0,56.95098465860077,True,6,0.7321738427440628
+Surat_HUB (Gujarat),Gujarat,test,1.0,1,Risk-aware rule,8.913819170741704,0.010620116256177425,0,59.73171068142919,True,6,0.7321738427440628
+Surat_HUB (Gujarat),Gujarat,test,1.0,1,RL agent (MaskablePPO),10.536623262024932,0.0,0,52.40067295187247,True,6,0.7321738427440628
+Surat_HUB (Gujarat),Gujarat,test,1.0,1,Oracle one-step lookahead,8.422756059082019,0.009519042447209358,0,61.95009441518228,True,6,0.7321738427440628
+Surat_HUB (Gujarat),Gujarat,test,1.0,2,Keep planned route,24.9402281671546,0.0,0,0.0,False,6,0.7321738427440628
+Surat_HUB (Gujarat),Gujarat,test,1.0,2,Nearest hub (greedy rule),9.31657513411352,0.0,0,62.64438692512396,True,6,0.7321738427440628
+Surat_HUB (Gujarat),Gujarat,test,1.0,2,Risk-aware rule,9.859231446561125,0.009519042447209358,0,60.46855954772144,True,6,0.7321738427440628
+Surat_HUB (Gujarat),Gujarat,test,1.0,2,RL agent (MaskablePPO),10.635436893045494,0.0,0,57.35629673568108,True,6,0.7321738427440628
+Surat_HUB (Gujarat),Gujarat,test,1.0,2,Oracle one-step lookahead,8.041442770086803,0.019038084894418716,0,67.75714032689926,True,6,0.7321738427440628
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.5,0,Keep planned route,11.730234718923555,0.0,0,0.0,False,3,0.5010787284848714
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.5,0,Nearest hub (greedy rule),121.32637714691191,31.701719284057617,0,-934.3047692914847,False,3,0.5010787284848714
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.5,0,Risk-aware rule,11.501752180794142,0.013728026300668716,0,1.9478087489657645,False,3,0.5010787284848714
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.5,0,RL agent (MaskablePPO),11.730234718923555,0.0,0,0.0,False,3,0.5010787284848714
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.5,0,Oracle one-step lookahead,11.396278394303351,0.0056423950009047985,0,2.846970522094117,False,3,0.5010787284848714
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.5,1,Keep planned route,11.520747211011496,0.0,0,0.0,False,3,0.5010787284848714
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.5,1,Nearest hub (greedy rule),89.01738156957396,22.71662139892578,0,-672.6702091379229,False,3,0.5010787284848714
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.5,1,Risk-aware rule,9.343805858395513,0.019370421767234802,0,18.89583472967161,False,3,0.5010787284848714
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.5,1,RL agent (MaskablePPO),11.520747211011496,0.0,0,0.0,False,3,0.5010787284848714
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.5,1,Oracle one-step lookahead,9.356159473121465,0.016927184537053108,0,18.788605445844038,False,3,0.5010787284848714
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.5,2,Keep planned route,12.877432363283276,0.0,0,0.0,False,3,0.5010787284848714
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.5,2,Nearest hub (greedy rule),89.15297504259723,22.81928253173828,0,-592.3194976103642,False,3,0.5010787284848714
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.5,2,Risk-aware rule,9.711376506352906,0.025012817233800888,0,24.586080265174395,False,3,0.5010787284848714
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.5,2,RL agent (MaskablePPO),12.877432363283276,0.0,0,0.0,False,3,0.5010787284848714
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.5,2,Oracle one-step lookahead,9.280784823334045,0.03309844806790352,0,27.929849976957804,False,3,0.5010787284848714
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.8,0,Keep planned route,18.40992493285995,0.0,0,0.0,False,6,0.5966546399566772
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.8,0,Nearest hub (greedy rule),122.29035097388896,31.701719284057617,0,-564.2631701100117,False,6,0.5966546399566772
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.8,0,Risk-aware rule,17.151332855932253,0.019370421767234802,0,6.836486740264932,False,6,0.5966546399566772
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.8,0,RL agent (MaskablePPO),18.40992493285995,0.0,0,0.0,False,6,0.5966546399566772
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.8,0,Oracle one-step lookahead,17.043254708904215,0.016927184537053108,0,7.423551312348707,False,6,0.5966546399566772
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.8,1,Keep planned route,18.21480948439887,0.0,0,0.0,False,6,0.5966546399566772
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.8,1,Nearest hub (greedy rule),90.03677721757913,22.71662139892578,0,-394.30534694692443,False,6,0.5966546399566772
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.8,1,Risk-aware rule,13.327851135608057,0.030655212700366974,0,26.82958805018813,False,6,0.5966546399566772
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.8,1,RL agent (MaskablePPO),15.222773596311924,0.3316265940666199,0,16.426391341889403,False,6,0.5966546399566772
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.8,1,Oracle one-step lookahead,13.00611353593888,0.04118407890200615,0,28.595939764954885,False,6,0.5966546399566772
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.8,2,Keep planned route,20.41643983969601,0.0,0,0.0,False,6,0.5966546399566772
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.8,2,Nearest hub (greedy rule),90.27646084880911,22.81928253173828,0,-342.1753330043524,False,6,0.5966546399566772
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.8,2,Risk-aware rule,13.400718054827678,0.030655212700366974,0,34.363100716646755,False,6,0.5966546399566772
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.8,2,RL agent (MaskablePPO),18.002059560525424,0.16581329703330994,0,11.825667443137018,False,6,0.5966546399566772
+Bhubaneshwar_Hub (Orissa),Orissa,test,0.8,2,Oracle one-step lookahead,12.645482601042715,0.03309844806790352,0,38.06225424054638,False,6,0.5966546399566772
+Bhubaneshwar_Hub (Orissa),Orissa,test,1.0,0,Keep planned route,22.893792798329912,0.0,0,0.0,False,8,0.670520796363528
+Bhubaneshwar_Hub (Orissa),Orissa,test,1.0,0,Nearest hub (greedy rule),122.98738729982063,31.701719284057617,0,-437.2084406599176,False,8,0.670520796363528
+Bhubaneshwar_Hub (Orissa),Orissa,test,1.0,0,Risk-aware rule,20.775691664019064,0.019370421767234802,0,9.251857710817415,False,8,0.670520796363528
+Bhubaneshwar_Hub (Orissa),Orissa,test,1.0,0,RL agent (MaskablePPO),22.893792798329912,0.0,0,0.0,False,8,0.670520796363528
+Bhubaneshwar_Hub (Orissa),Orissa,test,1.0,0,Oracle one-step lookahead,20.66211938292497,0.016927184537053108,0,9.747941003326197,False,8,0.670520796363528
+Bhubaneshwar_Hub (Orissa),Orissa,test,1.0,1,Keep planned route,22.695036067182286,0.0,0,0.0,False,8,0.670520796363528
+Bhubaneshwar_Hub (Orissa),Orissa,test,1.0,1,Nearest hub (greedy rule),90.78416771741433,22.71662139892578,0,-300.0177283202956,False,8,0.670520796363528
+Bhubaneshwar_Hub (Orissa),Orissa,test,1.0,1,Risk-aware rule,15.727744530899542,0.03629760816693306,0,30.699627511752052,False,8,0.670520796363528
+Bhubaneshwar_Hub (Orissa),Orissa,test,1.0,1,RL agent (MaskablePPO),18.430102781442542,0.3316265940666199,0,18.79236178834264,False,8,0.670520796363528
+Bhubaneshwar_Hub (Orissa),Orissa,test,1.0,1,Oracle one-step lookahead,15.195806264235557,0.04118407890200615,0,33.04348043663541,False,8,0.670520796363528
+Bhubaneshwar_Hub (Orissa),Orissa,test,1.0,2,Keep planned route,25.461392191092898,0.0,0,0.0,False,8,0.670520796363528
+Bhubaneshwar_Hub (Orissa),Orissa,test,1.0,2,Nearest hub (greedy rule),91.06785363784513,22.81928253173828,0,-257.67036206960904,False,8,0.670520796363528
+Bhubaneshwar_Hub (Orissa),Orissa,test,1.0,2,Risk-aware rule,15.670177682341887,0.030655212700366974,0,38.45514194693663,False,8,0.670520796363528
+Bhubaneshwar_Hub (Orissa),Orissa,test,1.0,2,RL agent (MaskablePPO),19.89241406615895,0.3316265940666199,0,21.872245174724313,False,8,0.670520796363528
+Bhubaneshwar_Hub (Orissa),Orissa,test,1.0,2,Oracle one-step lookahead,14.91042415864024,0.03309844806790352,0,41.43908531499578,False,8,0.670520796363528
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.5,0,Keep planned route,12.796631401881363,0.0,0,0.0,False,3,0.3630406220767623
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.5,0,Nearest hub (greedy rule),39.1671047521922,9.032513618469238,0,-206.07355578307778,False,3,0.3630406220767623
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.5,0,Risk-aware rule,12.34629750481411,0.22897109389305115,0,3.519159714181068,False,3,0.3630406220767623
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.5,0,RL agent (MaskablePPO),12.531374909790827,0.28521987795829773,0,2.072861863095769,False,3,0.3630406220767623
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.5,0,Oracle one-step lookahead,12.34629750481411,0.22897109389305115,0,3.519159714181068,False,3,0.3630406220767623
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.5,1,Keep planned route,13.13032861258312,0.0,0,0.0,False,3,0.3630406220767623
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.5,1,Nearest hub (greedy rule),36.27181154323619,8.128303527832031,0,-176.24450699943648,False,3,0.3630406220767623
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.5,1,Risk-aware rule,11.363519416558937,0.4579421877861023,0,13.455940427347771,False,3,0.3630406220767623
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.5,1,RL agent (MaskablePPO),12.462252292238432,0.8556596040725708,0,5.0880396070548795,False,3,0.3630406220767623
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.5,1,Oracle one-step lookahead,11.363519416558937,0.4579421877861023,0,13.455940427347771,False,3,0.3630406220767623
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.5,2,Keep planned route,14.61277009731942,0.0,0,0.0,False,3,0.3630406220767623
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.5,2,Nearest hub (greedy rule),32.58022970090605,7.162686824798584,0,-122.95724550461928,False,3,0.3630406220767623
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.5,2,Risk-aware rule,13.880977261003714,0.22897109389305115,0,5.007899470408734,False,3,0.3630406220767623
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.5,2,RL agent (MaskablePPO),14.021122870957193,0.5704397559165955,0,4.0488368900757505,False,3,0.3630406220767623
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.5,2,Oracle one-step lookahead,13.880977261003714,0.22897109389305115,0,5.007899470408734,False,3,0.3630406220767623
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.8,0,Keep planned route,20.49669725116855,0.0,0,0.0,False,4,0.426421858749252
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.8,0,Nearest hub (greedy rule),40.2755821006229,9.032513618469238,0,-96.49791186883402,False,4,0.426421858749252
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.8,0,Risk-aware rule,17.66923979622421,0.8548152446746826,0,13.794697849592033,False,4,0.426421858749252
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.8,0,RL agent (MaskablePPO),18.025604711993324,0.9110640287399292,0,12.056052294153602,False,4,0.426421858749252
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.8,0,Oracle one-step lookahead,18.951870178201936,0.22897109389305115,0,7.53695609607806,False,4,0.426421858749252
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.8,1,Keep planned route,20.963823857398417,0.0,0,0.0,False,4,0.426421858749252
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.8,1,Nearest hub (greedy rule),37.48982201847435,8.128303527832031,0,-78.83102946051363,False,4,0.426421858749252
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.8,1,Risk-aware rule,16.20858375299415,0.7431620359420776,0,22.683076030168404,False,4,0.426421858749252
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.8,1,RL agent (MaskablePPO),17.276173719052885,0.8556596040725708,0,17.590541512988864,False,4,0.426421858749252
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.8,1,Oracle one-step lookahead,16.212011731549502,0.686913251876831,0,22.666724153818606,False,4,0.426421858749252
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.8,2,Keep planned route,23.35464308876059,0.0,0,0.0,False,4,0.426421858749252
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.8,2,Nearest hub (greedy rule),33.75668301035015,7.162686824798584,0,-44.53949427553247,False,4,0.426421858749252
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.8,2,Risk-aware rule,20.075752195541618,0.4579421877861023,0,14.039567553044456,False,4,0.426421858749252
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.8,2,RL agent (MaskablePPO),20.739392118080993,0.5704397559165955,0,11.19799159738898,False,4,0.426421858749252
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,0.8,2,Oracle one-step lookahead,19.60719784011949,0.686913251876831,0,16.04582538212522,False,4,0.426421858749252
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,1.0,0,Keep planned route,25.78775784592785,0.0,0,0.0,False,8,0.4874638295390769
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,1.0,0,Nearest hub (greedy rule),41.07948982195735,9.032513618469238,0,-59.29841619962405,False,8,0.4874638295390769
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,1.0,0,Risk-aware rule,21.071509709833975,0.8548152446746826,0,18.288709566266608,False,8,0.4874638295390769
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,1.0,0,RL agent (MaskablePPO),21.496890780210222,0.9110640287399292,0,16.639163014302927,False,8,0.4874638295390769
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,1.0,0,Oracle one-step lookahead,21.071509709833975,0.8548152446746826,0,18.288709566266608,False,8,0.4874638295390769
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,1.0,1,Keep planned route,26.2840944072748,0.0,0,0.0,False,8,0.4874638295390769
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,1.0,1,Nearest hub (greedy rule),38.38125106526416,8.128303527832031,0,-46.02462793864094,False,8,0.4874638295390769
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,1.0,1,Risk-aware rule,19.504344730978723,0.7431620359420776,0,25.794115525698338,False,8,0.4874638295390769
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,1.0,1,RL agent (MaskablePPO),21.55818874922611,1.3564037084579468,0,17.980096954531835,False,8,0.4874638295390769
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,1.0,1,Oracle one-step lookahead,19.38277851900012,0.686913251876831,0,26.256624182435456,False,8,0.4874638295390769
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,1.0,2,Keep planned route,29.252725857226302,0.0,0,0.0,False,8,0.4874638295390769
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,1.0,2,Nearest hub (greedy rule),34.643374174234005,7.162686824798584,0,-18.427849573122945,False,8,0.4874638295390769
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,1.0,2,Risk-aware rule,23.27092109977901,0.9721331596374512,0,20.44870890542875,False,8,0.4874638295390769
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,1.0,2,RL agent (MaskablePPO),25.206538137426655,0.5704397559165955,0,13.831831397688763,False,8,0.4874638295390769
+Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,test,1.0,2,Oracle one-step lookahead,23.270197038169464,0.9721331596374512,0,20.451184099067383,False,8,0.4874638295390769
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.5,0,Keep planned route,16.60364328434545,0.0,0,0.0,False,4,0.37672507594785387
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.5,0,Nearest hub (greedy rule),10.761645426935093,0.0,0,35.18503594279464,False,4,0.37672507594785387
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.5,0,Risk-aware rule,10.176838204808881,0.0,0,38.7071979894678,False,4,0.37672507594785387
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.5,0,RL agent (MaskablePPO),9.816432429123662,0.0,0,40.877840718374316,False,4,0.37672507594785387
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.5,0,Oracle one-step lookahead,9.943652685056314,0.0,0,40.11162180030951,False,4,0.37672507594785387
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.5,1,Keep planned route,16.59852568016175,0.0,0,0.0,False,4,0.37672507594785387
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.5,1,Nearest hub (greedy rule),9.635631537094984,0.0,0,41.94887110599641,False,4,0.37672507594785387
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.5,1,Risk-aware rule,9.140276794510594,0.0,0,44.933200871961276,False,4,0.37672507594785387
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.5,1,RL agent (MaskablePPO),9.273950835279532,0.0,0,44.127864040578096,False,4,0.37672507594785387
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.5,1,Oracle one-step lookahead,8.701554841024102,0.0,0,47.57633895506732,False,4,0.37672507594785387
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.5,2,Keep planned route,17.99274111674639,0.0,0,0.0,False,4,0.37672507594785387
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.5,2,Nearest hub (greedy rule),8.666278109331824,0.0,0,51.834586775297645,True,4,0.37672507594785387
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.5,2,Risk-aware rule,8.664900091108272,0.0,0,51.84224552064729,True,4,0.37672507594785387
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.5,2,RL agent (MaskablePPO),9.95908703566952,0.0,0,44.649417389770065,False,4,0.37672507594785387
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.5,2,Oracle one-step lookahead,8.295802553745741,0.0,0,53.89361465316374,True,4,0.37672507594785387
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.8,0,Keep planned route,25.095602687366455,0.0,0,0.0,False,4,0.44066786267120195
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.8,0,Nearest hub (greedy rule),12.185565088371323,0.0,0,51.44342520809138,True,4,0.44066786267120195
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.8,0,Risk-aware rule,12.018772804645177,0.0,0,52.108052735885764,True,4,0.44066786267120195
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.8,0,RL agent (MaskablePPO),11.523708870596835,0.0,0,54.08076460981724,True,4,0.44066786267120195
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.8,0,Oracle one-step lookahead,10.96287540553243,0.0,0,56.31555240133235,True,4,0.44066786267120195
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.8,1,Keep planned route,25.262029026440366,0.0,0,0.0,False,4,0.44066786267120195
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.8,1,Nearest hub (greedy rule),11.15200790694507,0.0,0,55.85466276175647,True,4,0.44066786267120195
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.8,1,Risk-aware rule,10.900029071708655,0.0,0,56.85212355547451,True,4,0.44066786267120195
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.8,1,RL agent (MaskablePPO),11.296797353904573,0.0,0,55.281512256672485,True,4,0.44066786267120195
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.8,1,Oracle one-step lookahead,10.395055071519526,0.0,0,58.85106829447628,True,4,0.44066786267120195
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.8,2,Keep planned route,27.583251045328975,0.0,0,0.0,False,4,0.44066786267120195
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.8,2,Nearest hub (greedy rule),9.995262285450995,0.0,0,63.76329146616813,True,4,0.44066786267120195
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.8,2,Risk-aware rule,10.202882769479242,0.0,0,63.01058655953093,True,4,0.44066786267120195
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.8,2,RL agent (MaskablePPO),12.04946778681057,0.0,0,56.3159985492317,True,4,0.44066786267120195
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,0.8,2,Oracle one-step lookahead,9.508797177143663,0.0,0,65.5269164555064,True,4,0.44066786267120195
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,1.0,0,Keep planned route,30.508567830134997,0.0,0,0.0,False,4,0.45329202416538367
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,1.0,0,Nearest hub (greedy rule),12.870110141198968,0.0,0,57.81476792730188,True,4,0.45329202416538367
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,1.0,0,Risk-aware rule,12.849189906617848,0.0,0,57.88333959771787,True,4,0.45329202416538367
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,1.0,0,RL agent (MaskablePPO),13.017025458071302,0.0,0,57.33321363838762,True,4,0.45329202416538367
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,1.0,0,Oracle one-step lookahead,12.485783171953369,0.0,0,59.074502475922614,True,4,0.45329202416538367
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,1.0,1,Keep planned route,31.039721610262475,0.0,0,0.0,False,4,0.45329202416538367
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,1.0,1,Nearest hub (greedy rule),11.950811851830803,0.0,0,61.498327846215034,True,4,0.45329202416538367
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,1.0,1,Risk-aware rule,11.85327677903296,0.0,0,61.81255448143587,True,4,0.45329202416538367
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,1.0,1,RL agent (MaskablePPO),13.826632436228842,0.0,0,55.455037226695275,True,4,0.45329202416538367
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,1.0,1,Oracle one-step lookahead,11.485288229081814,0.0,0,62.998095236509776,True,4,0.45329202416538367
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,1.0,2,Keep planned route,33.70254890295689,0.0,0,0.0,False,4,0.45329202416538367
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,1.0,2,Nearest hub (greedy rule),10.937548284175396,0.0,0,67.54682170874088,True,4,0.45329202416538367
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,1.0,2,Risk-aware rule,11.097221418959535,0.0,0,67.07305002089643,True,4,0.45329202416538367
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,1.0,2,RL agent (MaskablePPO),12.995209695807866,0.0,0,61.44146327559299,True,4,0.45329202416538367
+Mumbai_East_I_21 (Maharashtra),Maharashtra,test,1.0,2,Oracle one-step lookahead,10.38735734003809,0.0,0,69.17931231270536,True,4,0.45329202416538367
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.5,0,Keep planned route,14.037844318255566,0.0,0,0.0,False,3,0.4060625434240176
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.5,0,Nearest hub (greedy rule),27.486462613265253,5.505537986755371,0,-95.80258898811395,False,3,0.4060625434240176
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.5,0,Risk-aware rule,10.721456259879602,0.41301417350769043,0,23.624624858270828,False,3,0.4060625434240176
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.5,0,RL agent (MaskablePPO),11.869835291654262,0.577732264995575,0,15.444030988304299,False,3,0.4060625434240176
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.5,0,Oracle one-step lookahead,10.758759188938022,0.37982675433158875,0,23.3588936803726,False,3,0.4060625434240176
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.5,1,Keep planned route,14.415910924531268,0.0,0,0.0,False,3,0.4060625434240176
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.5,1,Nearest hub (greedy rule),28.958711056676634,5.839040279388428,0,-100.88020249485709,False,3,0.4060625434240176
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.5,1,Risk-aware rule,11.99512230006097,0.21510866284370422,0,16.792477680691615,False,3,0.4060625434240176
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.5,1,RL agent (MaskablePPO),12.321952873468732,0.2974677085876465,0,14.525325954250242,False,3,0.4060625434240176
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.5,1,Oracle one-step lookahead,11.99512230006097,0.21510866284370422,0,16.792477680691615,False,3,0.4060625434240176
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.5,2,Keep planned route,15.59609242366167,0.0,0,0.0,False,3,0.4060625434240176
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.5,2,Nearest hub (greedy rule),30.85419124328607,6.581697463989258,0,-97.8328314884536,False,3,0.4060625434240176
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.5,2,Risk-aware rule,11.582954209233296,0.09956222772598267,0,25.73169038380297,False,3,0.4060625434240176
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.5,2,RL agent (MaskablePPO),11.904249824001585,0.21510867774486542,0,23.671587083306786,False,3,0.4060625434240176
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.5,2,Oracle one-step lookahead,11.582954209233296,0.09956222772598267,0,25.73169038380297,False,3,0.4060625434240176
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.8,0,Keep planned route,21.827440897790247,0.0,0,0.0,False,5,0.4974035084814715
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.8,0,Nearest hub (greedy rule),28.969095079422523,5.505537986755371,0,-32.71869668585509,False,5,0.4974035084814715
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.8,0,Risk-aware rule,15.294286358077933,0.6109196543693542,0,29.93092305371315,False,5,0.4974035084814715
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.8,0,RL agent (MaskablePPO),16.595164080352212,1.3028675317764282,0,23.971096025131086,False,5,0.4974035084814715
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.8,0,Oracle one-step lookahead,14.739691399712356,0.4953731894493103,0,32.47173835571093,False,5,0.4974035084814715
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.8,1,Keep planned route,22.232889825594008,0.0,0,0.0,False,5,0.4974035084814715
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.8,1,Nearest hub (greedy rule),30.541621067888663,5.839040279388428,0,-37.37135076669084,False,5,0.4974035084814715
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.8,1,Risk-aware rule,17.84393027047159,1.138149380683899,0,19.7408415619905,False,5,0.4974035084814715
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.8,1,RL agent (MaskablePPO),18.624667599570586,1.9124562740325928,0,16.22920931254612,False,5,0.4974035084814715
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.8,1,Oracle one-step lookahead,17.4042128782863,0.33065512776374817,0,21.718620409610633,False,5,0.4974035084814715
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.8,2,Keep planned route,24.17856944221516,0.0,0,0.0,False,5,0.4974035084814715
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.8,2,Nearest hub (greedy rule),32.229293681815406,6.581697463989258,0,-33.29694198344046,False,5,0.4974035084814715
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.8,2,Risk-aware rule,17.088029022580347,0.09956222772598267,0,29.325723494852063,False,5,0.4974035084814715
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.8,2,RL agent (MaskablePPO),17.12232644818496,0.21510867774486542,0,29.18387297848226,False,5,0.4974035084814715
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,0.8,2,Oracle one-step lookahead,17.088029022580347,0.09956222772598267,0,29.325723494852063,False,5,0.4974035084814715
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,1.0,0,Keep planned route,27.209927515397034,0.0,0,0.0,False,6,0.60974307199347
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,1.0,0,Nearest hub (greedy rule),29.985590515852508,5.505537986755371,0,-10.200920229886075,False,6,0.60974307199347
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,1.0,0,Risk-aware rule,17.62973717960933,0.6109196543693542,0,35.2084375467985,False,6,0.60974307199347
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,1.0,0,RL agent (MaskablePPO),18.485395444817534,1.3028675317764282,0,32.06378284412051,False,6,0.60974307199347
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,1.0,0,Oracle one-step lookahead,17.097929925965914,0.5285605788230896,0,37.16289793020998,False,6,0.60974307199347
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,1.0,1,Keep planned route,27.696455409243192,0.0,0,0.0,False,6,0.60974307199347
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,1.0,1,Nearest hub (greedy rule),31.67582262631963,5.839040279388428,0,-14.367785185061603,False,6,0.60974307199347
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,1.0,1,Risk-aware rule,20.541114651213256,1.138149380683899,0,25.834861004061803,False,6,0.60974307199347
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,1.0,1,RL agent (MaskablePPO),20.777410713347138,1.9124562740325928,0,24.98169745427766,False,6,0.60974307199347
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,1.0,1,Oracle one-step lookahead,20.541114651213256,1.138149380683899,0,25.834861004061803,False,6,0.60974307199347
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,1.0,2,Keep planned route,30.16747447821324,0.0,0,0.0,False,6,0.60974307199347
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,1.0,2,Nearest hub (greedy rule),33.14334612452501,6.581697463989258,0,-9.864503733850594,False,6,0.60974307199347
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,1.0,2,Risk-aware rule,20.650281969527366,0.09956222772598267,0,31.54785965115883,False,6,0.60974307199347
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,1.0,2,RL agent (MaskablePPO),20.48872535867334,0.21510867774486542,0,32.083392086831246,False,6,0.60974307199347
+Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,test,1.0,2,Oracle one-step lookahead,20.48872535867334,0.21510867774486542,0,32.083392086831246,False,6,0.60974307199347
+Aluva_Peedika_H (Kerala),Kerala,test,0.5,0,Keep planned route,11.998178869652051,0.0,0,0.0,False,2,0.29125764776954854
+Aluva_Peedika_H (Kerala),Kerala,test,0.5,0,Nearest hub (greedy rule),6.226643311124818,0.0,0,48.103429872392034,False,2,0.29125764776954854
+Aluva_Peedika_H (Kerala),Kerala,test,0.5,0,Risk-aware rule,5.6857174683773195,0.0,0,52.61182942722535,True,2,0.29125764776954854
+Aluva_Peedika_H (Kerala),Kerala,test,0.5,0,RL agent (MaskablePPO),8.233463249039133,0.0,0,31.37739203184671,False,2,0.29125764776954854
+Aluva_Peedika_H (Kerala),Kerala,test,0.5,0,Oracle one-step lookahead,5.173627816413372,0.0,0,56.879890918283934,True,2,0.29125764776954854
+Aluva_Peedika_H (Kerala),Kerala,test,0.5,1,Keep planned route,12.572188246989981,0.0,0,0.0,False,2,0.29125764776954854
+Aluva_Peedika_H (Kerala),Kerala,test,0.5,1,Nearest hub (greedy rule),6.507661833405983,0.0,0,48.237636077680904,False,2,0.29125764776954854
+Aluva_Peedika_H (Kerala),Kerala,test,0.5,1,Risk-aware rule,6.213473174033162,0.0,0,50.577631737889504,True,2,0.29125764776954854
+Aluva_Peedika_H (Kerala),Kerala,test,0.5,1,RL agent (MaskablePPO),7.194099749218701,0.0,0,42.77766441382148,False,2,0.29125764776954854
+Aluva_Peedika_H (Kerala),Kerala,test,0.5,1,Oracle one-step lookahead,5.697527336526974,0.0,0,54.681498362935585,True,2,0.29125764776954854
+Aluva_Peedika_H (Kerala),Kerala,test,0.5,2,Keep planned route,14.27478850780837,0.0,0,0.0,False,2,0.29125764776954854
+Aluva_Peedika_H (Kerala),Kerala,test,0.5,2,Nearest hub (greedy rule),6.168965818318203,0.0,0,56.78418762601105,True,2,0.29125764776954854
+Aluva_Peedika_H (Kerala),Kerala,test,0.5,2,Risk-aware rule,6.521649252575006,0.0,0,54.31351400402439,True,2,0.29125764776954854
+Aluva_Peedika_H (Kerala),Kerala,test,0.5,2,RL agent (MaskablePPO),7.2153160064589805,0.0,0,49.454130248499496,False,2,0.29125764776954854
+Aluva_Peedika_H (Kerala),Kerala,test,0.5,2,Oracle one-step lookahead,5.501268262035264,0.0,0,61.461647862411084,True,2,0.29125764776954854
+Aluva_Peedika_H (Kerala),Kerala,test,0.8,0,Keep planned route,19.220753308676336,0.0,0,0.0,False,3,0.3298417708090214
+Aluva_Peedika_H (Kerala),Kerala,test,0.8,0,Nearest hub (greedy rule),7.332216238309215,0.0,0,61.852607332515845,True,3,0.3298417708090214
+Aluva_Peedika_H (Kerala),Kerala,test,0.8,0,Risk-aware rule,7.155317680323307,0.0,0,62.772959179006975,True,3,0.3298417708090214
+Aluva_Peedika_H (Kerala),Kerala,test,0.8,0,RL agent (MaskablePPO),10.372852665558383,0.0,0,46.033058647727245,False,3,0.3298417708090214
+Aluva_Peedika_H (Kerala),Kerala,test,0.8,0,Oracle one-step lookahead,6.551652454504691,0.0,0,65.91365411496517,True,3,0.3298417708090214
+Aluva_Peedika_H (Kerala),Kerala,test,0.8,1,Keep planned route,20.186286196725156,0.0,0,0.0,False,3,0.3298417708090214
+Aluva_Peedika_H (Kerala),Kerala,test,0.8,1,Nearest hub (greedy rule),7.820781317269294,0.0,0,61.2569581098178,True,3,0.3298417708090214
+Aluva_Peedika_H (Kerala),Kerala,test,0.8,1,Risk-aware rule,7.703669688276705,0.0,0,61.8371125168805,True,3,0.3298417708090214
+Aluva_Peedika_H (Kerala),Kerala,test,0.8,1,RL agent (MaskablePPO),9.621157156925733,0.0,0,52.33815144022587,True,3,0.3298417708090214
+Aluva_Peedika_H (Kerala),Kerala,test,0.8,1,Oracle one-step lookahead,7.362148464398821,0.0,0,63.52896024235904,True,3,0.3298417708090214
+Aluva_Peedika_H (Kerala),Kerala,test,0.8,2,Keep planned route,22.96468201949705,0.0,0,0.0,False,3,0.3298417708090214
+Aluva_Peedika_H (Kerala),Kerala,test,0.8,2,Nearest hub (greedy rule),7.3691856116875805,0.0,0,67.91078750652359,True,3,0.3298417708090214
+Aluva_Peedika_H (Kerala),Kerala,test,0.8,2,Risk-aware rule,7.698155382081456,0.0,0,66.47828445634165,True,3,0.3298417708090214
+Aluva_Peedika_H (Kerala),Kerala,test,0.8,2,RL agent (MaskablePPO),9.537484122769332,0.0,0,58.468904055923815,True,3,0.3298417708090214
+Aluva_Peedika_H (Kerala),Kerala,test,0.8,2,Oracle one-step lookahead,6.913639157260196,0.0,0,69.89447033757965,True,3,0.3298417708090214
+Aluva_Peedika_H (Kerala),Kerala,test,1.0,0,Keep planned route,24.338684707032698,0.0,0,0.0,False,5,0.3759978891906662
+Aluva_Peedika_H (Kerala),Kerala,test,1.0,0,Nearest hub (greedy rule),8.144793760917366,0.0,0,66.53560429021904,True,5,0.3759978891906662
+Aluva_Peedika_H (Kerala),Kerala,test,1.0,0,Risk-aware rule,7.7474786105183995,0.0,0,68.16804727216933,True,5,0.3759978891906662
+Aluva_Peedika_H (Kerala),Kerala,test,1.0,0,RL agent (MaskablePPO),11.860538748490058,0.0,0,51.268776882331125,True,5,0.3759978891906662
+Aluva_Peedika_H (Kerala),Kerala,test,1.0,0,Oracle one-step lookahead,7.349307284111987,0.0,0,69.80400801203365,True,5,0.3759978891906662
+Aluva_Peedika_H (Kerala),Kerala,test,1.0,1,Keep planned route,25.539055439384747,0.0,0,0.0,False,5,0.3759978891906662
+Aluva_Peedika_H (Kerala),Kerala,test,1.0,1,Nearest hub (greedy rule),8.779072262076518,0.0,0,65.62491403445573,True,5,0.3759978891906662
+Aluva_Peedika_H (Kerala),Kerala,test,1.0,1,Risk-aware rule,8.527815746832708,0.0,0,66.60872690819396,True,5,0.3759978891906662
+Aluva_Peedika_H (Kerala),Kerala,test,1.0,1,RL agent (MaskablePPO),11.230546116410196,0.0,0,56.02599264853333,True,5,0.3759978891906662
+Aluva_Peedika_H (Kerala),Kerala,test,1.0,1,Oracle one-step lookahead,8.265697288175467,0.0,0,67.63507049901062,True,5,0.3759978891906662
+Aluva_Peedika_H (Kerala),Kerala,test,1.0,2,Keep planned route,28.949839511926715,0.0,0,0.0,False,5,0.3759978891906662
+Aluva_Peedika_H (Kerala),Kerala,test,1.0,2,Nearest hub (greedy rule),8.274153639830633,0.0,0,71.41899996916439,True,5,0.3759978891906662
+Aluva_Peedika_H (Kerala),Kerala,test,1.0,2,Risk-aware rule,8.63083855570007,0.0,0,70.18692089072083,True,5,0.3759978891906662
+Aluva_Peedika_H (Kerala),Kerala,test,1.0,2,RL agent (MaskablePPO),11.192829796323213,0.0,0,61.337161155204306,True,5,0.3759978891906662
+Aluva_Peedika_H (Kerala),Kerala,test,1.0,2,Oracle one-step lookahead,7.7978085402967885,0.0,0,73.06441530674374,True,5,0.3759978891906662
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.5,0,Keep planned route,12.508919402812708,0.0,0,0.0,False,3,0.30475295650354833
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.5,0,Nearest hub (greedy rule),38.57282522478232,8.652807235717773,0,-208.362569001036,False,3,0.30475295650354833
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.5,0,Risk-aware rule,11.473190946171556,0.4936889410018921,0,8.279919498148356,False,3,0.30475295650354833
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.5,0,RL agent (MaskablePPO),11.595129780618535,0.546112060546875,0,7.305104404051894,False,3,0.30475295650354833
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.5,0,Oracle one-step lookahead,11.512309826966643,0.44126585125923157,0,7.967191599475583,False,3,0.30475295650354833
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.5,1,Keep planned route,12.265363182681071,0.0,0,0.0,False,3,0.30475295650354833
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.5,1,Nearest hub (greedy rule),37.22895008528023,8.746662139892578,0,-203.5291293929904,False,3,0.30475295650354833
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.5,1,Risk-aware rule,11.304074957428568,0.6264475584030151,0,7.837421615120701,False,3,0.30475295650354833
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.5,1,RL agent (MaskablePPO),12.14789408942248,0.546112060546875,0,0.9577302482527416,False,3,0.30475295650354833
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.5,1,Oracle one-step lookahead,11.304074957428568,0.6264475584030151,0,7.837421615120701,False,3,0.30475295650354833
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.5,2,Keep planned route,14.069500120842605,0.0,0,0.0,False,3,0.30475295650354833
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.5,2,Nearest hub (greedy rule),34.553213160866875,7.939407825469971,0,-145.58948693336748,False,3,0.30475295650354833
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.5,2,Risk-aware rule,12.791626500479197,0.6264475584030151,0,9.0825801157666,False,3,0.30475295650354833
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.5,2,RL agent (MaskablePPO),13.670145459620812,0.546112060546875,0,2.838442430731333,False,3,0.30475295650354833
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.5,2,Oracle one-step lookahead,12.791626500479197,0.6264475584030151,0,9.0825801157666,False,3,0.30475295650354833
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.8,0,Keep planned route,19.69391974873112,0.0,0,0.0,False,4,0.3619829579497795
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.8,0,Nearest hub (greedy rule),39.95039277730913,8.652807235717773,0,-102.85648203620379,False,4,0.3619829579497795
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.8,0,Risk-aware rule,14.871848387422347,1.1543254852294922,0,24.485076728412377,False,4,0.3619829579497795
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.8,0,RL agent (MaskablePPO),16.927472271951174,0.546112060546875,0,14.047216156439285,False,4,0.3619829579497795
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.8,0,Oracle one-step lookahead,14.871848387422347,1.1543254852294922,0,24.485076728412377,False,4,0.3619829579497795
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.8,1,Keep planned route,19.559233135473292,0.0,0,0.0,False,4,0.3619829579497795
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.8,1,Nearest hub (greedy rule),38.37032483012767,8.746662139892578,0,-96.17499604592341,False,4,0.3619829579497795
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.8,1,Risk-aware rule,14.905071100321734,1.5259511470794678,0,23.79521734270149,False,4,0.3619829579497795
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.8,1,RL agent (MaskablePPO),15.76555982965452,1.224982738494873,0,19.395818228366203,False,4,0.3619829579497795
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.8,1,Oracle one-step lookahead,14.905071100321734,1.5259511470794678,0,23.79521734270149,False,4,0.3619829579497795
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.8,2,Keep planned route,22.373309531989293,0.0,0,0.0,False,4,0.3619829579497795
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.8,2,Nearest hub (greedy rule),35.739706115806484,7.939407825469971,0,-59.742598942306486,False,4,0.3619829579497795
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.8,2,Risk-aware rule,16.443758724439988,1.2528951168060303,0,26.50278806124436,False,4,0.3619829579497795
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.8,2,RL agent (MaskablePPO),18.01576877277344,0.9519267082214355,0,19.476513981918732,False,4,0.3619829579497795
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,0.8,2,Oracle one-step lookahead,16.342452431987567,1.3053182363510132,0,26.955587823870328,False,4,0.3619829579497795
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,1.0,0,Keep planned route,24.644711421141594,0.0,0,0.0,False,5,0.41191095570702974
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,1.0,0,Nearest hub (greedy rule),41.094022182584126,8.652807235717773,0,-66.74580391852918,False,5,0.41191095570702974
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,1.0,0,Risk-aware rule,16.875827865426714,1.9166699647903442,0,31.52353226197772,False,5,0.41191095570702974
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,1.0,0,RL agent (MaskablePPO),19.276587768066037,0.9026418924331665,0,21.782051172530604,False,5,0.41191095570702974
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,1.0,0,Oracle one-step lookahead,17.28819830053446,1.1543254852294922,0,29.850270895427528,False,5,0.41191095570702974
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,1.0,1,Keep planned route,24.48486098062442,0.0,0,0.0,False,5,0.41191095570702974
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,1.0,1,Nearest hub (greedy rule),39.32535703546098,8.746662139892578,0,-60.61090592501333,False,5,0.41191095570702974
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,1.0,1,Risk-aware rule,16.864671408815568,1.7990071773529053,0,31.122045486959998,False,5,0.41191095570702974
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,1.0,1,RL agent (MaskablePPO),17.51159671972657,1.6307973861694336,0,28.479901382392963,False,5,0.41191095570702974
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,1.0,1,Oracle one-step lookahead,16.980186229820973,1.5259511470794678,0,30.650264899368278,False,5,0.41191095570702974
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,1.0,2,Keep planned route,28.04866433265633,0.0,0,0.0,False,5,0.41191095570702974
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,1.0,2,Nearest hub (greedy rule),36.666257019598675,7.939407825469971,0,-30.723718551222085,False,5,0.41191095570702974
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,1.0,2,Risk-aware rule,18.359515824191988,1.8793426752090454,0,34.54406382261675,False,5,0.41191095570702974
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,1.0,2,RL agent (MaskablePPO),19.314608245561317,1.357741355895996,0,31.138937610395153,False,5,0.41191095570702974
+Solapur_Central_I_2 (Maharashtra),Maharashtra,test,1.0,2,Oracle one-step lookahead,17.95867029755945,1.9317657947540283,0,35.97317118358952,False,5,0.41191095570702974
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.5,0,Keep planned route,14.494681956474762,0.0,0,0.0,False,5,0.3142356081449816
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.5,0,Nearest hub (greedy rule),28.215662121116026,5.296652317047119,0,-94.66216786158674,False,5,0.3142356081449816
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.5,0,Risk-aware rule,8.699479551890937,0.0,0,39.98157684305114,False,5,0.3142356081449816
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.5,0,RL agent (MaskablePPO),9.242737050695302,0.0,0,36.233598788508914,False,5,0.3142356081449816
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.5,0,Oracle one-step lookahead,8.514620602421264,0.0,0,41.25693390176257,False,5,0.3142356081449816
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.5,1,Keep planned route,15.189648069001473,0.0,0,0.0,False,5,0.3142356081449816
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.5,1,Nearest hub (greedy rule),19.489245734510313,3.1779913902282715,0,-28.30610456527505,False,5,0.3142356081449816
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.5,1,Risk-aware rule,7.739333502778354,0.0,0,49.04863188652456,False,5,0.3142356081449816
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.5,1,RL agent (MaskablePPO),8.086025991221836,0.0,0,46.76620581010347,False,5,0.3142356081449816
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.5,1,Oracle one-step lookahead,7.669374831804565,0.0,0,49.50919996984019,False,5,0.3142356081449816
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.5,2,Keep planned route,16.479132041200124,0.0,0,0.0,False,5,0.3142356081449816
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.5,2,Nearest hub (greedy rule),15.305661523236372,2.1186609268188477,0,7.120948573201017,False,5,0.3142356081449816
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.5,2,Risk-aware rule,7.793825222057357,0.0,0,52.70488031425618,True,5,0.3142356081449816
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.5,2,RL agent (MaskablePPO),8.04302935845421,0.0,0,51.19263964664209,True,5,0.3142356081449816
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.5,2,Oracle one-step lookahead,7.457164219315878,0.0,0,54.74783380173221,True,5,0.3142356081449816
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.8,0,Keep planned route,22.55258024550244,0.0,0,0.0,False,5,0.3826097538449042
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.8,0,Nearest hub (greedy rule),29.40266465876391,5.296652317047119,0,-30.373838996216637,False,5,0.3826097538449042
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.8,0,Risk-aware rule,11.179719089327051,0.0,0,50.42820392333347,True,5,0.3826097538449042
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.8,0,RL agent (MaskablePPO),11.178139648745162,0.0,0,50.435207293079614,True,5,0.3826097538449042
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.8,0,Oracle one-step lookahead,10.987048325144006,0.0,0,51.28252197512919,True,5,0.3826097538449042
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.8,1,Keep planned route,23.515041397503598,0.0,0,0.0,False,5,0.3826097538449042
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.8,1,Nearest hub (greedy rule),20.680632245438787,3.1779913902282715,0,12.053600519562417,False,5,0.3826097538449042
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.8,1,Risk-aware rule,9.95030413112975,0.0,0,57.68536417636886,True,5,0.3826097538449042
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.8,1,RL agent (MaskablePPO),10.205569095798413,0.0,0,56.59982509372977,True,5,0.3826097538449042
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.8,1,Oracle one-step lookahead,10.205569095798413,0.0,0,56.59982509372977,True,5,0.3826097538449042
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.8,2,Keep planned route,25.729674353383576,0.0,0,0.0,False,5,0.3826097538449042
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.8,2,Nearest hub (greedy rule),16.401224146180887,2.1186609268188477,0,36.255609297969805,False,5,0.3826097538449042
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.8,2,Risk-aware rule,9.600510234069226,0.0,0,62.68701227146813,True,5,0.3826097538449042
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.8,2,RL agent (MaskablePPO),9.82983021918292,0.0,0,61.79574570522984,True,5,0.3826097538449042
+Surat_Central_I_4 (Gujarat),Gujarat,test,0.8,2,Oracle one-step lookahead,9.578517697181423,0.0,0,62.77248765131844,True,5,0.3826097538449042
+Surat_Central_I_4 (Gujarat),Gujarat,test,1.0,0,Keep planned route,28.0186107836262,0.0,0,0.0,False,6,0.425690560324069
+Surat_Central_I_4 (Gujarat),Gujarat,test,1.0,0,Nearest hub (greedy rule),30.226339323658653,5.296652317047119,0,-7.879507506926884,False,6,0.425690560324069
+Surat_Central_I_4 (Gujarat),Gujarat,test,1.0,0,Risk-aware rule,12.846865964177603,0.0,0,54.148811790179174,True,6,0.425690560324069
+Surat_Central_I_4 (Gujarat),Gujarat,test,1.0,0,RL agent (MaskablePPO),12.604597791653882,0.0,0,55.013480543368395,True,6,0.425690560324069
+Surat_Central_I_4 (Gujarat),Gujarat,test,1.0,0,Oracle one-step lookahead,12.604597791653882,0.0,0,55.013480543368395,True,6,0.425690560324069
+Surat_Central_I_4 (Gujarat),Gujarat,test,1.0,1,Keep planned route,29.18597090454348,0.0,0,0.0,False,6,0.425690560324069
+Surat_Central_I_4 (Gujarat),Gujarat,test,1.0,1,Nearest hub (greedy rule),21.749666815894333,3.1779913902282715,0,25.479036188210248,False,6,0.425690560324069
+Surat_Central_I_4 (Gujarat),Gujarat,test,1.0,1,Risk-aware rule,11.680303268776656,0.0,0,59.97973373242025,True,6,0.425690560324069
+Surat_Central_I_4 (Gujarat),Gujarat,test,1.0,1,RL agent (MaskablePPO),11.871658340619424,0.0,0,59.324093142396286,True,6,0.425690560324069
+Surat_Central_I_4 (Gujarat),Gujarat,test,1.0,1,Oracle one-step lookahead,11.871658340619424,0.0,0,59.324093142396286,True,6,0.425690560324069
+Surat_Central_I_4 (Gujarat),Gujarat,test,1.0,2,Keep planned route,31.781418690808863,0.0,0,0.0,False,6,0.425690560324069
+Surat_Central_I_4 (Gujarat),Gujarat,test,1.0,2,Nearest hub (greedy rule),17.53078012654537,2.1186609268188477,0,44.83952935802943,False,6,0.425690560324069
+Surat_Central_I_4 (Gujarat),Gujarat,test,1.0,2,Risk-aware rule,11.20030973956071,0.0,0,64.75830783853641,True,6,0.425690560324069
+Surat_Central_I_4 (Gujarat),Gujarat,test,1.0,2,RL agent (MaskablePPO),11.19563687592662,0.0,0,64.77301096956889,True,6,0.425690560324069
+Surat_Central_I_4 (Gujarat),Gujarat,test,1.0,2,Oracle one-step lookahead,11.129049876198087,0.0,0,64.98252647413567,True,6,0.425690560324069
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.5,0,Keep planned route,13.390587562426703,0.0,0,0.0,False,4,0.3042669684741055
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.5,0,Nearest hub (greedy rule),34.04865978331539,7.406963348388672,0,-154.2730826752828,False,4,0.3042669684741055
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.5,0,Risk-aware rule,13.390587562426703,0.0,0,0.0,False,4,0.3042669684741055
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.5,0,RL agent (MaskablePPO),13.801107366143953,0.43579161167144775,0,-3.065734059864164,False,4,0.3042669684741055
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.5,0,Oracle one-step lookahead,13.390587562426703,0.0,0,0.0,False,4,0.3042669684741055
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.5,1,Keep planned route,13.519476379014293,0.0,0,0.0,False,4,0.3042669684741055
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.5,1,Nearest hub (greedy rule),32.17699816083069,6.561642169952393,0,-138.00476629980784,False,4,0.3042669684741055
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.5,1,Risk-aware rule,13.519476379014293,0.0,0,0.0,False,4,0.3042669684741055
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.5,1,RL agent (MaskablePPO),13.519476379014293,0.0,0,0.0,False,4,0.3042669684741055
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.5,1,Oracle one-step lookahead,13.519476379014293,0.0,0,0.0,False,4,0.3042669684741055
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.5,2,Keep planned route,14.868070134385555,0.0,0,0.0,False,4,0.3042669684741055
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.5,2,Nearest hub (greedy rule),36.7474042118447,7.742533206939697,0,-147.1565164792878,False,4,0.3042669684741055
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.5,2,Risk-aware rule,14.868070134385555,0.0,0,0.0,False,4,0.3042669684741055
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.5,2,RL agent (MaskablePPO),14.868070134385555,0.0,0,0.0,False,4,0.3042669684741055
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.5,2,Oracle one-step lookahead,14.868070134385555,0.0,0,0.0,False,4,0.3042669684741055
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.8,0,Keep planned route,21.050555229353563,0.0,0,0.0,False,5,0.3668438024526379
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.8,0,Nearest hub (greedy rule),35.198485690068935,7.406963348388672,0,-67.20929831336252,False,5,0.3668438024526379
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.8,0,Risk-aware rule,18.359942295923688,1.2559871673583984,0,12.78167204672112,False,5,0.3668438024526379
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.8,0,RL agent (MaskablePPO),20.889506127507516,0.8715832233428955,0,0.7650586889103738,False,5,0.3668438024526379
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.8,0,Oracle one-step lookahead,19.187186719514628,0.5565460324287415,0,8.851873451967645,False,5,0.3668438024526379
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.8,1,Keep planned route,21.2921861474629,0.0,0,0.0,False,5,0.3668438024526379
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.8,1,Nearest hub (greedy rule),33.562960593453596,6.561642169952393,0,-57.630411273916266,False,5,0.3668438024526379
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.8,1,Risk-aware rule,19.317876349514577,0.7371780276298523,0,9.27246166398735,False,5,0.3668438024526379
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.8,1,RL agent (MaskablePPO),20.095842393225794,0.45890501141548157,0,5.618698549559963,False,5,0.3668438024526379
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.8,1,Oracle one-step lookahead,19.317876349514577,0.7371780276298523,0,9.27246166398735,False,5,0.3668438024526379
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.8,2,Keep planned route,23.4681469422406,0.0,0,0.0,False,5,0.3668438024526379
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.8,2,Nearest hub (greedy rule),37.99784612465472,7.742533206939697,0,-61.91242631203207,False,5,0.3668438024526379
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.8,2,Risk-aware rule,21.223590197484256,0.9178100228309631,0,9.56426917847672,False,5,0.3668438024526379
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.8,2,RL agent (MaskablePPO),23.4681469422406,0.0,0,0.0,False,5,0.3668438024526379
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,0.8,2,Oracle one-step lookahead,21.223590197484256,0.9178100228309631,0,9.56426917847672,False,5,0.3668438024526379
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,1.0,0,Keep planned route,26.370258430848082,0.0,0,0.0,False,7,0.43198194171928156
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,1.0,0,Nearest hub (greedy rule),36.063736881526026,7.406963348388672,0,-36.759133309586595,False,7,0.43198194171928156
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,1.0,0,Risk-aware rule,20.62684345094779,2.233701229095459,0,21.779896450243406,False,7,0.43198194171928156
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,1.0,0,RL agent (MaskablePPO),25.353351345900293,1.9228390455245972,0,3.856265146640373,False,7,0.43198194171928156
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,1.0,0,Oracle one-step lookahead,21.179213635758032,1.5342601537704468,0,19.685225340899716,False,7,0.43198194171928156
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,1.0,1,Keep planned route,26.711981815213434,0.0,0,0.0,False,7,0.43198194171928156
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,1.0,1,Nearest hub (greedy rule),34.60006997640086,6.561642169952393,0,-29.530149487803545,False,7,0.43198194171928156
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,1.0,1,Risk-aware rule,21.81634174031076,1.8955241441726685,0,18.327506018720143,False,7,0.43198194171928156
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,1.0,1,RL agent (MaskablePPO),24.531402548931965,0.45890501141548157,0,8.163300205002203,False,7,0.43198194171928156
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,1.0,1,Oracle one-step lookahead,22.284128506596616,1.4366191625595093,0,16.576281532563026,False,7,0.43198194171928156
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,1.0,2,Keep planned route,29.44020522607193,0.0,0,0.0,False,7,0.43198194171928156
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,1.0,2,Nearest hub (greedy rule),38.95044116386345,7.742533206939697,0,-32.30356536159387,False,7,0.43198194171928156
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,1.0,2,Risk-aware rule,25.311762380103964,0.9178100228309631,0,14.023145607394959,False,7,0.43198194171928156
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,1.0,2,RL agent (MaskablePPO),26.69509389463878,0.45890501141548157,0,9.324362076804103,False,7,0.43198194171928156
+Mehsana_Panchot_IP (Gujarat),Gujarat,test,1.0,2,Oracle one-step lookahead,24.34410734840185,1.6172511577606201,0,17.309994405735434,False,7,0.43198194171928156
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.5,0,Keep planned route,11.822532341733364,0.0,0,0.0,False,3,0.3190485295572104
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.5,0,Nearest hub (greedy rule),10.467438248200096,0.651566743850708,0,11.46196140017994,False,3,0.3190485295572104
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.5,0,Risk-aware rule,7.08458217119329,0.07223053276538849,0,40.07559491983947,False,3,0.3190485295572104
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.5,0,RL agent (MaskablePPO),9.921840759253925,0.0,0,16.076856696513538,False,3,0.3190485295572104
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.5,0,Oracle one-step lookahead,7.08458217119329,0.07223053276538849,0,40.07559491983947,False,3,0.3190485295572104
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.5,1,Keep planned route,12.943665585227052,0.0,0,0.0,False,3,0.3190485295572104
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.5,1,Nearest hub (greedy rule),10.669490310298592,0.5038769245147705,0,17.569793193081537,False,3,0.3190485295572104
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.5,1,Risk-aware rule,7.461193535642501,0.09630737453699112,0,42.35640988625232,False,3,0.3190485295572104
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.5,1,RL agent (MaskablePPO),8.9823904875253,0.0,0,30.603966640044067,False,3,0.3190485295572104
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.5,1,Oracle one-step lookahead,7.398041896974405,0.07223053276538849,0,42.84430597915025,False,3,0.3190485295572104
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.5,2,Keep planned route,14.31558843291215,0.0,0,0.0,False,3,0.3190485295572104
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.5,2,Nearest hub (greedy rule),9.119291761392766,0.19584350287914276,0,36.29817031881746,False,3,0.3190485295572104
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.5,2,Risk-aware rule,8.004298492714014,0.07223053276538849,0,44.0868356182147,False,3,0.3190485295572104
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.5,2,RL agent (MaskablePPO),9.456725913725244,0.0,0,33.941060417860115,False,3,0.3190485295572104
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.5,2,Oracle one-step lookahead,7.74279738825399,0.07223053276538849,0,45.91352339766232,False,3,0.3190485295572104
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.8,0,Keep planned route,18.831266761613534,0.0,0,0.0,False,6,0.40293705363680626
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.8,0,Nearest hub (greedy rule),11.930231022986646,0.651566743850708,0,36.64668886054047,False,6,0.40293705363680626
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.8,0,Risk-aware rule,9.426077478003862,0.07223053276538849,0,49.94453853089488,False,6,0.40293705363680626
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.8,0,RL agent (MaskablePPO),12.830342275407205,0.0,0,31.866812584477177,False,6,0.40293705363680626
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.8,0,Oracle one-step lookahead,9.149863663347048,0.07223053276538849,0,51.411321504942386,True,6,0.40293705363680626
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.8,1,Keep planned route,20.666382581235553,0.0,0,0.0,False,6,0.40293705363680626
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.8,1,Nearest hub (greedy rule),12.22655025099435,0.5038769245147705,0,40.8384597404304,False,6,0.40293705363680626
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.8,1,Risk-aware rule,9.384843450769743,0.09630737453699112,0,54.58884294878536,True,6,0.40293705363680626
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.8,1,RL agent (MaskablePPO),11.871420088242715,0.0,0,42.55685511686209,False,6,0.40293705363680626
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.8,1,Oracle one-step lookahead,9.384843450769743,0.09630737453699112,0,54.58884294878536,True,6,0.40293705363680626
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.8,2,Keep planned route,22.94619808773954,0.0,0,0.0,False,6,0.40293705363680626
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.8,2,Nearest hub (greedy rule),10.58101235379717,0.19584350287914276,0,53.88773201844385,True,6,0.40293705363680626
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.8,2,Risk-aware rule,9.679986435732943,0.07223053276538849,0,57.814421375081345,True,6,0.40293705363680626
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.8,2,RL agent (MaskablePPO),12.00950619756535,0.0,0,47.662326666733556,False,6,0.40293705363680626
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,0.8,2,Oracle one-step lookahead,9.585259092379083,0.07223053276538849,0,58.22724507246098,True,6,0.40293705363680626
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,1.0,0,Keep planned route,23.553365830664404,0.0,0,0.0,False,7,0.46479442247628006
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,1.0,0,Nearest hub (greedy rule),12.99138271538206,0.651566743850708,0,44.84277615019921,False,7,0.46479442247628006
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,1.0,0,Risk-aware rule,10.629694860909865,0.07223053276538849,0,54.869741601555134,True,7,0.46479442247628006
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,1.0,0,RL agent (MaskablePPO),14.848035484431037,0.0,0,36.960026897301425,False,7,0.46479442247628006
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,1.0,0,Oracle one-step lookahead,10.544549180619782,0.07223053276538849,0,55.23124271737117,True,7,0.46479442247628006
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,1.0,1,Keep planned route,25.908029588673998,0.0,0,0.0,False,7,0.46479442247628006
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,1.0,1,Nearest hub (greedy rule),13.370956659686755,0.5038769245147705,0,48.390684772368694,False,7,0.46479442247628006
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,1.0,1,Risk-aware rule,10.83645371316262,0.09630737453699112,0,58.1733775775063,True,7,0.46479442247628006
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,1.0,1,RL agent (MaskablePPO),13.889148122689527,0.0,0,46.39056561537458,False,7,0.46479442247628006
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,1.0,1,Oracle one-step lookahead,10.599001988244098,0.09630737453699112,0,59.089895462843,True,7,0.46479442247628006
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,1.0,2,Keep planned route,28.790099075042455,0.0,0,0.0,False,7,0.46479442247628006
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,1.0,2,Nearest hub (greedy rule),11.63000558378738,0.19584350287914276,0,59.60414879617697,True,7,0.46479442247628006
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,1.0,2,Risk-aware rule,10.887117247437878,0.07223053276538849,0,62.18450926806398,True,7,0.46479442247628006
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,1.0,2,RL agent (MaskablePPO),13.785831774509248,0.0,0,52.116066920867596,True,7,0.46479442247628006
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,test,1.0,2,Oracle one-step lookahead,10.704004855803426,0.07223053276538849,0,62.820534837677904,True,7,0.46479442247628006
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.5,0,Keep planned route,15.46249846429108,0.0,0,0.0,False,10,0.39412899717175437
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.5,0,Nearest hub (greedy rule),49.4553376712644,10.481060028076172,0,-219.84053408623453,False,10,0.39412899717175437
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.5,0,Risk-aware rule,14.993214830662687,0.0,0,3.0349793386376174,False,10,0.39412899717175437
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.5,0,RL agent (MaskablePPO),14.993214830662687,0.0,0,3.0349793386376174,False,10,0.39412899717175437
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.5,0,Oracle one-step lookahead,14.971936751311887,0.0,0,3.172590213102308,False,10,0.39412899717175437
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.5,1,Keep planned route,13.80975549326066,0.0,0,0.0,False,10,0.39412899717175437
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.5,1,Nearest hub (greedy rule),46.233264356673,9.750964164733887,0,-234.7869872079591,False,10,0.39412899717175437
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.5,1,Risk-aware rule,11.299516628345195,0.0,0,18.17728681829663,False,10,0.39412899717175437
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.5,1,RL agent (MaskablePPO),11.724425472398316,0.0,0,15.100412327213265,False,10,0.39412899717175437
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.5,1,Oracle one-step lookahead,11.299516628345195,0.0,0,18.17728681829663,False,10,0.39412899717175437
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.5,2,Keep planned route,15.320754083856066,0.0,0,0.0,False,10,0.39412899717175437
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.5,2,Nearest hub (greedy rule),57.488848432814834,12.929128646850586,0,-275.23510995710416,False,10,0.39412899717175437
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.5,2,Risk-aware rule,12.127931162054203,0.0,0,20.839854907443723,False,10,0.39412899717175437
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.5,2,RL agent (MaskablePPO),12.776180053844094,0.0,0,16.608673542337357,False,10,0.39412899717175437
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.5,2,Oracle one-step lookahead,11.65819204912048,0.0,0,23.905886189994636,False,10,0.39412899717175437
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.8,0,Keep planned route,23.78712217824424,0.0,0,0.0,False,12,0.5002218535151635
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.8,0,Nearest hub (greedy rule),51.30976614202001,10.481060028076172,0,-115.70396686719863,False,12,0.5002218535151635
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.8,0,Risk-aware rule,22.105858824497176,0.0,0,7.067956103091574,False,12,0.5002218535151635
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.8,0,RL agent (MaskablePPO),22.13310183470022,0.0,0,6.953427704074224,False,12,0.5002218535151635
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.8,0,Oracle one-step lookahead,22.10188845579396,0.0,0,7.084647355919316,False,12,0.5002218535151635
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.8,1,Keep planned route,21.644669396173548,0.0,0,0.0,False,12,0.5002218535151635
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.8,1,Nearest hub (greedy rule),48.04631249290727,9.750964164733887,0,-121.97757615739393,False,12,0.5002218535151635
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.8,1,Risk-aware rule,16.329330009238348,0.0,0,24.55726761007896,False,12,0.5002218535151635
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.8,1,RL agent (MaskablePPO),17.464901598452975,0.0,0,19.310841488110196,False,12,0.5002218535151635
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.8,1,Oracle one-step lookahead,16.105813956144303,0.0,0,25.589928580791494,False,12,0.5002218535151635
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.8,2,Keep planned route,23.939841987870736,0.0,0,0.0,False,12,0.5002218535151635
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.8,2,Nearest hub (greedy rule),59.408630895965544,12.929128646850586,0,-148.1579908759017,False,12,0.5002218535151635
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.8,2,Risk-aware rule,16.877247812573252,0.0,0,29.501423521825203,False,12,0.5002218535151635
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.8,2,RL agent (MaskablePPO),18.26216286010238,0.0,0,23.716443619991256,False,12,0.5002218535151635
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,0.8,2,Oracle one-step lookahead,16.176618166215597,0.0,0,32.4280495484825,False,12,0.5002218535151635
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,1.0,0,Keep planned route,28.755168183852795,0.0,0,0.0,False,12,0.5372314130877502
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,1.0,0,Nearest hub (greedy rule),53.334358148847414,10.481060028076172,0,-85.47746898172149,False,12,0.5372314130877502
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,1.0,0,Risk-aware rule,26.18415592566842,0.0,0,8.941044064656534,False,12,0.5372314130877502
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,1.0,0,RL agent (MaskablePPO),26.220936642643956,0.0,0,8.813134129508985,False,12,0.5372314130877502
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,1.0,0,Oracle one-step lookahead,26.173574537592273,0.0,0,8.977842277793364,False,12,0.5372314130877502
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,1.0,1,Keep planned route,26.70311430107997,0.0,0,0.0,False,12,0.5372314130877502
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,1.0,1,Nearest hub (greedy rule),49.62492544434492,9.750964164733887,0,-85.83946757977178,False,12,0.5372314130877502
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,1.0,1,Risk-aware rule,19.051991083564573,0.0,0,28.65255015294586,False,12,0.5372314130877502
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,1.0,1,RL agent (MaskablePPO),20.86055595440029,0.0,0,21.87968894116364,False,12,0.5372314130877502
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,1.0,1,Oracle one-step lookahead,18.860925700360205,0.0,0,29.368067380824563,False,12,0.5372314130877502
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,1.0,2,Keep planned route,29.600059495099636,0.0,0,0.0,False,12,0.5372314130877502
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,1.0,2,Nearest hub (greedy rule),61.140114739701914,12.929128646850586,0,-106.55402652087173,False,12,0.5372314130877502
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,1.0,2,Risk-aware rule,19.785114948371366,0.0,0,33.15852979401328,False,12,0.5372314130877502
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,1.0,2,RL agent (MaskablePPO),21.13744701550614,0.0,0,28.58984956092572,False,12,0.5372314130877502
+Durgapur_Central_I_1 (West Bengal),West Bengal,test,1.0,2,Oracle one-step lookahead,19.08909787897523,0.0,0,35.50993408599236,False,12,0.5372314130877502
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.5,0,Keep planned route,17.081254349256337,0.0,0,0.0,False,5,0.37957988299594053
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.5,0,Nearest hub (greedy rule),12.54202923111195,0.0,0,26.574307865991177,False,5,0.37957988299594053
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.5,0,Risk-aware rule,11.234538509785285,0.0,0,34.228843619588154,False,5,0.37957988299594053
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.5,0,RL agent (MaskablePPO),11.199272958073532,0.0,0,34.43530124260979,False,5,0.37957988299594053
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.5,0,Oracle one-step lookahead,10.242932419843502,0.0,0,40.034073549818395,False,5,0.37957988299594053
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.5,1,Keep planned route,17.849901005682586,0.0,0,0.0,False,5,0.37957988299594053
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.5,1,Nearest hub (greedy rule),13.264672584599243,0.0,0,25.687696641138892,False,5,0.37957988299594053
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.5,1,Risk-aware rule,12.215453079285801,0.0,0,31.56570966193614,False,5,0.37957988299594053
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.5,1,RL agent (MaskablePPO),12.69105310326762,0.0,0,28.901268980554157,False,5,0.37957988299594053
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.5,1,Oracle one-step lookahead,11.737220041165436,0.0,0,34.24490120461259,False,5,0.37957988299594053
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.5,2,Keep planned route,18.991102132066214,0.0,0,0.0,False,5,0.37957988299594053
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.5,2,Nearest hub (greedy rule),13.289462556555936,0.0,0,30.02268923551908,False,5,0.37957988299594053
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.5,2,Risk-aware rule,13.82797957802661,0.0,0,27.187061172830735,False,5,0.37957988299594053
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.5,2,RL agent (MaskablePPO),13.487660255200925,0.0,0,28.979054709904396,False,5,0.37957988299594053
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.5,2,Oracle one-step lookahead,12.465330910866488,0.0,0,34.36225647052391,False,5,0.37957988299594053
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.8,0,Keep planned route,26.075022586353274,0.0,0,0.0,False,6,0.4786615175595432
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.8,0,Nearest hub (greedy rule),14.620345114428044,0.0,0,43.92969338373725,False,6,0.4786615175595432
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.8,0,Risk-aware rule,13.631409989455559,0.0,0,47.72234637836998,False,6,0.4786615175595432
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.8,0,RL agent (MaskablePPO),13.501634078443548,0.0,0,48.2200483864209,False,6,0.4786615175595432
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.8,0,Oracle one-step lookahead,12.59662990975551,0.0,0,51.6908187978018,True,6,0.4786615175595432
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.8,1,Keep planned route,26.869735509645526,0.0,0,0.0,False,6,0.4786615175595432
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.8,1,Nearest hub (greedy rule),15.404646223799379,0.0,0,42.669155718821585,False,6,0.4786615175595432
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.8,1,Risk-aware rule,14.748904059613015,0.0,0,45.109604616991675,False,6,0.4786615175595432
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.8,1,RL agent (MaskablePPO),15.35931875388815,0.0,0,42.83784911699425,False,6,0.4786615175595432
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.8,1,Oracle one-step lookahead,13.804758230638523,0.0,0,48.623393685125855,False,6,0.4786615175595432
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.8,2,Keep planned route,28.860972831828004,0.0,0,0.0,False,6,0.4786615175595432
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.8,2,Nearest hub (greedy rule),15.490626694686785,0.0,0,46.32673408152183,False,6,0.4786615175595432
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.8,2,Risk-aware rule,16.57158238985218,0.0,0,42.581345104289184,False,6,0.4786615175595432
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.8,2,RL agent (MaskablePPO),15.742408559312164,0.0,0,45.45433845545439,False,6,0.4786615175595432
+Kolkata_North_I_4 (West Bengal),West Bengal,test,0.8,2,Oracle one-step lookahead,14.802470596295901,0.0,0,48.71111697256555,False,6,0.4786615175595432
+Kolkata_North_I_4 (West Bengal),West Bengal,test,1.0,0,Keep planned route,31.60593565723256,0.0,0,0.0,False,6,0.4931073682960923
+Kolkata_North_I_4 (West Bengal),West Bengal,test,1.0,0,Nearest hub (greedy rule),15.736949745201319,0.0,0,50.208878750279474,True,6,0.4931073682960923
+Kolkata_North_I_4 (West Bengal),West Bengal,test,1.0,0,Risk-aware rule,14.574349186479278,0.0,0,53.887303497233596,True,6,0.4931073682960923
+Kolkata_North_I_4 (West Bengal),West Bengal,test,1.0,0,RL agent (MaskablePPO),14.46309100014022,0.0,0,54.23932024353611,True,6,0.4931073682960923
+Kolkata_North_I_4 (West Bengal),West Bengal,test,1.0,0,Oracle one-step lookahead,13.774078359338152,0.0,0,56.41933050576798,True,6,0.4931073682960923
+Kolkata_North_I_4 (West Bengal),West Bengal,test,1.0,1,Keep planned route,32.38553281835168,0.0,0,0.0,False,6,0.4931073682960923
+Kolkata_North_I_4 (West Bengal),West Bengal,test,1.0,1,Nearest hub (greedy rule),16.641584215204897,0.0,0,48.614141047033414,False,6,0.4931073682960923
+Kolkata_North_I_4 (West Bengal),West Bengal,test,1.0,1,Risk-aware rule,16.008876158646476,0.0,0,50.567816041689944,True,6,0.4931073682960923
+Kolkata_North_I_4 (West Bengal),West Bengal,test,1.0,1,RL agent (MaskablePPO),16.945371767863886,0.0,0,47.67610629440818,False,6,0.4931073682960923
+Kolkata_North_I_4 (West Bengal),West Bengal,test,1.0,1,Oracle one-step lookahead,15.308900781162304,0.0,0,52.72919896970996,True,6,0.4931073682960923
+Kolkata_North_I_4 (West Bengal),West Bengal,test,1.0,2,Keep planned route,35.05798443330154,0.0,0,0.0,False,6,0.4931073682960923
+Kolkata_North_I_4 (West Bengal),West Bengal,test,1.0,2,Nearest hub (greedy rule),16.711553472953614,0.0,0,52.331676383884385,True,6,0.4931073682960923
+Kolkata_North_I_4 (West Bengal),West Bengal,test,1.0,2,Risk-aware rule,17.754621219673556,0.0,0,49.356411936767074,False,6,0.4931073682960923
+Kolkata_North_I_4 (West Bengal),West Bengal,test,1.0,2,RL agent (MaskablePPO),17.01430479316716,0.0,0,51.468103291741755,True,6,0.4931073682960923
+Kolkata_North_I_4 (West Bengal),West Bengal,test,1.0,2,Oracle one-step lookahead,16.20219238908155,0.0,0,53.784586732570105,True,6,0.4931073682960923
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.5,0,Keep planned route,12.639568050806531,0.0,0,0.0,False,4,0.20951489598946613
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.5,0,Nearest hub (greedy rule),11.244090591355075,0.76740962266922,0,11.040547064916595,False,4,0.20951489598946613
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.5,0,Risk-aware rule,7.096947604465811,0.15220460295677185,0,43.851343843882745,False,4,0.20951489598946613
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.5,0,RL agent (MaskablePPO),9.615306475777345,0.2688390910625458,0,23.926937715535367,False,4,0.20951489598946613
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.5,0,Oracle one-step lookahead,7.148443090698777,0.11136230826377869,0,43.44392892253438,False,4,0.20951489598946613
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.5,1,Keep planned route,11.481812585202078,0.0,0,0.0,False,4,0.20951489598946613
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.5,1,Nearest hub (greedy rule),10.369278450781053,0.6332665681838989,0,9.689534001407367,False,4,0.20951489598946613
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.5,1,Risk-aware rule,6.842394813396481,0.09262450784444809,0,40.40666695592074,False,4,0.20951489598946613
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.5,1,RL agent (MaskablePPO),8.400216601860507,0.16447265446186066,0,26.83893296876467,False,4,0.20951489598946613
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.5,1,Oracle one-step lookahead,6.279640955507716,0.0930798351764679,0,45.307930181677015,False,4,0.20951489598946613
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.5,2,Keep planned route,12.469493686397072,0.0,0,0.0,False,4,0.20951489598946613
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.5,2,Nearest hub (greedy rule),9.997786011148719,0.6827648878097534,0,19.822037184595,False,4,0.20951489598946613
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.5,2,Risk-aware rule,7.518420808713472,0.09189575165510178,0,39.705484458320136,False,4,0.20951489598946613
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.5,2,RL agent (MaskablePPO),9.789229186402736,0.1964440941810608,0,21.49457361623454,False,4,0.20951489598946613
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.5,2,Oracle one-step lookahead,6.351611946248113,0.09189575165510178,0,49.06279191450199,False,4,0.20951489598946613
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.8,0,Keep planned route,20.049226252032042,0.0,0,0.0,False,6,0.2314236940749721
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.8,0,Nearest hub (greedy rule),12.02454009464276,0.76740962266922,0,40.0249169544683,False,6,0.2314236940749721
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.8,0,Risk-aware rule,8.214347606954675,0.21695435047149658,0,59.029104147487345,True,6,0.2314236940749721
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.8,0,RL agent (MaskablePPO),10.366711640003814,0.28004148602485657,0,48.29370715015438,False,6,0.2314236940749721
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.8,0,Oracle one-step lookahead,7.699355655842453,0.18790648877620697,0,61.59774168311307,True,6,0.2314236940749721
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.8,1,Keep planned route,18.310500265028736,0.0,0,0.0,False,6,0.2314236940749721
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.8,1,Nearest hub (greedy rule),11.01703314884162,0.6332665681838989,0,39.832156470989084,False,6,0.2314236940749721
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.8,1,Risk-aware rule,7.97803533237925,0.11548462510108948,0,56.42917879411238,True,6,0.2314236940749721
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.8,1,RL agent (MaskablePPO),8.298571641954709,0.16356199979782104,0,54.67861870598823,True,6,0.2314236940749721
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.8,1,Oracle one-step lookahead,7.053062140398595,0.11593994498252869,0,61.48077857889414,True,6,0.2314236940749721
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.8,2,Keep planned route,19.891991160991438,0.0,0,0.0,False,6,0.2314236940749721
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.8,2,Nearest hub (greedy rule),10.545291576819182,0.6827648878097534,0,46.987249836010925,False,6,0.2314236940749721
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.8,2,Risk-aware rule,7.941626928906544,0.10371704399585724,0,60.07625951252069,True,6,0.2314236940749721
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.8,2,RL agent (MaskablePPO),9.11295049644832,0.19598877429962158,0,54.187841615780606,True,6,0.2314236940749721
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,0.8,2,Oracle one-step lookahead,7.222736790060708,0.09205932915210724,0,63.690227229616774,True,6,0.2314236940749721
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,1.0,0,Keep planned route,25.060064850583274,0.0,0,0.0,False,6,0.25390906788700945
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,1.0,0,Nearest hub (greedy rule),12.582740957087651,0.76740962266922,0,49.7896712075157,False,6,0.25390906788700945
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,1.0,0,Risk-aware rule,8.692320056703522,0.22920410335063934,0,65.31405601489811,True,6,0.25390906788700945
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,1.0,0,RL agent (MaskablePPO),11.063341550530367,0.23011472821235657,0,55.85270183260173,True,6,0.25390906788700945
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,1.0,0,Oracle one-step lookahead,8.11621266698262,0.18836180865764618,0,67.61296223543606,True,6,0.25390906788700945
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,1.0,1,Keep planned route,22.86198969407826,0.0,0,0.0,False,6,0.25390906788700945
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,1.0,1,Nearest hub (greedy rule),11.446258720853962,0.6332665681838989,0,49.93323470958092,False,6,0.25390906788700945
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,1.0,1,Risk-aware rule,7.713345120555459,0.11593994498252869,0,66.26126936557328,True,6,0.25390906788700945
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,1.0,1,RL agent (MaskablePPO),9.5033457398373,0.16310667991638184,0,58.43167691437256,True,6,0.25390906788700945
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,1.0,1,Oracle one-step lookahead,7.410283298185277,0.11593994498252869,0,67.58688374308603,True,6,0.25390906788700945
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,1.0,2,Keep planned route,24.845570971298457,0.0,0,0.0,False,6,0.25390906788700945
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,1.0,2,Nearest hub (greedy rule),10.901932165435596,0.6827648878097534,0,56.12122507456367,True,6,0.25390906788700945
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,1.0,2,Risk-aware rule,8.288519785340554,0.10371704399585724,0,66.63984983514594,True,6,0.25390906788700945
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,1.0,2,RL agent (MaskablePPO),9.671311898717022,0.19598877429962158,0,61.074302096380485,True,6,0.25390906788700945
+Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,test,1.0,2,Oracle one-step lookahead,7.561394843514108,0.10371704399585724,0,69.56642754457519,True,6,0.25390906788700945
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.5,0,Keep planned route,11.840362133189828,0.0,0,0.0,False,2,0.20677825744578474
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.5,0,Nearest hub (greedy rule),13.504926991370382,2.288994312286377,0,-14.058394831646217,False,2,0.20677825744578474
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.5,0,Risk-aware rule,5.7602495287652715,0.036671750247478485,0,51.35073181065414,True,2,0.20677825744578474
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.5,0,RL agent (MaskablePPO),7.471394172759588,0.0,0,36.8989386581644,False,2,0.20677825744578474
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.5,0,Oracle one-step lookahead,4.938117855602798,0.05500762537121773,0,58.29419911270523,True,2,0.20677825744578474
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.5,1,Keep planned route,12.688770504849408,0.0,0,0.0,False,2,0.20677825744578474
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.5,1,Nearest hub (greedy rule),20.787358588106848,4.284523010253906,0,-63.82484481189341,False,2,0.20677825744578474
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.5,1,Risk-aware rule,6.035428037016729,0.018335875123739243,0,52.43488693636549,True,2,0.20677825744578474
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.5,1,RL agent (MaskablePPO),6.962446030795945,0.0,0,45.12907276449653,False,2,0.20677825744578474
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.5,1,Oracle one-step lookahead,6.005555346804755,0.018335875123739243,0,52.67031313625268,True,2,0.20677825744578474
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.5,2,Keep planned route,13.964698882266006,0.0,0,0.0,False,2,0.20677825744578474
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.5,2,Nearest hub (greedy rule),13.151817085925856,2.2303013801574707,0,5.8209761856909195,False,2,0.20677825744578474
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.5,2,Risk-aware rule,5.32147232121919,0.036671750247478485,0,61.893397300696456,True,2,0.20677825744578474
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.5,2,RL agent (MaskablePPO),6.907589845143946,0.0,0,50.53534699616041,True,2,0.20677825744578474
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.5,2,Oracle one-step lookahead,4.862928367034044,0.05500762537121773,0,65.17699086795524,True,2,0.20677825744578474
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.8,0,Keep planned route,18.97598811504011,0.0,0,0.0,False,3,0.2518019027375051
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.8,0,Nearest hub (greedy rule),14.686382382767448,2.288994312286377,0,22.605440656198446,False,3,0.2518019027375051
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.8,0,Risk-aware rule,6.435467973186036,0.07334350049495697,0,66.08625630364212,True,3,0.2518019027375051
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.8,0,RL agent (MaskablePPO),10.247858460859078,0.0,0,45.995653039344155,False,3,0.2518019027375051
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.8,0,Oracle one-step lookahead,6.0074201905232485,0.11370086669921875,0,68.34199012929477,True,3,0.2518019027375051
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.8,1,Keep planned route,20.355459840090667,0.0,0,0.0,False,3,0.2518019027375051
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.8,1,Nearest hub (greedy rule),22.139255564041342,4.284523010253906,0,-8.763229806469111,False,3,0.2518019027375051
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.8,1,Risk-aware rule,7.97045027409424,0.018335875123739243,0,60.84367370371949,True,3,0.2518019027375051
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.8,1,RL agent (MaskablePPO),9.505372789012554,0.0,0,53.303080040022245,True,3,0.2518019027375051
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.8,1,Oracle one-step lookahead,7.09993266598029,0.036671750247478485,0,65.12025411483573,True,3,0.2518019027375051
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.8,2,Keep planned route,22.39455644357463,0.0,0,0.0,False,3,0.2518019027375051
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.8,2,Nearest hub (greedy rule),14.383733769838145,2.2303013801574707,0,35.77129421571965,False,3,0.2518019027375051
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.8,2,Risk-aware rule,6.777130451241547,0.036671750247478485,0,69.73759909772173,True,3,0.2518019027375051
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.8,2,RL agent (MaskablePPO),9.037866478356392,0.0,0,59.642574296444685,True,3,0.2518019027375051
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,0.8,2,Oracle one-step lookahead,6.013265966003587,0.05500762537121773,0,73.14853731908187,True,3,0.2518019027375051
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,1.0,0,Keep planned route,23.69527809690392,0.0,0,0.0,False,4,0.3000186681498782
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,1.0,0,Nearest hub (greedy rule),15.69980526010896,2.288994312286377,0,33.74289512069355,False,4,0.3000186681498782
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,1.0,0,Risk-aware rule,7.24184228363977,0.07334350049495697,0,69.43761430431996,True,4,0.3000186681498782
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,1.0,0,RL agent (MaskablePPO),12.333366787243122,0.0,0,47.95010745683281,False,4,0.3000186681498782
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,1.0,0,Oracle one-step lookahead,6.832859880328371,0.11370086669921875,0,71.16362233697029,True,4,0.3000186681498782
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,1.0,1,Keep planned route,25.540925039961415,0.0,0,0.0,False,4,0.3000186681498782
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,1.0,1,Nearest hub (greedy rule),23.19674695569021,4.284523010253906,0,9.178125226879988,False,4,0.3000186681498782
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,1.0,1,Risk-aware rule,8.389452954640852,0.036671750247478485,0,67.15290091680436,True,4,0.3000186681498782
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,1.0,1,RL agent (MaskablePPO),11.5674815894454,0.0,0,54.71001315987232,True,4,0.3000186681498782
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,1.0,1,Oracle one-step lookahead,8.389452954640852,0.036671750247478485,0,67.15290091680436,True,4,0.3000186681498782
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,1.0,2,Keep planned route,28.09476288430716,0.0,0,0.0,False,4,0.3000186681498782
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,1.0,2,Nearest hub (greedy rule),15.317597654545438,2.2303013801574707,0,45.47881497479603,False,4,0.3000186681498782
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,1.0,2,Risk-aware rule,7.872974128412906,0.036671750247478485,0,71.97707572463443,True,4,0.3000186681498782
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,1.0,2,RL agent (MaskablePPO),10.873517878800428,0.0,0,61.29699359422595,True,4,0.3000186681498782
+Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,test,1.0,2,Oracle one-step lookahead,6.902193069830972,0.05500762537121773,0,75.43245658184104,True,4,0.3000186681498782
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.5,0,Keep planned route,11.374563826476312,0.0,0,0.0,False,5,0.22591212881878817
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.5,0,Nearest hub (greedy rule),23.940464822376157,5.194940567016602,0,-110.47369541019661,False,5,0.22591212881878817
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.5,0,Risk-aware rule,7.88493036050464,0.21797026693820953,0,30.67927279856597,False,5,0.22591212881878817
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.5,0,RL agent (MaskablePPO),8.157337405333209,0.21795104444026947,0,28.28439375982434,False,5,0.22591212881878817
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.5,0,Oracle one-step lookahead,7.88493036050464,0.21797026693820953,0,30.67927279856597,False,5,0.22591212881878817
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.5,1,Keep planned route,11.247073949433606,0.0,0,0.0,False,5,0.22591212881878817
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.5,1,Nearest hub (greedy rule),16.175583177660094,2.8699092864990234,0,-43.82036830543543,False,5,0.22591212881878817
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.5,1,Risk-aware rule,8.606602086330845,0.32694578170776367,0,23.476967209197845,False,5,0.22591212881878817
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.5,1,RL agent (MaskablePPO),8.963442504639481,0.32690733671188354,0,20.304227171095704,False,5,0.22591212881878817
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.5,1,Oracle one-step lookahead,6.85428892466377,0.32694578170776367,0,39.057136500743404,False,5,0.22591212881878817
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.5,2,Keep planned route,12.445335708920297,0.0,0,0.0,False,5,0.22591212881878817
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.5,2,Nearest hub (greedy rule),12.74319991044689,1.870798945426941,0,-2.3933802067958414,False,5,0.22591212881878817
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.5,2,Risk-aware rule,7.631420825535784,0.326926589012146,0,38.680474323678546,False,5,0.22591212881878817
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.5,2,RL agent (MaskablePPO),8.675977129725439,0.43588289618492126,0,30.28731942114779,False,5,0.22591212881878817
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.5,2,Oracle one-step lookahead,6.611314678626385,0.326926589012146,0,46.87716881845404,False,5,0.22591212881878817
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.8,0,Keep planned route,18.140550734269283,0.0,0,0.0,False,6,0.2616626334450789
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.8,0,Nearest hub (greedy rule),24.327881744056327,5.194940567016602,0,-34.107735208383545,False,6,0.2616626334450789
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.8,0,Risk-aware rule,11.325160611058813,0.3269265592098236,0,37.56991848288006,False,6,0.2616626334450789
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.8,0,RL agent (MaskablePPO),11.54964291340498,0.21795104444026947,0,36.33245714207248,False,6,0.2616626334450789
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.8,0,Oracle one-step lookahead,10.863702332445243,0.3269265592098236,0,40.113712689424354,False,6,0.2616626334450789
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.8,1,Keep planned route,17.958549488575848,0.0,0,0.0,False,6,0.2616626334450789
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.8,1,Nearest hub (greedy rule),16.58284940419515,2.8699092864990234,0,7.660418706175765,False,6,0.2616626334450789
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.8,1,Risk-aware rule,10.331735483691368,0.43590208888053894,0,42.468986761632394,False,6,0.2616626334450789
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.8,1,RL agent (MaskablePPO),11.381701409760133,0.32690733671188354,0,36.62237912365646,False,6,0.2616626334450789
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.8,1,Oracle one-step lookahead,8.603897332482951,0.32694578170776367,0,52.090243491233885,True,6,0.2616626334450789
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.8,2,Keep planned route,19.87262058251359,0.0,0,0.0,False,6,0.2616626334450789
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.8,2,Nearest hub (greedy rule),13.315876144269993,1.870798945426941,0,32.99385911897819,False,6,0.2616626334450789
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.8,2,Risk-aware rule,8.81642923579669,0.6537954807281494,0,55.63529631540148,True,6,0.2616626334450789
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.8,2,RL agent (MaskablePPO),9.480172151455108,0.5448392033576965,0,52.29530945809459,True,6,0.2616626334450789
+Hisar_ModelTwn_P (Haryana),Haryana,test,0.8,2,Oracle one-step lookahead,7.220001870768428,0.6537954807281494,0,63.66859699861887,True,6,0.2616626334450789
+Hisar_ModelTwn_P (Haryana),Haryana,test,1.0,0,Keep planned route,22.70795364301361,0.0,0,0.0,False,7,0.29296578467158924
+Hisar_ModelTwn_P (Haryana),Haryana,test,1.0,0,Nearest hub (greedy rule),24.588308300126982,5.194940567016602,0,-8.280599329530018,False,7,0.29296578467158924
+Hisar_ModelTwn_P (Haryana),Haryana,test,1.0,0,Risk-aware rule,13.267107848291687,0.3269265592098236,0,41.57506195027186,False,7,0.29296578467158924
+Hisar_ModelTwn_P (Haryana),Haryana,test,1.0,0,RL agent (MaskablePPO),13.544101044753283,0.32690733671188354,0,40.35525500149901,False,7,0.29296578467158924
+Hisar_ModelTwn_P (Haryana),Haryana,test,1.0,0,Oracle one-step lookahead,12.803151123521545,0.3269265592098236,0,43.61820829478135,False,7,0.29296578467158924
+Hisar_ModelTwn_P (Haryana),Haryana,test,1.0,1,Keep planned route,22.459429776533916,0.0,0,0.0,False,7,0.29296578467158924
+Hisar_ModelTwn_P (Haryana),Haryana,test,1.0,1,Nearest hub (greedy rule),16.839673827692074,2.8699092864990234,0,25.021810458934628,False,7,0.29296578467158924
+Hisar_ModelTwn_P (Haryana),Haryana,test,1.0,1,Risk-aware rule,11.351897786071468,0.43590208888053894,0,49.45598397189866,False,7,0.29296578467158924
+Hisar_ModelTwn_P (Haryana),Haryana,test,1.0,1,RL agent (MaskablePPO),13.02458091945119,0.32690733671188354,0,42.00840783117501,False,7,0.29296578467158924
+Hisar_ModelTwn_P (Haryana),Haryana,test,1.0,1,Oracle one-step lookahead,9.52193551415116,0.43590208888053894,0,57.60384119769649,True,7,0.29296578467158924
+Hisar_ModelTwn_P (Haryana),Haryana,test,1.0,2,Keep planned route,24.83422617413426,0.0,0,0.0,False,7,0.29296578467158924
+Hisar_ModelTwn_P (Haryana),Haryana,test,1.0,2,Nearest hub (greedy rule),13.6676757399985,1.870798945426941,0,44.964358284560205,False,7,0.29296578467158924
+Hisar_ModelTwn_P (Haryana),Haryana,test,1.0,2,Risk-aware rule,9.401729774561218,0.6537954807281494,0,62.14204659071093,True,7,0.29296578467158924
+Hisar_ModelTwn_P (Haryana),Haryana,test,1.0,2,RL agent (MaskablePPO),10.03307404922208,0.5448392033576965,0,59.59981205425322,True,7,0.29296578467158924
+Hisar_ModelTwn_P (Haryana),Haryana,test,1.0,2,Oracle one-step lookahead,7.570598912314054,0.6537954807281494,0,69.51546281639689,True,7,0.29296578467158924
+Kollam_Central_H_1 (Kerala),Kerala,test,0.5,0,Keep planned route,11.639612102612631,0.0,0,0.0,False,2,0.17153939836780013
+Kollam_Central_H_1 (Kerala),Kerala,test,0.5,0,Nearest hub (greedy rule),5.037310851734681,0.0,0,56.72269138072046,True,2,0.17153939836780013
+Kollam_Central_H_1 (Kerala),Kerala,test,0.5,0,Risk-aware rule,4.162307876785874,0.0,0,64.24014958495394,True,2,0.17153939836780013
+Kollam_Central_H_1 (Kerala),Kerala,test,0.5,0,RL agent (MaskablePPO),5.1393265989533035,0.0,0,55.84623822816459,True,2,0.17153939836780013
+Kollam_Central_H_1 (Kerala),Kerala,test,0.5,0,Oracle one-step lookahead,3.7090212096399,0.0,0,68.13449471561538,True,2,0.17153939836780013
+Kollam_Central_H_1 (Kerala),Kerala,test,0.5,1,Keep planned route,12.546537696378664,0.0,0,0.0,False,2,0.17153939836780013
+Kollam_Central_H_1 (Kerala),Kerala,test,0.5,1,Nearest hub (greedy rule),5.464014651153214,0.0,0,56.45002005030994,True,2,0.17153939836780013
+Kollam_Central_H_1 (Kerala),Kerala,test,0.5,1,Risk-aware rule,4.998640918422378,0.0,0,60.15920057479166,True,2,0.17153939836780013
+Kollam_Central_H_1 (Kerala),Kerala,test,0.5,1,RL agent (MaskablePPO),5.338019831677077,0.0,0,57.45423987991681,True,2,0.17153939836780013
+Kollam_Central_H_1 (Kerala),Kerala,test,0.5,1,Oracle one-step lookahead,4.2077089655896,0.0,0,66.46318635934055,True,2,0.17153939836780013
+Kollam_Central_H_1 (Kerala),Kerala,test,0.5,2,Keep planned route,14.15403874006284,0.0,0,0.0,False,2,0.17153939836780013
+Kollam_Central_H_1 (Kerala),Kerala,test,0.5,2,Nearest hub (greedy rule),5.427623208534635,0.0,0,61.65318388473947,True,2,0.17153939836780013
+Kollam_Central_H_1 (Kerala),Kerala,test,0.5,2,Risk-aware rule,5.686611809778286,0.0,0,59.8233980123115,True,2,0.17153939836780013
+Kollam_Central_H_1 (Kerala),Kerala,test,0.5,2,RL agent (MaskablePPO),6.213939699944936,0.0,0,56.09776252514801,True,2,0.17153939836780013
+Kollam_Central_H_1 (Kerala),Kerala,test,0.5,2,Oracle one-step lookahead,4.230268042402136,0.0,0,70.1126433232911,True,2,0.17153939836780013
+Kollam_Central_H_1 (Kerala),Kerala,test,0.8,0,Keep planned route,18.622544334498684,0.0,0,0.0,False,2,0.2018370131449458
+Kollam_Central_H_1 (Kerala),Kerala,test,0.8,0,Nearest hub (greedy rule),5.862213611723789,0.0,0,68.52087713458195,True,2,0.2018370131449458
+Kollam_Central_H_1 (Kerala),Kerala,test,0.8,0,Risk-aware rule,4.816388144657282,0.0,0,74.1367878731006,True,2,0.2018370131449458
+Kollam_Central_H_1 (Kerala),Kerala,test,0.8,0,RL agent (MaskablePPO),5.544995541052714,0.0,0,70.22428599737317,True,2,0.2018370131449458
+Kollam_Central_H_1 (Kerala),Kerala,test,0.8,0,Oracle one-step lookahead,4.350842959396637,0.0,0,76.63668894407408,True,2,0.2018370131449458
+Kollam_Central_H_1 (Kerala),Kerala,test,0.8,1,Keep planned route,20.124654537927686,0.0,0,0.0,False,2,0.2018370131449458
+Kollam_Central_H_1 (Kerala),Kerala,test,0.8,1,Nearest hub (greedy rule),6.643387804452306,0.0,0,66.98881070513818,True,2,0.2018370131449458
+Kollam_Central_H_1 (Kerala),Kerala,test,0.8,1,Risk-aware rule,5.759537159157922,0.0,0,71.38069054401267,True,2,0.2018370131449458
+Kollam_Central_H_1 (Kerala),Kerala,test,0.8,1,RL agent (MaskablePPO),6.941185723763404,0.0,0,65.5090440897667,True,2,0.2018370131449458
+Kollam_Central_H_1 (Kerala),Kerala,test,0.8,1,Oracle one-step lookahead,5.156086382799671,0.0,0,74.37925519127637,True,2,0.2018370131449458
+Kollam_Central_H_1 (Kerala),Kerala,test,0.8,2,Keep planned route,22.712245778424148,0.0,0,0.0,False,2,0.2018370131449458
+Kollam_Central_H_1 (Kerala),Kerala,test,0.8,2,Nearest hub (greedy rule),6.665094680758235,0.0,0,70.65418036691973,True,2,0.2018370131449458
+Kollam_Central_H_1 (Kerala),Kerala,test,0.8,2,Risk-aware rule,6.530830967937648,0.0,0,71.2453315640776,True,2,0.2018370131449458
+Kollam_Central_H_1 (Kerala),Kerala,test,0.8,2,RL agent (MaskablePPO),7.480271034074427,0.0,0,67.0650313181252,True,2,0.2018370131449458
+Kollam_Central_H_1 (Kerala),Kerala,test,0.8,2,Oracle one-step lookahead,5.319304431543269,0.0,0,76.57957525012156,True,2,0.2018370131449458
+Kollam_Central_H_1 (Kerala),Kerala,test,1.0,0,Keep planned route,23.273285550087266,0.0,0,0.0,False,3,0.2296440796282209
+Kollam_Central_H_1 (Kerala),Kerala,test,1.0,0,Nearest hub (greedy rule),6.454189672690447,0.0,0,72.2678190030361,True,3,0.2296440796282209
+Kollam_Central_H_1 (Kerala),Kerala,test,1.0,0,Risk-aware rule,5.312452274501595,0.0,0,77.17360420354713,True,3,0.2296440796282209
+Kollam_Central_H_1 (Kerala),Kerala,test,1.0,0,RL agent (MaskablePPO),5.900806480674277,0.0,0,74.6455803673489,True,3,0.2296440796282209
+Kollam_Central_H_1 (Kerala),Kerala,test,1.0,0,Oracle one-step lookahead,4.838527815255119,0.0,0,79.20994951554239,True,3,0.2296440796282209
+Kollam_Central_H_1 (Kerala),Kerala,test,1.0,1,Keep planned route,25.281350416058768,0.0,0,0.0,False,3,0.2296440796282209
+Kollam_Central_H_1 (Kerala),Kerala,test,1.0,1,Nearest hub (greedy rule),7.4825030048923935,0.0,0,70.4030722973584,True,3,0.2296440796282209
+Kollam_Central_H_1 (Kerala),Kerala,test,1.0,1,Risk-aware rule,6.503080234220054,0.0,0,74.27716428435214,True,3,0.2296440796282209
+Kollam_Central_H_1 (Kerala),Kerala,test,1.0,1,RL agent (MaskablePPO),8.60551836502658,0.0,0,65.96100198998731,True,3,0.2296440796282209
+Kollam_Central_H_1 (Kerala),Kerala,test,1.0,1,Oracle one-step lookahead,5.924903738844947,0.0,0,76.56413268540658,True,3,0.2296440796282209
+Kollam_Central_H_1 (Kerala),Kerala,test,1.0,2,Keep planned route,28.558778615522627,0.0,0,0.0,False,3,0.2296440796282209
+Kollam_Central_H_1 (Kerala),Kerala,test,1.0,2,Nearest hub (greedy rule),7.503225911827803,0.0,0,73.72707701249675,True,3,0.2296440796282209
+Kollam_Central_H_1 (Kerala),Kerala,test,1.0,2,Risk-aware rule,7.196114968771479,0.0,0,74.80244142912976,True,3,0.2296440796282209
+Kollam_Central_H_1 (Kerala),Kerala,test,1.0,2,RL agent (MaskablePPO),8.133784857746052,0.0,0,71.51914314246943,True,3,0.2296440796282209
+Kollam_Central_H_1 (Kerala),Kerala,test,1.0,2,Oracle one-step lookahead,6.0054029246159875,0.0,0,78.97177955169325,True,3,0.2296440796282209
