@@ -1,0 +1,34 @@
+train 18,401 | val_a 1,976 | val_b 2,010 | test 3,981 legs (split by trip; test delayed rate 23.3%)
+Optuna 30 trials, 3-fold grouped CV inside train: best CV PR-AUC 0.725
+best LightGBM params: {"n_estimators": 635, "learning_rate": 0.0117, "num_leaves": 50, "min_child_samples": 52, "subsample": 0.9474, "colsample_bytree": 0.9694, "reg_lambda": 0.8884, "reg_alpha": 0.0827}
+validation PR-AUC: LightGBM 0.737, XGBoost 0.734, ExtraTrees 0.736, Stack 0.738  -> final model: LightGBM
+
+TEST (3,981 legs)  threshold: advanced 0.36, baseline 0.27 (both F1-optimal on val_a)
+model                               PR-AUC  ROC-AUC   Brier    ECE   Prec    Rec     F1
+Baseline XGBoost (one-hot hubs)      0.670    0.839   0.122  0.020  0.527  0.716  0.607
+LightGBM (raw)                       0.759    0.889   0.102  0.018  0.663  0.712  0.687
+XGBoost (raw)                        0.753    0.889   0.104  0.017  0.645  0.730  0.685
+ExtraTrees (raw)                     0.758    0.886   0.103  0.021  0.662  0.714  0.687
+Stack (raw)                          0.762    0.890   0.102  0.015  0.660  0.720  0.689
+Final = LightGBM + Platt             0.759    0.889   0.103  0.021  0.666  0.708  0.687
+
+PR-AUC 95% CI (trip-level bootstrap): baseline [0.634, 0.699], final [0.733, 0.786]
+ROC-AUC 95% CI: baseline [0.823, 0.854], final [0.877, 0.900]
+paired PR-AUC gain (final - baseline): +0.090 [0.067, 0.113]  -> significant at 95%
+cold-start legs (a hub with <5 training legs, n=448): PR-AUC baseline 0.594 vs final 0.706 (base rate 0.268)
+
+Conformal (class-conditional, target coverage 90%)
+  coverage delayed legs 90.4%, on-time legs 90.9%
+  confident (single label) 74.7% of legs, accuracy on those 87.6%; uncertain (both labels) 25.3%; empty 0.0%
+
+Delay minutes (extra time vs the routing estimate), conformalized quantile regression
+  raw 5-95% quantile band covers 88.1%; after conformal correction 91.1% (target 90%)
+  mean interval width 137 min; median-prediction MAE 30.4 min vs naive 43.3 min
+  coverage by distance quartile (short -> long): 90.3%, 91.9%, 90.3%, 92.1%
+
+Out-of-time check: train on legs up to 26 Sep, test on the later 7,911 legs (base rate 25.2%)
+  PR-AUC baseline 0.622 vs advanced 0.741
+
+Top SHAP features (mean |SHAP|, LightGBM member): te_pair 1.153, hour_sin 0.149, osrm_min 0.144, te_dst 0.131, plan_speed 0.087, hour_cos 0.085, n_pair 0.082, te_src_route 0.082
+
+finished in 294s
