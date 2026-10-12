@@ -1,0 +1,1595 @@
+center,name,state,lat,lon,geo_source,n_legs
+IND380054AAA,AMD_Memnagar (Gujarat),Gujarat,24.45,71.85,exact,64
+IND380021AAA,AMD_Rakhial (Gujarat),Gujarat,23.0333,72.6167,exact,32
+IND380015AAB,AMD_Satellite (Gujarat),Gujarat,25.2042,73.6792,exact,35
+IND152116AAA,Abohar_DC (Punjab),Punjab,30.15,74.1833,exact,4
+IND303002AAA,Achrol_BgwriDPP_D (Rajasthan),Rajasthan,26.7,75.6,exact,19
+IND523201AAA,Addanki_Oilmilrd_D (Andhra Pradesh),Andhra Pradesh,15.9167,80.05,exact,21
+IND691551AAA,Adoor_Town_D (Kerala),Kerala,8.8333,76.9167,exact,36
+IND799008AAA,Agartala_Chmpmura_I (Tripura),Tripura,23.6167,91.3667,exact,1
+IND282005AAA,Agra (Uttar Pradesh),Uttar Pradesh,27.1833,78.0278,exact,3
+IND282001AAF,Agra_Central_D_3 (Uttar Pradesh),Uttar Pradesh,27.1833,78.0167,exact,18
+IND282001AAC,Agra_Idgah_L (Uttar Pradesh),Uttar Pradesh,27.1833,78.0167,exact,3
+IND282001AAA,Agra_Idgah_P (Uttar Pradesh),Uttar Pradesh,27.1833,78.0167,exact,25
+IND414001AAA,AhmedNagar_DC (Maharashtra),Maharashtra,19.1375,74.725,exact,6
+IND382430AAB,Ahmedabad_East_H_1 (Gujarat),Gujarat,22.8667,72.5917,prefix5,537
+IND380006AAB,Ahmedabad_Mithakal_D (Gujarat),Gujarat,26.6667,75.125,exact,27
+IND380006AAA,Ahmedabad_Paldi_D (Gujarat),Gujarat,26.6667,75.125,exact,18
+IND600016AAA,Airport (Tamil Nadu),Tamil Nadu,13.0025,80.2061,exact,8
+IND796009AAA,Aizawl_HunthrVg_I (Mizoram),Mizoram,23.75,92.75,exact,7
+IND305001AAC,Ajmer_FoySGRRD_I (Rajasthan),Rajasthan,26.45,74.6333,exact,112
+IND224122AAA,Akbarpur_Auliyapr_D (Uttar Pradesh),Uttar Pradesh,26.3667,82.85,exact,17
+IND209101AAA,Akbarpur_NehruNGR_D (Uttar Pradesh),Uttar Pradesh,27.01,79.9467,exact,33
+IND181201AAB,Akhnoor_ThthiCwk_D (Jammu & Kashmir),Jammu & Kashmir,33.0759,74.5588,exact,15
+IND444005AAB,Akola_Gaurkshn_I (Maharashtra),Maharashtra,20.7288,77.1106,prefix3,72
+IND585314AAA,Aland_RazaviRd_D (Karnataka),Karnataka,15.5969,77.0629,prefix5,39
+IND688009AAA,Alappuzha_Pazhvedu_D (Kerala),Kerala,10.2762,76.2548,prefix5,31
+IND207247AAB,Aliganj_KaimgnjRD_D (Uttar Pradesh),Uttar Pradesh,28.030549999999998,78.75555,prefix5,20
+IND202001AAC,Aligarh_Central_D_2 (Uttar Pradesh),Uttar Pradesh,27.225,77.6571,exact,4
+IND202001AAB,Aligarh_KhirByps_I (Uttar Pradesh),Uttar Pradesh,27.225,77.6571,exact,56
+IND211008AAA,Allahabad_Central_D_3 (Uttar Pradesh),Uttar Pradesh,25.425,81.8583,exact,6
+IND211011AAA,Allahabad_Central_D_5 (Uttar Pradesh),Uttar Pradesh,25.425,81.8583,prefix5,26
+IND211002AAB,Allahabad_Central_H_1 (Uttar Pradesh),Uttar Pradesh,25.425,81.8583,exact,101
+IND211010AAB,Allahabad_Mirapati_L (Uttar Pradesh),Uttar Pradesh,25.425,81.8583,prefix5,1
+IND211013AAA,Allahabad_Phaphamu_DC (Uttar Pradesh),Uttar Pradesh,25.425,81.8583,prefix5,7
+IND263601AAA,Almora_SuzkiSrv_D (Uttarakhand),Uttarakhand,29.4806,79.2611,exact,24
+IND683511AAA,Aluva_Peedika_H (Kerala),Kerala,10.2762,76.2548,exact,175
+IND301001AAB,Alwar_Central_I_1 (Rajasthan),Rajasthan,27.45,76.5333,exact,55
+IND721501AAC,AmaDubi_Bulabeda_D (West Bengal),West Bengal,22.484,87.4703,prefix3,8
+IND533201AAA,Amalapuram_Vijdurg_D (Andhra Pradesh),Andhra Pradesh,16.825,82.0,exact,19
+IND425401AAA,Amalner_Murtingr_D (Maharashtra),Maharashtra,20.4833,74.8333,prefix4,2
+IND177203AAA,Amb_Adrshngr_D (Himachal Pradesh),Himachal Pradesh,31.6833,76.1167,exact,3
+IND302023AAA,Ambabadi_DC (Rajasthan),Rajasthan,26.1748,74.8799,prefix4,19
+IND476111AAA,Ambah_MrenTirh_D (Madhya Pradesh),Madhya Pradesh,26.7075,78.2261,exact,17
+IND431517AAB,Ambajogai_BnsllNgr_D (Maharashtra),Maharashtra,16.9833,75.2,prefix5,26
+IND133004AAA,Ambala (Haryana),Haryana,25.4808,78.7571,exact,6
+IND627401AAA,Ambasamdrm_Solaiprm_D (Tamil Nadu),Tamil Nadu,8.75,77.475,prefix4,23
+IND410503AAA,Ambegaon_Manchar_D (Maharashtra),Maharashtra,18.7167,73.6833,prefix5,5
+IND635802AAB,Ambur_Central_D_2 (Tamil Nadu),Tamil Nadu,12.575,78.5333,prefix5,33
+IND380005AAA,Amd_Chandkheda_Dc (Gujarat),Gujarat,23.0833,72.6667,exact,46
+IND382345AAA,Amdavad_East (Gujarat),Gujarat,23.1542,72.7583,exact,34
+IND444602AAA,Amravati_DC (Maharashtra),Maharashtra,20.7288,77.1106,prefix5,21
+IND365560AAA,Amreli_MrktYrd_DC (Gujarat),Gujarat,21.4611,71.0944,name,14
+IND365560AAB,Amreli_Rajula_DC (Gujarat),Gujarat,21.4611,71.0944,name,19
+IND143001AAA,Amritsar_DPC (Punjab),Punjab,31.6331,74.8656,exact,48
+IND244221AAA,Amroha_SamitiRd_D (Uttar Pradesh),Uttar Pradesh,28.85,78.2333,prefix5,41
+IND531001AAA,Anakapalle_Kothuru_D (Andhra Pradesh),Andhra Pradesh,17.78,82.79,exact,12
+IND388121AAA,Anand_VUNagar_DC (Gujarat),Gujarat,22.4833,72.7167,prefix5,12
+IND388320AAA,Anand_Vaghasi_IP (Gujarat),Gujarat,22.4833,72.9667,exact,73
+IND273155AAA,Anandnagar_LohiaDPP_D (Uttar Pradesh),Uttar Pradesh,27.4333,83.7,prefix3,7
+IND140118AAA,AnandprShb_PnjPiara_D (Punjab),Punjab,31.25,76.5,exact,36
+IND515004AAA,Anantapur_KamaStrt_I (Andhra Pradesh),Andhra Pradesh,14.3447,77.8319,prefix5,117
+IND683572AAA,Angamaly_CivilStn_D (Kerala),Kerala,10.2762,76.2548,prefix5,13
+IND759122AAC,Angul_Central_I_2 (Orissa),Orissa,21.0083,85.0917,exact,2
+IND370110AAA,Anjar_DC (Gujarat),Gujarat,23.5,70.6917,exact,19
+IND581314AAA,Ankola_Kakrmath_D (Karnataka),Karnataka,15.0567,74.4767,prefix4,20
+IND231225AAB,Anpara_Parasi_D (Uttar Pradesh),Uttar Pradesh,24.7167,82.675,exact,14
+IND638501AAB,Anthiyour_TherSRT_D (Tamil Nadu),Tamil Nadu,11.44,77.7967,prefix5,17
+IND335701AAA,Anupgarh_PrmNrDPP_D (Rajasthan),Rajasthan,29.4784,74.0878,prefix5,18
+IND484224AAA,Anuppur_JthriDPP_DC (Madhya Pradesh),Madhya Pradesh,23.1917,81.2875,exact,4
+IND203390AAA,Anupshahar_DcntCLY_D (Uttar Pradesh),Uttar Pradesh,29.5878,77.2992,prefix3,39
+IND243301AAB,Aonla_KdidmCLY_D (Uttar Pradesh),Uttar Pradesh,28.1759,79.263,prefix3,22
+IND631003AAA,Arakkonam_HousngBd_D (Tamil Nadu),Tamil Nadu,12.8917,79.7583,exact,20
+IND712602AAA,Arambag_BalibDPP_D (West Bengal),West Bengal,22.2397,88.4019,prefix5,7
+IND632301AAA,Arani_KrthiKyn_D (Tamil Nadu),Tamil Nadu,12.7167,79.2,exact,26
+IND614616AAA,Aranthangi_HsptlRod_D (Tamil Nadu),Tamil Nadu,10.4167,79.4,prefix5,32
+IND854311AAA,Araria_Wardn13_D (Bihar),Bihar,24.9833,81.0583,exact,34
+IND673639AAA,Areacode_Puthalam_D (Kerala),Kerala,11.4667,75.8,exact,4
+IND680012AAA,Arimbur_Veluthur_D (Kerala),Kerala,10.4267,76.2167,prefix4,22
+IND621704AAA,Ariyalur_Kmrajngr_D (Tamil Nadu),Tamil Nadu,10.8667,78.8333,prefix4,33
+IND802301AAA,Arrah_Katira_D (Bihar),Bihar,23.908,85.4865,name,21
+IND573103AAA,Arsikere_HsnRdDPP_D (Karnataka),Karnataka,13.1531,76.0842,prefix4,13
+IND804401AAA,Arwal_Rozapar_D (Bihar),Bihar,25.0333,88.45,name,10
+IND421601AAB,Asangaon_Shahapur_D (Maharashtra),Maharashtra,19.1833,73.2083,prefix3,25
+IND713303AAA,Asansol_DC (West Bengal),West Bengal,23.6306,87.1196,exact,11
+IND473331AAA,Ashokngr_Bypassrd_D (Madhya Pradesh),Madhya Pradesh,24.69,77.5367,exact,28
+IND466116AAA,Ashta_ShantiNg_D (Madhya Pradesh),Madhya Pradesh,23.1667,76.6667,exact,28
+IND414203AAB,Ashti_SavtaHTL_D (Maharashtra),Maharashtra,18.9,75.1,prefix5,2
+IND504293AAA,Asifabad_PaikjNGR_D (Telangana),Telangana,19.2833,78.1917,prefix5,13
+IND311301AAA,Asind_BsStdDPP_D (Rajasthan),Rajasthan,25.65,74.3333,prefix5,6
+IND132039AAA,Assandh_MhrjaDPP_D (Haryana),Haryana,29.8519,76.6683,exact,21
+IND415301AAB,Atapadi_Vidyangr_D (Maharashtra),Maharashtra,17.3,74.35,prefix5,10
+IND591304AAA,Athani_VikrmMah_D (Karnataka),Karnataka,15.4667,74.5167,prefix5,22
+IND518422AAB,Atmakur_IndraNgr_D (Andhra Pradesh),Andhra Pradesh,15.5333,77.55,prefix4,26
+IND695101AAB,Attingal_Central_D_2 (Kerala),Kerala,8.4333,77.05,prefix5,42
+IND636102AAA,Attur_KaaduRd_D (Tamil Nadu),Tamil Nadu,11.4833,78.65,exact,11
+IND233221AAC,Aunrihar_Central_D_1 (Uttar Pradesh),Uttar Pradesh,25.5168,82.4525,prefix5,2
+IND206122AAA,Auraiya_AryaNagr_D (Uttar Pradesh),Uttar Pradesh,26.6556,79.1889,exact,39
+IND431001AAA,Aurangabad (Maharashtra),Maharashtra,18.9321,76.37559999999999,prefix3,20
+IND431136AAC,Aurangabad_Central_H_1 (Maharashtra),Maharashtra,19.8,75.2333,prefix5,107
+IND431001AAB,Aurangabad_Pratpngr_D (Maharashtra),Maharashtra,18.9321,76.37559999999999,prefix3,18
+IND824101AAA,AurngbadBR_Mahindra_D (Bihar),Bihar,22.3333,74.1167,prefix4,20
+IND641654AAA,Avinashi_Valluvar_D (Tamil Nadu),Tamil Nadu,10.9375,76.975,prefix3,22
+IND276128AAA,Azamgarh_ChtwrDPP_D (Uttar Pradesh),Uttar Pradesh,25.7667,83.1833,exact,8
+IND000000ACS,BLR_HSR_Layout_PC (Karnataka),Karnataka,13.041599999999999,77.35470000000001,name,9
+IND560078AAC,BLR_JPNagar_Pc (Karnataka),Karnataka,13.0499,77.1594,exact,105
+IND400072AAC,BOM_Sakinaka_RP (Maharashtra),Maharashtra,19.0167,72.85,exact,17
+IND788806AAA,Badarpur_Konapara_D (Assam),Assam,24.9,92.6,exact,21
+IND174103AAA,Baddi_ByePass_D (Himachal Pradesh),Himachal Pradesh,31.05,76.7167,exact,26
+IND741121AAA,Badkulla_Central_DPP_1 (West Bengal),West Bengal,13.9463,92.1467,prefix4,1
+IND222125AAB,Badlapur_Bhaluahi_D (Uttar Pradesh),Uttar Pradesh,25.6,83.0167,exact,8
+IND311302AAA,Badnaur_BhmrdDPP_D (Rajasthan),Rajasthan,25.65,74.3333,exact,7
+IND516227AAA,Badvel_Sidrd_D (Andhra Pradesh),Andhra Pradesh,14.75,79.05,exact,4
+IND587103AAB,Bagalkot_Sector4_D (Karnataka),Karnataka,15.7583,75.625,exact,38
+IND561207AAB,Bagepalli_TBCross_D (Karnataka),Karnataka,13.7847,77.7931,exact,26
+IND250609AAA,Baghpat_Barout_D (Uttar Pradesh),Uttar Pradesh,28.95,77.2167,exact,1
+IND711303AAA,Bagnan_Harop_D (West Bengal),West Bengal,22.105,88.1142,prefix5,35
+IND124507AAA,Bahadurgarh_DC (Haryana),Haryana,28.6833,76.9167,exact,23
+IND243201AAA,Baheri_HoliCDPP_D (Uttar Pradesh),Uttar Pradesh,28.7833,79.5,exact,7
+IND591102AAA,Bailhongal_NamoNagr_D (Karnataka),Karnataka,15.8767,74.9133,exact,20
+IND481001AAA,Balaghat_Kosmi_D (Madhya Pradesh),Madhya Pradesh,22.0615,80.2808,exact,9
+IND767001AAA,Balangir_Rjndpara_D (Orissa),Orissa,20.6278,83.2667,exact,7
+IND756019AAA,Balasore_Ganeshwr_D (Orissa),Orissa,21.6857,87.269,prefix5,18
+IND784101AAA,Balipara_EragnDPP_D (Assam),Assam,26.8333,92.7333,exact,2
+IND344022AAB,Balotra_BsnoiHPL_D (Rajasthan),Rajasthan,25.8333,72.2333,exact,14
+IND271201AAA,Balrampur_PBRDDPP_D (Uttar Pradesh),Uttar Pradesh,27.5167,82.65,prefix5,11
+IND752030AAA,Balugaon_Thikiri_D (Orissa),Orissa,20.1403,85.5,prefix5,1
+IND210001AAA,Banda_GayatriN_D (Uttar Pradesh),Uttar Pradesh,25.45555,80.5287,prefix3,26
+IND560300AAB,Bangalore_East_I_20 (Karnataka),Karnataka,13.0499,77.1594,prefix3,42
+IND562132AAA,Bangalore_Nelmngla_H (Karnataka),Karnataka,13.2936,77.8017,prefix5,1433
+IND174307AAA,Bangana_Bhaleti_D (Himachal Pradesh),Himachal Pradesh,31.4,76.325,exact,31
+IND563131AAB,Bangarapet_KolarRd_D (Karnataka),Karnataka,13.2,78.0167,exact,49
+IND813102AAA,Banka_Wardno6_D (Bihar),Bihar,21.6833,72.2833,exact,18
+IND722101AAC,Bankura_BhowmDPP_D (West Bengal),West Bengal,23.1119,87.0619,exact,9
+IND722101AAA,Bankura_KeranDPP_D (West Bengal),West Bengal,23.1119,87.0619,exact,10
+IND722101AAB,Bankura_NapitDPP_D (West Bengal),West Bengal,23.1119,87.0619,exact,2
+IND272153AAC,Bansi_GangDPP_D (Uttar Pradesh),Uttar Pradesh,26.8648,82.8622,prefix5,3
+IND503187AAA,Banswada_Menagrdn_D (Telangana),Telangana,18.3833,77.8833,exact,39
+IND327001AAB,Banswara_KhandDPP_D (Rajasthan),Rajasthan,23.5833,74.225,prefix4,12
+IND574211AAA,Bantwal_Trmltmpl_D (Karnataka),Karnataka,14.2467,76.2933,prefix4,14
+IND000000AAQ,Barasat_KrshnNgr_D (West Bengal),West Bengal,22.569,88.3697,name,2
+IND841405AAA,Barauli_SiwanRd_D (Bihar),Bihar,25.0333,88.45,prefix5,1
+IND851112AAB,Barauni_Wardno10_D (Bihar),Bihar,24.9833,81.0583,exact,4
+IND250611AAA,Baraut_SrnprHwy_D (Uttar Pradesh),Uttar Pradesh,28.95,77.2167,exact,14
+IND758035AAA,Barbil_PunjbiPd_D (Orissa),Orissa,21.6017,85.8877,prefix5,4
+IND713103AAA,Bardhaman_Bankura_D (West Bengal),West Bengal,23.3222,88.0278,prefix5,10
+IND243002AAA,Bareilly (Uttar Pradesh),Uttar Pradesh,28.1759,79.263,exact,17
+IND243001AAA,Bareilly_Central_D_2 (Uttar Pradesh),Uttar Pradesh,28.1759,79.263,exact,15
+IND464668AAA,Bareli_SourvDPP_D (Madhya Pradesh),Madhya Pradesh,23.0,78.2167,exact,9
+IND768028AAB,Bargarh_GurpdDPP_D (Orissa),Orissa,21.1417,83.4417,prefix5,2
+IND768028AAA,Bargarh_JJCpxDPP_D (Orissa),Orissa,21.1417,83.4417,prefix5,3
+IND803213AAA,Barh_Malahi_D (Bihar),Bihar,25.2917,88.5333,name,5
+IND483770AAA,Barhi_Central_DPP_1 (Madhya Pradesh),Madhya Pradesh,23.4111,80.0222,prefix3,5
+IND312403AAA,BariSadri_BhmprDPP_D (Rajasthan),Rajasthan,24.9,74.6,prefix3,16
+IND757001AAA,Baripada_KalikDPP_D (Orissa),Orissa,21.7342,86.4763,exact,10
+IND277201AAA,Bariya_BgnprDPP_D (Uttar Pradesh),Uttar Pradesh,24.2833,83.5,exact,12
+IND722202AAA,Barjora_Central_DPP_1 (West Bengal),West Bengal,23.15,87.6167,prefix5,9
+IND344001AAA,Barmer_Nehru3PL_D (Rajasthan),Rajasthan,25.9167,72.2667,prefix4,22
+IND148101AAA,Barnala_DC (Punjab),Punjab,30.3833,75.55,exact,13
+IND000000AET,Barpeta_ShivBari_D (Assam),Assam,26.47225,91.075,name,12
+IND413401AAA,Barshi_Kurduwdi_D (Maharashtra),Maharashtra,18.05,75.8,prefix5,40
+IND700144AAA,Baruipur_Bnsibtla_D (West Bengal),West Bengal,22.569,88.3697,exact,9
+IND125121AAA,Barwala_Central_DPP_1 (Haryana),Haryana,29.4278,74.9722,prefix4,5
+IND303301AAB,Bassi_DmodrNGR_D (Rajasthan),Rajasthan,26.7333,76.15,prefix5,22
+IND756029AAA,Basta_Central_DPP_1 (Orissa),Orissa,21.5889,87.1611,prefix5,2
+IND272001AAA,Basti_GndhiNgr_D (Uttar Pradesh),Uttar Pradesh,26.8796,82.873,exact,10
+IND624202AAA,Batlagundu_RTOofice_D (Tamil Nadu),Tamil Nadu,10.5333,78.0667,exact,21
+IND321401AAB,Bayana_LalBagh_D (Rajasthan),Rajasthan,25.6817,75.7308,prefix5,12
+IND305901AAA,Beawar_DC (Rajasthan),Rajasthan,25.7,73.9667,prefix4,24
+IND431122AAA,Beed_JalnaRd_D (Maharashtra),Maharashtra,18.7,76.0833,prefix5,16
+IND590016AAA,Belgaum_Dc (Karnataka),Karnataka,16.1727,74.8924,prefix4,22
+IND583101AAA,Bellary_Dc (Karnataka),Karnataka,15.3167,76.7167,exact,49
+IND504251AAA,Bellmpalli_BasthDPP_D (Telangana),Telangana,19.2833,78.1917,exact,7
+IND560077AAA,Bengaluru_ Kothanur_L (Karnataka),Karnataka,13.0499,77.1594,prefix5,2
+IND560064AAD,Bengaluru_Bagaluru_D (Karnataka),Karnataka,13.1075,77.6003,exact,41
+IND560085AAA,Bengaluru_Banshkri_DC (Karnataka),Karnataka,13.7919,76.8042,prefix5,60
+IND560083AAB,Bengaluru_Bnnrghta_L (Karnataka),Karnataka,13.7919,76.8042,prefix5,83
+IND560099AAB,Bengaluru_Bomsndra_HB (Karnataka),Karnataka,13.0499,77.1594,prefix5,820
+IND560099AAG,Bengaluru_Bomsndra_L (Karnataka),Karnataka,13.0499,77.1594,prefix5,2
+IND560099AAA,Bengaluru_Bomsndra_PC (Karnataka),Karnataka,13.0499,77.1594,prefix5,4
+IND560048AAB,Bengaluru_Hoodi_IP (Karnataka),Karnataka,13.0499,77.1594,exact,108
+IND560300AAA,Bengaluru_KGAirprt_HB (Karnataka),Karnataka,13.0499,77.1594,prefix3,609
+IND560002AAA,Bengaluru_KHRoad_I (Karnataka),Karnataka,12.2667,76.6833,exact,110
+IND560067AAC,Bengaluru_Kadugodi_D (Karnataka),Karnataka,13.1075,77.6003,exact,28
+IND560060AAB,Bengaluru_Kengeri_IP (Karnataka),Karnataka,13.1075,77.6003,prefix5,133
+IND562132AAC,Bengaluru_Nelmngla_L (Karnataka),Karnataka,13.2936,77.8017,prefix5,1
+IND560064AAA,Bengaluru_NwYlhnka_DC (Karnataka),Karnataka,13.1075,77.6003,exact,39
+IND560058AAB,Bengaluru_Peenya_IP (Karnataka),Karnataka,13.0499,77.1594,exact,175
+IND560058AAD,Bengaluru_Peenya_L (Karnataka),Karnataka,13.0499,77.1594,exact,96
+IND562125AAA,Bengaluru_Sarjapur_D (Karnataka),Karnataka,13.2655,77.7687,prefix5,2
+IND560099AAH,Bengaluru_South_D_20 (Karnataka),Karnataka,13.0499,77.1594,prefix5,1
+IND560066AAB,Bengaluru_Whitefld_L (Karnataka),Karnataka,13.1075,77.6003,exact,2
+IND847223AAA,Benipatti_WardNo1_D (Bihar),Bihar,25.2917,88.5333,prefix5,23
+IND847103AAA,Benipur_Javahar_D (Bihar),Bihar,25.2917,88.5333,prefix5,40
+IND761020AAA,Berhampur_Chatrpr_DC (Orissa),Orissa,19.4222,84.9889,exact,1
+IND760003AAB,Berhampur_Khajuria_I (Orissa),Orissa,20.2327,83.858,prefix5,14
+IND518206AAA,Betamcherla_CmtNgRod_D (Andhra Pradesh),Andhra Pradesh,15.3333,77.9381,exact,12
+IND563116AAA,Bethamangala_FshryOFC_D (Karnataka),Karnataka,13.2,78.0167,prefix5,31
+IND757025AAA,Betnoti_MhliaDPP_D (Orissa),Orissa,21.851,86.8765,prefix5,14
+IND845438AAA,Bettiah_BypassRd_D (Bihar),Bihar,25.2917,88.5333,exact,32
+IND460001AAA,Betul_PatelWrd_D (Madhya Pradesh),Madhya Pradesh,21.5167,76.65,prefix3,41
+IND210501AAB,Bewar_BndhuTRH_D (Uttar Pradesh),Uttar Pradesh,25.4611,80.5241,prefix5,16
+IND385320AAA,Bhabhar_TirupDPP_D (Gujarat),Gujarat,24.0333,71.7,prefix5,27
+IND148102AAA,Bhadaur_BChwkDPP_D (Punjab),Punjab,30.3278,75.5444,prefix5,6
+IND221401AAA,Bhadohi_Rajpura_D (Uttar Pradesh),Uttar Pradesh,25.6475,83.1794,prefix5,3
+IND335501AAA,Bhadra_GMndiDPP_D (Rajasthan),Rajasthan,28.8394,74.9897,exact,2
+IND507111AAA,Bhadrachalam_ITDARd_D (Telangana),Telangana,17.6,80.3333,exact,20
+IND756100AAC,Bhadrak_Central_I_2 (Orissa),Orissa,20.9813,84.0822,prefix5,44
+IND812002AAA,Bhagalpur_Pbroad_DC (Bihar),Bihar,24.3298,85.6667,exact,35
+IND790114AAA,Bhalukpong_Khenewa_D (Arunachal Pradesh),Arunachal Pradesh,27.4583,92.0667,exact,2
+IND441912AAA,Bhandara_KaremDPP_D (Maharashtra),Maharashtra,20.5833,76.8333,prefix5,23
+IND441904AAB,Bhandara_RjnaiDPP_D (Maharashtra),Maharashtra,20.5833,76.8333,prefix4,12
+IND360510AAB,Bhanvad_Mainroad_D (Gujarat),Gujarat,21.7,69.6917,prefix4,23
+IND321001AAA,Bharatpur_DC (Rajasthan),Rajasthan,27.65,77.2667,exact,22
+IND321001AAB,Bharatpur_NraynDPP_D (Rajasthan),Rajasthan,27.65,77.2667,exact,21
+IND151001AAA,Bhatinda_DPC (Punjab),Punjab,30.1667,75.1881,exact,99
+IND361315AAA,Bhatiya_Kalyanpr_D (Gujarat),Gujarat,22.3167,69.6,prefix5,21
+IND581320AAA,Bhatkal_KmkshBul_D (Karnataka),Karnataka,15.213899999999999,74.5778,prefix5,10
+IND493118AAC,Bhatpara_TrengaRD_D (Chhattisgarh),Chhattisgarh,21.7333,81.9333,exact,11
+IND364004AAB,Bhavnagar_ChtrGIDC_IP (Gujarat),Gujarat,21.6833,72.1667,prefix5,18
+IND364001AAA,Bhavnagar_Dc (Gujarat),Gujarat,21.6833,72.1667,exact,2
+IND364290AAA,Bhavnagar_Mahuva_DC (Gujarat),Gujarat,21.0833,71.8,exact,12
+IND531163AAA,Bheemunipatnam_SaiTempl_D (Andhra Pradesh),Andhra Pradesh,17.825,82.8694,prefix5,25
+IND396105AAA,Bhilad_Umargaon_DC (Gujarat),Gujarat,20.3583,72.8208,prefix4,4
+IND311001AAA,Bhilwara_DC (Rajasthan),Rajasthan,25.5,74.675,prefix4,19
+IND477001AAA,Bhind_BhrolDPP_D (Madhya Pradesh),Madhya Pradesh,24.75,77.3307,prefix3,7
+IND477001AAB,Bhind_EtwahDPP_D (Madhya Pradesh),Madhya Pradesh,24.75,77.3307,prefix3,13
+IND343029AAB,Bhinmal_RwStnDPP_D (Rajasthan),Rajasthan,25.2,72.5833,exact,4
+IND301019AAA,Bhiwadi DC (Rajasthan),Rajasthan,27.45,76.5333,prefix4,8
+IND421302AAH,Bhiwandi_Mankoli_GW (Maharashtra),Maharashtra,19.1833,73.2083,prefix5,31
+IND421302AAG,Bhiwandi_Mankoli_HB (Maharashtra),Maharashtra,19.1833,73.2083,prefix5,1404
+IND462011AAA,Bhopal MP Nagar (Madhya Pradesh),Madhya Pradesh,23.0667,77.3769,prefix4,41
+IND462021AAA,Bhopal_Indrapri_DC (Madhya Pradesh),Madhya Pradesh,23.0667,77.3769,prefix4,1
+IND462042AAA,Bhopal_Kolar Mandakni (Madhya Pradesh),Madhya Pradesh,23.0667,77.3769,prefix5,19
+IND462001AAA,Bhopal_Old City (Madhya Pradesh),Madhya Pradesh,23.0667,77.3769,prefix5,32
+IND462022AAA,Bhopal_Trnsport_H (Madhya Pradesh),Madhya Pradesh,23.0667,77.3769,prefix4,266
+IND176041AAA,Bhota_BpassDPP_D (Himachal Pradesh),Himachal Pradesh,32.0537,76.2852,prefix5,19
+IND751002AAB,Bhubaneshwar_Hub (Orissa),Orissa,20.8413,85.8176,exact,164
+IND751015AAA,Bhubaneshwar_Nayapalli (Orissa),Orissa,20.8413,85.8176,prefix5,13
+IND751014AAA,Bhubaneswar_BjbNgr_DC (Orissa),Orissa,20.8413,85.8176,exact,5
+IND751021AAA,Bhubaneswar_Patia (Orissa),Orissa,20.8413,85.8176,prefix4,1
+IND370001AAA,Bhuj_DC (Gujarat),Gujarat,23.4577,70.0026,exact,30
+IND506169AAB,Bhupalpally_JwahrNGR_D (Telangana),Telangana,17.0289,78.3025,prefix5,3
+IND425201AAA,Bhusawal_Samarth_D (Maharashtra),Maharashtra,20.9567,75.5533,prefix3,18
+IND508116AAA,Bhuvanagiri_HBColny_D (Telangana),Telangana,17.4419,78.3883,exact,28
+IND585401AAA,Bidar (Karnataka),Karnataka,17.9917,77.4083,prefix5,43
+IND305624AAA,Bijainagar_Central_DPP_1 (Rajasthan),Rajasthan,26.15,74.8167,prefix5,18
+IND586101AAB,Bijapur_Central_D_2 (Karnataka),Karnataka,16.7095,76.0762,prefix5,10
+IND586101AAA,Bijapur_KirtiNgr_D (Karnataka),Karnataka,16.7095,76.0762,prefix5,12
+IND509203AAA,Bijnapally_nagar_D (Telangana),Telangana,16.65,77.6667,prefix5,38
+IND246701AAA,Bijnor_NaginaRd_D (Uttar Pradesh),Uttar Pradesh,29.3867,78.4033,prefix4,22
+IND334001AAB,Bikaner_DC (Rajasthan),Rajasthan,28.0667,73.3833,exact,12
+IND334001AAC,Bikaner_ITICollg_L (Rajasthan),Rajasthan,28.0667,73.3833,exact,9
+IND342602AAC,Bilara_Central_DPP_2 (Rajasthan),Rajasthan,26.4,73.7833,exact,12
+IND783348AAA,Bilasipara_Wardno5_D (Assam),Assam,26.4333,90.15,prefix5,21
+IND174001AAA,BilaspurHP_Indsarea_D (Himachal Pradesh),Himachal Pradesh,31.3083,76.4542,exact,44
+IND244921AAB,Bilaspur_GrmNgriya_D (Uttar Pradesh),Uttar Pradesh,29.0889,78.6778,prefix5,9
+IND495004AAA,Bilaspur_Torwa_DC (Chhattisgarh),Chhattisgarh,26.1872,80.0646,exact,1
+IND396321AAA,Bilimora_DC (Gujarat),Gujarat,20.825,72.975,exact,40
+IND470113AAA,Bina_Srvdycwk_D (Madhya Pradesh),Madhya Pradesh,23.7833,78.3667,prefix5,12
+IND722122AAA,Bishnupur_StnRdDPP_D (West Bengal),West Bengal,23.1119,87.0619,exact,17
+IND784176AAA,Bishwanath_ChrliDPP_D (Assam),Assam,26.8111,93.0611,exact,10
+IND261201AAB,Biswan_PatelNGR_D (Uttar Pradesh),Uttar Pradesh,27.6917,80.6833,prefix5,19
+IND560027AAA,Blr_Domlur (Karnataka),Karnataka,13.0499,77.1594,exact,4
+IND518124AAA,Bngnpalle_Enkndla_D (Andhra Pradesh),Andhra Pradesh,15.2167,78.1167,exact,22
+IND503185AAA,Bodhan_SuryaDPP_D (Telangana),Telangana,18.3833,77.8833,prefix5,39
+IND401501AAA,Boisar_OstwlEmp_D (Maharashtra),Maharashtra,19.9167,73.2333,prefix3,34
+IND785612AAB,Bokakhat_MlnprDPP_D (Assam),Assam,26.5958,93.875,prefix5,5
+IND827013AAA,Bokaro_KSClny_DC (Jharkhand),Jharkhand,23.6333,86.1667,exact,25
+IND731204AAB,Bolpur_WebelDPP_D (West Bengal),West Bengal,23.95,87.8167,prefix4,26
+IND790001AAB,Bomdila_CTRoad_D (Arunachal Pradesh),Arunachal Pradesh,27.25,92.4,exact,1
+IND743235AAA,Bongaon_SukntDPP_D (West Bengal),West Bengal,22.6944,88.7803,prefix3,11
+IND364710AAA,Botad_DC (Gujarat),Gujarat,21.7389,72.0333,exact,13
+IND441206AAB,Brahmapuri_DhnliRth_D (Maharashtra),Maharashtra,20.7167,79.5,exact,8
+IND768216AAA,Brajrajnagar_LamtiDPP_D (Orissa),Orissa,21.8833,84.2,prefix5,5
+IND251309AAB,Budhana_Busstand_D (Uttar Pradesh),Uttar Pradesh,25.5833,79.0333,prefix5,19
+IND333502AAA,Buhana_CourtDPP_D (Rajasthan),Rajasthan,27.8833,75.7667,prefix5,1
+IND203001AAA,Bulndshahr_Ymunpurm_D (Uttar Pradesh),Uttar Pradesh,28.8348,77.4664,exact,5
+IND450331AAA,Burhanpur_StRoad_D (Madhya Pradesh),Madhya Pradesh,24.3333,77.9667,exact,29
+IND700065AAB,CCU_Beleghta_CP (West Bengal),West Bengal,22.569,88.3697,exact,15
+IND700065AAA,CCU_Beliaghata_DPC (West Bengal),West Bengal,22.569,88.3697,exact,57
+IND700028AAB,CCU_DumDum_DPC (West Bengal),West Bengal,22.569,88.3697,exact,36
+IND700136AAB,CCU_Hub (West Bengal),West Bengal,22.569,88.3697,exact,2
+IND700026AAC,CCU_Lake Avenue_DPC (West Bengal),West Bengal,22.569,88.3697,exact,37
+IND700053AAA,CCU_New Alipore_DPC (West Bengal),West Bengal,22.569,88.3697,exact,41
+IND403702AAA,Canacona_CharRsta_D (Goa),Goa,15.0167,74.0167,exact,18
+IND403002AAA,Central Goa (Goa),Goa,15.45,73.8,exact,5
+IND786184AAA,Chabua_CollgeRD_D (Assam),Assam,27.3,95.7917,exact,17
+IND845412AAB,Chakia_Wardno10_D (Bihar),Bihar,25.2917,88.5333,exact,30
+IND303901AAA,Chaksu_TonkRoad_D (Rajasthan),Rajasthan,26.6,75.95,exact,13
+IND680307AAA,Chalakudy_SurbhiTh_D (Kerala),Kerala,10.3,76.35,exact,25
+IND424101AAA,Chalisgaon_BhadgDPP_D (Maharashtra),Maharashtra,20.7417,75.5667,prefix5,9
+IND577522AAA,Challakere_Shivangr_D (Karnataka),Karnataka,14.3167,76.65,exact,20
+IND571313AAB,Chamarjngr_BrDbleRd_D (Karnataka),Karnataka,12.1944,76.6631,exact,20
+IND176310AAA,Chamba_Bangotu_D (Himachal Pradesh),Himachal Pradesh,32.5333,75.9833,exact,23
+IND246424AAA,Chamoli_CGRoad_D (Uttarakhand),Uttarakhand,30.4,79.35,exact,31
+IND441603AAA,Chamorshi_Central_DPP_1 (Maharashtra),Maharashtra,20.8125,78.6833,prefix5,5
+IND495671AAA,Champa_Brplicwk_D (Chhattisgarh),Chhattisgarh,26.1872,80.0646,exact,1
+IND796321AAB,Champhai_AwmpiVng_D (Mizoram),Mizoram,23.6167,92.6,exact,7
+IND562160AAB,Chanapatna_Central_D_2 (Karnataka),Karnataka,13.2797,77.8017,prefix4,10
+IND232104AAB,Chandauli_ShubsNGR_D (Uttar Pradesh),Uttar Pradesh,25.2667,83.2667,exact,11
+IND244412AAA,Chandausi_Ganesh_D (Uttar Pradesh),Uttar Pradesh,29.0889,78.6778,prefix3,24
+IND160003AAA,Chandigarh (Chandigarh),Chandigarh,30.7372,76.7872,exact,2
+IND140301AAA,Chandigarh_Kharar_DC (Chandigarh),Chandigarh,30.7444,76.6478,exact,61
+IND160002AAC,Chandigarh_Mehmdpur_H (Punjab),Punjab,30.7372,76.7872,exact,801
+IND160002AAD,Chandigarh_Mehmdpur_P (Punjab),Punjab,30.7372,76.7872,exact,3
+IND160055AAA,Chandigarh_Mohali (Chandigarh),Chandigarh,30.7372,76.7872,exact,57
+IND140901AAA,Chandigarh_Mullanpr_DC (Chandigarh),Chandigarh,30.7871,76.5526,prefix3,80
+IND134109AAA,Chandigarh_Panchkula (Chandigarh),Chandigarh,30.5224,77.046,exact,15
+IND160102AAD,Chandigarh_Raiprkln_C (Chandigarh),Chandigarh,30.7372,76.7872,prefix5,15
+IND160102AAC,Chandigarh_Raiprvlg_L (Chandigarh),Chandigarh,30.7372,76.7872,prefix5,53
+IND246725AAB,Chandpur_NorprRD_D (Uttar Pradesh),Uttar Pradesh,29.15,78.2667,exact,24
+IND721253AAC,ChandroknaRD_Central_DPP_3 (West Bengal),West Bengal,22.484,87.4703,prefix3,19
+IND792120AAB,Changlang_Central_D_1 (Arunachal Pradesh),Arunachal Pradesh,27.3917,96.1417,exact,12
+IND573116AAA,Channaraya_patna_D (Karnataka),Karnataka,13.1531,76.3067,exact,28
+IND741123AAB,Chapra_NagarDPP_D (West Bengal),West Bengal,13.9463,92.1467,prefix4,36
+IND600016AAB,Chennai_Alandur_C (Tamil Nadu),Tamil Nadu,13.0025,80.2061,exact,22
+IND600083AAA,Chennai_AshokNagar_DC (Tamil Nadu),Tamil Nadu,13.048549999999999,80.23259999999999,prefix5,2
+IND603001AAA,Chennai_Chnglptu_DC (Tamil Nadu),Tamil Nadu,12.5576,80.0556,exact,25
+IND600044AAD,Chennai_Chrompet_DPC (Tamil Nadu),Tamil Nadu,13.0385,80.2345,exact,103
+IND600044AAE,Chennai_Chrompet_L (Tamil Nadu),Tamil Nadu,13.0385,80.2345,exact,63
+IND600044AAC,Chennai_Chrompet_PC (Tamil Nadu),Tamil Nadu,13.0385,80.2345,exact,54
+IND600008AAA,Chennai_Egmore_C (Tamil Nadu),Tamil Nadu,13.0717,80.2556,exact,14
+IND600008AAC,Chennai_Egmore_DPC (Tamil Nadu),Tamil Nadu,13.0717,80.2556,exact,54
+IND600032AAB,Chennai_Hub (Tamil Nadu),Tamil Nadu,13.0389,80.2258,exact,198
+IND600076AAB,Chennai_Madhavaram_DPC (Tamil Nadu),Tamil Nadu,13.0385,80.2345,prefix5,76
+IND600110AAA,Chennai_Madhavaram_L (Tamil Nadu),Tamil Nadu,12.9819,80.2406,prefix5,39
+IND600004AAA,Chennai_Mylapore (Tamil Nadu),Tamil Nadu,13.0656,80.2672,exact,4
+IND600016AAC,Chennai_Perungudi_DPC (Tamil Nadu),Tamil Nadu,13.0025,80.2061,exact,35
+IND600056AAA,Chennai_Poonamallee (Tamil Nadu),Tamil Nadu,13.0385,80.2345,prefix5,10
+IND600056AAD,Chennai_Poonamallee_L (Tamil Nadu),Tamil Nadu,13.0385,80.2345,prefix5,1
+IND600116AAB,Chennai_Porur_DPC (Tamil Nadu),Tamil Nadu,12.9819,80.2406,prefix5,47
+IND603203AAA,Chennai_Potheri (Tamil Nadu),Tamil Nadu,12.5576,80.0556,prefix5,17
+IND600013AAA,Chennai_Royapuram (Tamil Nadu),Tamil Nadu,13.0025,80.2061,prefix5,2
+IND600073AAA,Chennai_Selaiyur_DC (Tamil Nadu),Tamil Nadu,13.0385,80.2345,prefix5,1
+IND600119AAA,Chennai_Sholinganallur_Dc (Tamil Nadu),Tamil Nadu,12.9819,80.2406,prefix5,29
+IND602105AAB,Chennai_Sriperumbudur_Dc (Tamil Nadu),Tamil Nadu,13.1575,79.9194,prefix3,7
+IND602001AAA,Chennai_Thiruvlr_DC (Tamil Nadu),Tamil Nadu,13.1575,79.9194,prefix5,12
+IND600048AAA,Chennai_Vandalur_Dc (Tamil Nadu),Tamil Nadu,13.0385,80.2345,prefix5,16
+IND602024AAA,Chennai_Vepmpttu_DC (Tamil Nadu),Tamil Nadu,13.1575,79.9194,exact,23
+IND688524AAA,Cherthala_Mulapali_D (Kerala),Kerala,10.2762,76.2548,prefix5,7
+IND606801AAB,Chetpet_Blmrgnst_D (Tamil Nadu),Tamil Nadu,12.1167,79.15,exact,26
+IND841424AAA,Chhapra_Prbhunth_D (Bihar),Bihar,25.0333,88.45,exact,9
+IND281401AAA,Chhata_GvrdnDPP_D (Uttar Pradesh),Uttar Pradesh,27.6,77.6,exact,12
+IND471001AAA,Chhatarpur_Busstand_D (Madhya Pradesh),Madhya Pradesh,24.9,79.6,exact,21
+IND781124AAA,Chhaygaon_GwhRDDPP_D (Assam),Assam,26.05,91.4,exact,14
+IND209721AAB,Chhibramau_Bhainpura_D (Uttar Pradesh),Uttar Pradesh,27.0667,79.6833,prefix5,20
+IND480001AAA,Chhindwara_NagpurRd_D (Madhya Pradesh),Madhya Pradesh,22.2389,79.4981,exact,20
+IND608001AAA,Chidambaram_ARBNorth_DC (Tamil Nadu),Tamil Nadu,11.4667,79.6333,prefix3,18
+IND562101AAA,Chikblapur_ShntiSgr_D (Karnataka),Karnataka,13.3847,77.6933,prefix5,26
+IND443201AAA,Chikhli_KKndrDPP_D (Maharashtra),Maharashtra,20.9833,76.5833,prefix3,3
+IND577101AAA,Chikmagalur_DC (Karnataka),Karnataka,13.2667,75.7167,prefix4,19
+IND591201AAA,Chikodi_IndraNgr_D (Karnataka),Karnataka,16.61,74.9467,prefix4,15
+IND523226AAA,Chimkurthy_MSRClgRd_D (Andhra Pradesh),Andhra Pradesh,15.9167,80.05,exact,18
+IND585307AAB,Chincholi_Mainroad_D (Karnataka),Karnataka,17.2,76.35,prefix5,43
+IND606201AAC,Chinnasalem_VkotRoad_D (Tamil Nadu),Tamil Nadu,12.29,79.0267,prefix5,29
+IND504201AAA,Chinnur_AsnsdhRD_D (Telangana),Telangana,19.2833,78.1917,prefix5,11
+IND563125AAB,Chintamani_Central_D_2 (Karnataka),Karnataka,13.2,78.0167,prefix5,31
+IND415605AAA,Chiplun_LxmiNiws_D (Maharashtra),Maharashtra,17.5944,74.1667,prefix5,32
+IND276129AAA,Chiraiyakot_KamalDPP_D (Uttar Pradesh),Uttar Pradesh,25.7667,83.1833,prefix5,2
+IND577501AAA,Chitradurga_DC (Karnataka),Karnataka,14.2473,76.3193,exact,22
+IND585211AAA,Chittapur_GlbrgaRD_D (Karnataka),Karnataka,20.4,76.4833,prefix5,41
+IND312001AAA,Chittaurgarh_DC (Rajasthan),Rajasthan,24.9,74.6,prefix3,41
+IND531036AAA,Chodavaram_BaljiDPP_D (Andhra Pradesh),Andhra Pradesh,17.78,82.79,prefix5,9
+IND303702AAB,Chomu_ShsmlDPP_D (Rajasthan),Rajasthan,26.7557,75.7809,prefix5,21
+IND231205AAA,Chopan_PreetDPP_D (Uttar Pradesh),Uttar Pradesh,24.7167,82.675,prefix5,7
+IND363520AAC,Chotila_Central_D_2 (Gujarat),Gujarat,22.6167,71.14165,prefix4,13
+IND508252AAB,Choutuppal_Nagaram_D (Telangana),Telangana,17.1667,79.4333,prefix4,13
+IND124141AAA,ChrkhiDdri_PuranDPP_D (Haryana),Haryana,28.9356,76.8458,prefix5,13
+IND486771AAA,Churhat_Central_DPP_1 (Madhya Pradesh),Madhya Pradesh,24.4333,81.6833,exact,14
+IND641008AAA,Cjb_Kovaipudur_Dc (Tamil Nadu),Tamil Nadu,10.9375,76.975,prefix5,6
+IND641011AAA,Cjb_West_Dc (Tamil Nadu),Tamil Nadu,10.9375,76.975,exact,10
+IND641006AAD,Coimbatore_ElngoNgr_C (Tamil Nadu),Tamil Nadu,10.9375,76.975,exact,5
+IND641062AAD,Coimbatore_Karayam_H (Tamil Nadu),Tamil Nadu,10.9375,76.975,prefix4,135
+IND641001AAA,Coimbatore_Ukkadam_D (Tamil Nadu),Tamil Nadu,10.9375,76.975,exact,9
+IND721401AAA,Contai_Kanakpur_D (West Bengal),West Bengal,22.484,87.4703,prefix3,4
+IND736101AAA,CoochBehar_Psthrjhr_D (West Bengal),West Bengal,24.1222,88.8175,exact,6
+IND643231AAA,Coonoor_Fairybnk_D (Tamil Nadu),Tamil Nadu,11.3667,76.8,exact,26
+IND607001AAA,Cuddalore_KtsiGrsm_D (Tamil Nadu),Tamil Nadu,11.7333,79.7833,exact,23
+IND516001AAA,Cuddapah_DC (Andhra Pradesh),Andhra Pradesh,14.5917,78.9389,exact,4
+IND625516AAA,Cumbum_LFRoad_D (Tamil Nadu),Tamil Nadu,10.0667,78.05,prefix4,15
+IND754202AAA,Cuttack_SliprDPP_DC (Orissa),Orissa,20.4833,86.1,exact,2
+IND391110AAD,Dabhoi_Central_DPP_3 (Gujarat),Gujarat,22.1111,73.7528,exact,12
+IND201301AAL,Dadri_ICDCant_D (Uttar Pradesh),Uttar Pradesh,27.2384,78.7478,prefix5,45
+IND401602AAA,Dahanu_KetyDPP_D (Maharashtra),Maharashtra,19.9167,73.2333,prefix5,34
+IND389151AAA,Dahod_DC (Gujarat),Gujarat,22.6833,74.3167,exact,32
+IND176303AAA,Dalhousie_Banikhet_D (Himachal Pradesh),Himachal Pradesh,32.5333,75.9833,prefix5,20
+IND848114AAA,DalsinghSarai_Wardno13_D (Bihar),Bihar,25.55,88.6167,exact,41
+IND396210AAA,Daman_DC (Daman & Diu),Daman & Diu,20.4167,72.85,exact,1
+IND581325AAA,Dandeli_RKComplx_D (Karnataka),Karnataka,15.2667,74.6167,exact,28
+IND846004AAA,Darbhanga (Bihar),Bihar,25.2917,88.5333,exact,44
+IND000000AFF,Darjeeling_Hillcard_DC (West Bengal),West Bengal,26.816650000000003,88.32085000000001,name,6
+IND475661AAB,Datia_TownDPP_D (Madhya Pradesh),Madhya Pradesh,25.9633,78.61,exact,1
+IND250221AAA,Daurala_Sardhnrd_D (Uttar Pradesh),Uttar Pradesh,29.1167,77.6833,exact,1
+IND303303AAA,Dausa_IndraCln_D (Rajasthan),Rajasthan,26.7333,76.15,exact,31
+IND577002AAA,Davangere_Central_I_1 (Karnataka),Karnataka,14.4667,75.9167,exact,60
+IND385535AAA,Deesa_HawaiPlr_DC (Gujarat),Gujarat,24.0333,71.9267,prefix5,31
+IND341503AAB,Degana_BhukrdPP_D (Rajasthan),Rajasthan,26.8333,74.3333,exact,24
+IND431717AAA,Degloor_Busstand_D (Maharashtra),Maharashtra,19.43335,77.6417,prefix5,4
+IND177101AAA,DehraGopipur_Central_D_1 (Himachal Pradesh),Himachal Pradesh,31.8167,76.2333,exact,6
+IND248001AAA,Dehradun (Uttarakhand),Uttarakhand,30.3333,78.0833,exact,41
+IND248001AAD,Dehradun_Nirjanpur_L (Uttarakhand),Uttarakhand,30.3333,78.0833,exact,12
+IND248197AAA,Dehradun_Selakui_D (Uttarakhand),Uttarakhand,30.3856,77.8075,exact,16
+IND821307AAA,DehriSone_Dilliyan_D (Bihar),Bihar,23.908,85.4865,exact,12
+IND110037AAB,Del_B_RPC (Delhi),Delhi,28.7556,77.1667,exact,11
+IND110044AAB,Del_Okhla_PC (Delhi),Delhi,28.5083,77.3,exact,222
+IND110037AAM,Delhi_Airport_H (Delhi),Delhi,28.7556,77.1667,exact,445
+IND110039AAA,Delhi_Barwala (Delhi),Delhi,28.8,77.0333,exact,7
+IND110014AAA,Delhi_Bhogal (Delhi),Delhi,28.55,77.2667,exact,20
+IND000000ACT,Delhi_Gateway_HB (Delhi),Delhi,28.55,77.2667,name,160
+IND110095AAB,Delhi_Jhilmil_L (Delhi),Delhi,28.6488,77.1726,prefix5,37
+IND110037AAK,Delhi_Kapshera_L (Delhi),Delhi,28.7556,77.1667,exact,82
+IND110030AAD,Delhi_Kishangarh_DPC (Delhi),Delhi,28.7556,77.1667,exact,65
+IND110024AAA,Delhi_Lajpat_IP (Delhi),Delhi,28.6488,77.1726,exact,40
+IND110046AAA,Delhi_Lajwanti (Delhi),Delhi,28.6092,77.1569,exact,1
+IND110083AAA,Delhi_Mangol_DC (Delhi),Delhi,28.6488,77.1726,exact,4
+IND110064AAA,Delhi_Mayapuri_PC (Delhi),Delhi,28.6488,77.1726,exact,92
+IND110043AAA,Delhi_Nangli_IP (Delhi),Delhi,28.6125,76.9847,exact,70
+IND110043AAC,Delhi_Nangli_L (Delhi),Delhi,28.6125,76.9847,exact,10
+IND110035AAC,Delhi_North_R_8 (Delhi),Delhi,28.7556,77.1667,exact,39
+IND110077AAA,Delhi_Palam (Delhi),Delhi,28.6528,76.9539,prefix5,1
+IND110087AAA,Delhi_Paschim_DC (Delhi),Delhi,28.6488,77.1726,prefix5,3
+IND110092AAC,Delhi_Patparganj_DPC (Delhi),Delhi,28.6488,77.1726,exact,14
+IND000000AEL,Delhi_PunjabiB_L (Delhi),Delhi,28.55,77.2667,name,40
+IND110085AAB,Delhi_Rohini_DPC (Delhi),Delhi,28.6488,77.1726,prefix5,68
+IND110093AAA,Delhi_Shahdara (Delhi),Delhi,28.6488,77.1726,exact,2
+IND110005AAA,Delhi_Todapur_DC (Delhi),Delhi,28.65,77.2,exact,2
+IND110052AAA,Delhi_Wazirpur_L (Delhi),Delhi,28.6167,77.2167,exact,12
+IND247554AAA,Deoband_Ramvlg_D (Uttar Pradesh),Uttar Pradesh,29.7,77.6833,exact,26
+IND814112AAA,Deoghar_Barmasia_D (Jharkhand),Jharkhand,24.5333,87.5667,exact,16
+IND442101AAB,Deoli_Central_DPP_2 (Maharashtra),Maharashtra,20.4333,76.9611,prefix3,17
+IND274001AAA,Deoria_CCRoad_D (Uttar Pradesh),Uttar Pradesh,26.7879,82.6172,exact,31
+IND508248AAB,Devarakonda_DindiRD_D (Telangana),Telangana,17.1667,79.4333,exact,31
+IND845418AAB,Dhaka_PchpkrRD_D (Bihar),Bihar,25.2917,88.5333,exact,29
+IND246761AAA,Dhampur_NaginaRD_D (Uttar Pradesh),Uttar Pradesh,29.541649999999997,78.39165,prefix5,23
+IND826001AAC,Dhanbad_Central_D_4 (Jharkhand),Jharkhand,23.908,85.4865,exact,2
+IND828111AAA,Dhanbad_Jharia_DC (Jharkhand),Jharkhand,23.75,86.4,exact,13
+IND826004AAA,Dhanbad_Kalynpur_I (Jharkhand),Jharkhand,23.908,85.4865,exact,100
+IND454001AAA,Dhar_Trimurti_D (Madhya Pradesh),Madhya Pradesh,22.5926,75.0352,prefix4,17
+IND176215AAA,Dharamshala_GrudwrRd_D (Himachal Pradesh),Himachal Pradesh,32.225,76.0,exact,3
+IND638657AAA,Dharapuram_Techrcly_D (Tamil Nadu),Tamil Nadu,11.44,77.7967,exact,31
+IND799250AAA,Dharmanagr_Ranakant_D (Tripura),Tripura,24.139,91.7716,exact,2
+IND636705AAB,Dharmapuri_Central_D_2 (Tamil Nadu),Tamil Nadu,11.7121,78.4682,exact,18
+IND515671AAA,Dharmavram_SaiNgr_D (Andhra Pradesh),Andhra Pradesh,14.3447,77.8319,prefix4,27
+IND123106AAB,Dharuhera_Central_DPP_2 (Haryana),Haryana,28.45,76.3833,prefix3,10
+IND580002AAA,Dharwad_Dc (Karnataka),Karnataka,16.2928,76.0442,prefix5,13
+IND262723AAB,Dhaurahara_TahsilRD_D (Uttar Pradesh),Uttar Pradesh,25.1333,81.3,prefix5,21
+IND784110AAA,Dhekiajuli_Wardno5_D (Assam),Assam,26.7,92.5,exact,6
+IND787057AAA,Dhemaji_WardNo3_D (Assam),Assam,27.4833,94.5833,exact,18
+IND843105AAB,Dholi_WardNo4_D (Bihar),Bihar,25.2917,88.5333,exact,40
+IND328001AAA,Dholpur_GtRoad_D (Rajasthan),Rajasthan,25.6171,76.0493,exact,27
+IND518222AAA,Dhone_RmNyrDPP_D (Andhra Pradesh),Andhra Pradesh,15.3333,77.9381,prefix5,9
+IND360410AAA,Dhoraji_JmnvadRd_DC (Gujarat),Gujarat,21.8,70.2167,exact,3
+IND363310AAB,Dhrangadhra_NvygRDPP_D (Gujarat),Gujarat,22.5542,71.6167,prefix4,18
+IND505425AAA,DhrmpuriTS_HanumDPP_D (Telangana),Telangana,17.448,78.5913,exact,16
+IND574216AAA,Dhrmsthala_Beltngdi_D (Karnataka),Karnataka,14.2467,76.2933,prefix4,18
+IND783301AAA,Dhubri_Tetultol_D (Assam),Assam,26.3095,90.2155,exact,21
+IND424006AAA,Dhule_MIDCAvdn_I (Maharashtra),Maharashtra,20.7417,75.5667,prefix3,65
+IND148024AAB,Dhuri_DMComDPP_D (Punjab),Punjab,30.3667,75.8667,exact,1
+IND786001AAB,Dibrugarh_Bokule_H (Assam),Assam,27.25,95.5792,exact,80
+IND341303AAA,Didwana_KatlaDPP_D (Rajasthan),Rajasthan,27.65,74.3833,prefix5,24
+IND786171AAA,Digboi_JyotiNgr_D (Assam),Assam,27.3278,95.5833,exact,24
+IND841207AAB,Dighwara_SadarHPL_D (Bihar),Bihar,25.0333,88.45,prefix5,4
+IND624001AAA,Dindigul_Central_D_1 (Tamil Nadu),Tamil Nadu,10.5333,78.0667,exact,33
+IND736135AAA,Dinhata_WrdN4DPP_D (West Bengal),West Bengal,26.1333,89.4667,exact,19
+IND561203AAB,Doddablpur_ChikaDPP_D (Karnataka),Karnataka,13.9424,77.5299,prefix5,24
+IND275303AAA,Dohrighat_AzmrdDPP_D (Uttar Pradesh),Uttar Pradesh,26.4,81.5333,prefix3,8
+IND484446AAA,Dola_ChainDPP_D (Madhya Pradesh),Madhya Pradesh,23.0542,81.51875,prefix3,8
+IND786190AAA,DoomDooma_Pthrgoan_D (Assam),Assam,27.3278,95.5833,prefix4,20
+IND533262AAA,Draksharamam_Anaipeta_D (Andhra Pradesh),Andhra Pradesh,16.825,82.0,prefix5,27
+IND231208AAA,Duddhi_MChwkDPP_D (Uttar Pradesh),Uttar Pradesh,24.7167,82.675,prefix5,6
+IND303008AAB,Dudu_NrainaRD_D (Rajasthan),Rajasthan,26.7,75.6,prefix5,10
+IND786602AAA,Duliajan_StatonRd_D (Assam),Assam,27.0167,95.5667,exact,13
+IND814101AAB,Dumka_Dudhani_D (Jharkhand),Jharkhand,23.6333,85.5167,exact,23
+IND490023AAA,Durg_Bhilai_DC (Chhattisgarh),Chhattisgarh,21.3244,81.9627,prefix5,1
+IND491001AAA,Durg_Pulgaon_DC (Chhattisgarh),Chhattisgarh,21.2381,81.1443,exact,1
+IND713205AAB,Durgapur_Central_I_1 (West Bengal),West Bengal,23.4621,87.5753,prefix5,104
+IND361335AAA,Dwarka_StnRoad_DC (Gujarat),Gujarat,22.2278,69.32499999999999,prefix4,13
+IND679576AAA,Edappal_PonaniRD_D (Kerala),Kerala,10.975,76.3333,prefix5,17
+IND534001AAA,Eluru_Agraharm_DC (Andhra Pradesh),Andhra Pradesh,16.775,81.4917,exact,19
+IND628801AAA,Eral_Busstand_D (Tamil Nadu),Tamil Nadu,8.6333,78.0167,exact,34
+IND425109AAA,Erandol_BsStdDPP_D (Maharashtra),Maharashtra,20.9167,75.3333,exact,2
+IND638001AAA,Erode (Tamil Nadu),Tamil Nadu,10.866700000000002,78.6917,prefix5,13
+IND207001AAA,Etah_CivlLine_D (Uttar Pradesh),Uttar Pradesh,28.0667,78.575,exact,12
+IND206001AAA,Etawah_MhraChng_D (Uttar Pradesh),Uttar Pradesh,26.7667,79.0333,exact,39
+IND121004AAB,FBD_Balabhgarh_DPC (Haryana),Haryana,28.9915,76.2541,prefix5,314
+IND224001AAA,Faizabad_TrnspNgr_D (Uttar Pradesh),Uttar Pradesh,26.3667,82.85,exact,13
+IND306116AAA,Falna_SbhRDDPP_D (Rajasthan),Rajasthan,26.0167,74.0417,exact,4
+IND121001AAA,Faridabad (Haryana),Haryana,28.9915,76.2541,exact,51
+IND121004AAA,Faridabad_Blbgarh_DC (Haryana),Haryana,28.9915,76.2541,prefix5,33
+IND121004AAC,Faridabad_MohnVRTL_D (Haryana),Haryana,28.9915,76.2541,prefix5,15
+IND121002AAB,Faridabad_Mthurard_L (Haryana),Haryana,28.9915,76.2541,exact,86
+IND121002AAA,Faridabad_Old (Haryana),Haryana,28.9915,76.2541,exact,2
+IND243503AAB,Faridpur_ShjnprRD_D (Uttar Pradesh),Uttar Pradesh,28.2167,79.55,exact,26
+IND209625AAA,Farrukhbad_Pnchlght_D (Uttar Pradesh),Uttar Pradesh,27.4,79.5667,exact,22
+IND125111AAA,Fatehabad_BhunaDPP_D (Haryana),Haryana,29.4167,76.6667,prefix5,6
+IND125050AAA,Fatehabad_SirsaDPP_D (Haryana),Haryana,29.5333,75.0167,exact,3
+IND212601AAA,Fatehpur_Kotwali_D (Uttar Pradesh),Uttar Pradesh,25.9333,80.8,exact,32
+IND743513AAA,Fatepur_NH117_D (West Bengal),West Bengal,22.6944,88.7803,prefix3,16
+IND152123AAA,Fazilka_GndhiChk_D (Punjab),Punjab,30.4,74.0333,exact,3
+IND283203AAA,Firozabad_Sudmpuri_D (Uttar Pradesh),Uttar Pradesh,27.15,78.4167,exact,28
+IND852118AAA,Forbesganj_JhumanCk_D (Bihar),Bihar,24.9833,81.0583,prefix5,10
+IND122001AAA,GGN_DPC (Haryana),Haryana,28.09,76.9567,exact,85
+IND201007AAA,GZB_Mohan_Nagar_DPC (Uttar Pradesh),Uttar Pradesh,27.2384,78.7478,prefix5,70
+IND582101AAB,Gadag_Cdosclrd_D (Karnataka),Karnataka,15.3875,75.7333,exact,36
+IND487551AAA,Gadarwara_MPward_D (Madhya Pradesh),Madhya Pradesh,22.9167,78.7833,exact,15
+IND442605AAA,Gadchiroli_Central_DPP_1 (Maharashtra),Maharashtra,20.4333,76.9611,exact,11
+IND232327AAA,Gahmar_Wardnor4_D (Uttar Pradesh),Uttar Pradesh,25.4333,83.5667,exact,1
+IND244235AAA,Gajraula_JawaharN_D (Uttar Pradesh),Uttar Pradesh,28.85,78.2333,exact,41
+IND370201AAA,Gandhidham_Sector1A_IP (Gujarat),Gujarat,23.4577,70.0026,prefix5,22
+IND382421AAA,Gandhinagar_DC (Gujarat),Gujarat,22.8667,72.5917,exact,36
+IND382721AAA,Gandhinagar_Kalol_DC (Gujarat),Gujarat,23.1333,72.3667,exact,31
+IND335001AAA,Ganga Nagar_DC (Rajasthan),Rajasthan,29.6564,73.6442,exact,16
+IND431514AAA,Gangakher_Busstand_D (Maharashtra),Maharashtra,16.9833,75.2,prefix5,32
+IND322201AAA,Gangapur_Ward6DPP_D (Rajasthan),Rajasthan,26.6167,76.7167,exact,29
+IND583227AAA,Gangavathi_PhrmPlza_D (Karnataka),Karnataka,15.4333,76.5333,exact,32
+IND464221AAA,GanjBasoda_MnRDDPP_D (Madhya Pradesh),Madhya Pradesh,23.3063,77.8417,exact,2
+IND144527AAA,Garhshnker_Jagrata_D (Punjab),Punjab,31.1676,76.1189,prefix5,4
+IND562108AAA,Gauribidanur_Gurukrpa_D (Karnataka),Karnataka,13.3847,77.6933,exact,14
+IND431127AAA,Georai_Bazarrd_D (Maharashtra),Maharashtra,18.7,76.0833,prefix5,14
+IND506143AAA,Ghanpur_Palakrty_D (Telangana),Telangana,17.0289,78.3025,prefix5,33
+IND721212AAA,Ghatal_KrshDPP_D (West Bengal),West Bengal,22.484,87.4703,prefix3,10
+IND209206AAB,Ghatampur_StatinRD_D (Uttar Pradesh),Uttar Pradesh,27.01,79.9467,exact,33
+IND501301AAC,Ghatkesar_Central_D_1 (Telangana),Telangana,18.1308,79.1847,prefix3,4
+IND201001AAC,Ghaziabad_Central_L_8 (Uttar Pradesh),Uttar Pradesh,27.2384,78.7478,prefix5,15
+IND201007AAB,Ghaziabad_MohanNgr_C (Uttar Pradesh),Uttar Pradesh,27.2384,78.7478,prefix5,18
+IND201001AAA,Ghaziabad_Patel Nagar (Uttar Pradesh),Uttar Pradesh,27.2384,78.7478,prefix5,9
+IND201005AAA,Ghaziabad_RjndrNgr_DC (Uttar Pradesh),Uttar Pradesh,27.2384,78.7478,prefix5,4
+IND233001AAA,Ghazipur_Kaithwal_D (Uttar Pradesh),Uttar Pradesh,25.5168,82.4525,prefix3,7
+IND275503AAA,Ghosi_Jamalpur_D (Uttar Pradesh),Uttar Pradesh,26.4,81.5333,prefix3,7
+IND174021AAA,Ghumarwin_Gndhichk_D (Himachal Pradesh),Himachal Pradesh,31.3083,76.4542,exact,12
+IND152101AAA,Giddarbaha_DC (Punjab),Punjab,30.2125,74.2417,exact,3
+IND815301AAA,Giridih_Shivalya_D (Jharkhand),Jharkhand,24.1444,86.7611,exact,13
+IND403726AAA,Goa_Hub (Goa),Goa,15.25,73.9417,exact,86
+IND403507AAB,Goa_Mapusa (Goa),Goa,15.6,73.8167,exact,2
+IND403601AAA,Goa_Margao_Dc (Goa),Goa,15.3167,73.9167,exact,10
+IND403401AAA,Goa_Ponda_Dc (Goa),Goa,15.4,74.0167,exact,9
+IND403726AAB,Goa_ZuariNgr_IP (Goa),Goa,15.25,73.9417,exact,34
+IND638452AAA,Gobicheti_Ward25_D (Tamil Nadu),Tamil Nadu,11.7833,77.0167,exact,15
+IND814133AAB,Godda_Central_D_2 (Jharkhand),Jharkhand,24.5222,85.4722,exact,32
+IND814133AAA,Godda_PushPlza_D (Jharkhand),Jharkhand,24.5222,85.4722,exact,3
+IND389001AAA,Godhra_DC (Gujarat),Gujarat,22.8667,73.8405,exact,42
+IND131301AAA,Gohana_DvlalDPP_D (Haryana),Haryana,29.1167,76.8167,prefix3,9
+IND784168AAB,Gohpur_Central_D_1 (Assam),Assam,26.8833,93.6333,exact,11
+IND591307AAC,Gokak_Bsavangr_D (Karnataka),Karnataka,15.4667,74.5167,prefix5,25
+IND262802AAA,Gola_BkgnRoad_D (Uttar Pradesh),Uttar Pradesh,29.7438,80.1,prefix3,41
+IND785621AAA,Golaghat_BaruaRd_D (Assam),Assam,26.5167,93.9667,exact,5
+IND828401AAB,Gomoh_KhsmiDPP_D (Jharkhand),Jharkhand,23.9,86.2,prefix5,10
+IND271001AAA,Gonda_KotwaliN_D (Uttar Pradesh),Uttar Pradesh,27.375,82.05,exact,18
+IND360311AAA,Gondal_DC (Gujarat),Gujarat,21.9429,70.3214,prefix4,3
+IND441614AAA,Gondia_RamNgr_D (Maharashtra),Maharashtra,20.8125,78.6833,prefix4,9
+IND571213AAA,Gonikoppal_Thomas_D (Karnataka),Karnataka,12.9044,76.3917,prefix5,21
+IND515401AAB,Gooty_StatonRd_D (Andhra Pradesh),Andhra Pradesh,14.675,77.76665,prefix5,35
+IND841428AAA,Gopalganj_GopalDPP_D (Bihar),Bihar,25.0333,88.45,prefix5,8
+IND221303AAA,Gopiganj_Wardno13_D (Uttar Pradesh),Uttar Pradesh,25.95,84.3833,prefix5,5
+IND273014AAB,Gorakhpur_Matriprm_IP (Uttar Pradesh),Uttar Pradesh,27.4333,83.7,prefix5,93
+IND224141AAB,Gosainganj_Pakrela_D (Uttar Pradesh),Uttar Pradesh,26.3667,82.85,exact,30
+IND342902AAA,Gotan_DKLogDPP_D (Rajasthan),Rajasthan,26.36045,72.6333,prefix3,13
+IND421302AAN,GreaterThane_Anjur_C (Maharashtra),Maharashtra,19.1833,73.2083,prefix5,16
+IND643212AAA,Gudalur_kalmpuza_D (Tamil Nadu),Tamil Nadu,11.4611,76.55,prefix5,9
+IND521301AAA,Gudivada_GvrCompx_D (Andhra Pradesh),Andhra Pradesh,16.5833,81.3,exact,38
+IND524101AAB,Gudur_Bngisheb_D (Andhra Pradesh),Andhra Pradesh,14.0333,79.7167,exact,30
+IND624703AAA,Gujiliam_Parai_D (Tamil Nadu),Tamil Nadu,10.5333,78.0667,prefix5,4
+IND585104AAA,Gulbarga_Nehrugnj_I (Karnataka),Karnataka,17.78,77.2008,prefix5,121
+IND473001AAA,Guna_HnumnDPP_D (Madhya Pradesh),Madhya Pradesh,24.69,77.5367,exact,21
+IND473226AAA,Guna_Raghogrh_D (Madhya Pradesh),Madhya Pradesh,24.45,77.2,exact,37
+IND571111AAB,Gundlupet_Swamylyt_D (Karnataka),Karnataka,12.0889,76.7911,prefix5,18
+IND515801AAA,Guntakal_Verpatem_D (Andhra Pradesh),Andhra Pradesh,15.0167,77.3833,exact,39
+IND122004AAA,Gurgaon_Begumpur_CP (Haryana),Haryana,28.09,76.9567,prefix5,44
+IND000000ACB,Gurgaon_Bilaspur_HB (Haryana),Haryana,28.09,76.9567,name,1991
+IND122413AAE,Gurgaon_Bilaspur_P (Haryana),Haryana,28.09,76.9567,prefix3,43
+IND000000AEM,Gurgaon_Bilaspur_RP (Haryana),Haryana,28.09,76.9567,name,22
+IND122002AAD,Gurgaon_Central_D_15 (Haryana),Haryana,28.09,76.9567,prefix5,2
+IND122001AAD,Gurgaon_Kadipur (Haryana),Haryana,28.09,76.9567,exact,13
+IND122050AAA,Gurgaon_Manesar (Haryana),Haryana,28.09,76.9567,exact,11
+IND122101AAC,Gurgaon_SohnaRd_D (Haryana),Haryana,28.4,77.05,exact,1
+IND680104AAA,Guruvayoor_ManhrBld_D (Kerala),Kerala,10.6,76.05,exact,33
+IND713128AAB,Guskhara_Itachnda_D (West Bengal),West Bengal,23.1667,88.25,prefix5,33
+IND781003AAA,Guwahati_Chandmari (Assam),Assam,26.2546,91.5444,exact,10
+IND781018AAA,Guwahati_East (Assam),Assam,26.1679,91.6917,prefix5,2
+IND781018AAB,Guwahati_Hub (Assam),Assam,26.1679,91.6917,prefix5,180
+IND781014AAA,Guwahati_Jalukbari (Assam),Assam,26.1679,91.6917,exact,12
+IND781005AAA,Guwahati_North (Assam),Assam,26.1425,91.7889,exact,16
+IND781022AAA,Guwahati_Sixmile (Assam),Assam,26.1,91.8167,exact,21
+IND781001AAA,Guwahati_UzanBazr_DC (Assam),Assam,26.2546,91.5444,exact,10
+IND474003AAA,Gwalior_HrihrNgr_I (Madhya Pradesh),Madhya Pradesh,27.1333,88.2667,exact,83
+IND560043AAC,HBR Layout PC (Karnataka),Karnataka,13.0499,77.1594,prefix5,212
+IND571114AAA,HDKote_BegurRD_D (Karnataka),Karnataka,12.0889,76.7911,exact,17
+IND788151AAA,Hailakandi_kalibari_D (Assam),Assam,24.6833,92.5667,exact,26
+IND844101AAB,Hajipur_ThaneDPP_D (Bihar),Bihar,25.2917,88.5333,exact,1
+IND781102AAA,Hajo_Sardala_D (Assam),Assam,26.25,91.5333,exact,7
+IND721602AAB,Haldia_Central_D_2 (West Bengal),West Bengal,22.484,87.4703,prefix3,9
+IND263139AAA,Haldwani_PiliKoti_D (Uttarakhand),Uttarakhand,29.4167,79.5333,exact,13
+IND508377AAB,Haliya_PeroorRD_D (Telangana),Telangana,16.7167,79.6333,prefix5,27
+IND363330AAB,Halvad_CrossRD_D (Gujarat),Gujarat,22.5542,71.6167,exact,16
+IND177001AAA,Hamirpur_GutmgrCl_D (Himachal Pradesh),Himachal Pradesh,31.4963,76.5954,exact,7
+IND210301AAA,Hamirpur_KanpurRd_D (Uttar Pradesh),Uttar Pradesh,25.4611,80.5241,exact,15
+IND125033AAA,Hansi_DelRdDPP_D (Haryana),Haryana,29.1,75.9667,exact,11
+IND741502AAB,Hanskhali_Central_D_1 (West Bengal),West Bengal,13.9463,92.1467,prefix3,1
+IND521105AAA,HanumanJNC_VijywdRD_D (Andhra Pradesh),Andhra Pradesh,15.95,80.9167,exact,11
+IND335513AAA,Hanumangarh_DC (Rajasthan),Rajasthan,29.2114,74.7532,exact,36
+IND245101AAA,Hapur_Swargash_D (Uttar Pradesh),Uttar Pradesh,28.7167,77.7833,exact,33
+IND249407AAA,Haridwar (Uttarakhand),Uttarakhand,30.0667,78.2722,prefix5,103
+IND690548AAA,Haripad_Kumrpurm_D (Kerala),Kerala,9.3,76.4667,prefix5,22
+IND272155AAA,Harraiya_MahuGDPP_D (Uttar Pradesh),Uttar Pradesh,26.8648,82.8622,prefix5,3
+IND573201AAB,Hassan_Pandrnga_I (Karnataka),Karnataka,12.8696,76.1717,exact,94
+IND204101AAA,Hathras (Uttar Pradesh),Uttar Pradesh,27.2384,78.7478,exact,8
+IND581110AAE,Haveri_GuttalRD_D (Karnataka),Karnataka,15.175,75.1,prefix4,41
+IND825301AAA,Hazaribag_BodomBzr_DC (Jharkhand),Jharkhand,23.7833,85.475,exact,28
+IND844505AAB,HazratJandaha_HajiprRD_D (Bihar),Bihar,25.2917,88.5333,exact,30
+IND743270AAA,Helencha_ColnyDPP_D (West Bengal),West Bengal,22.6944,88.7803,prefix3,11
+IND383001AAA,Himmatnagar_DC (Gujarat),Gujarat,23.5762,74.9214,exact,24
+IND322230AAA,Hindaun_MndwrRod_D (Rajasthan),Rajasthan,26.6292,76.8375,exact,30
+IND515201AAA,Hindupur_Parigi_D (Andhra Pradesh),Andhra Pradesh,14.3447,77.8319,exact,34
+IND577598AAC,Hiriyur_TahurDPP_D (Karnataka),Karnataka,14.2473,76.3193,prefix5,21
+IND125047AAB,Hisar_AgrohDPP_D (Haryana),Haryana,29.3333,75.6333,exact,21
+IND125005AAA,Hisar_IndstlAr_I (Haryana),Haryana,29.1118,75.7598,exact,23
+IND125001AAA,Hisar_ModelTwn_P (Haryana),Haryana,29.1118,75.7598,exact,73
+IND581334AAA,Honnavar_Prbhtngr_D (Karnataka),Karnataka,14.9,74.6667,prefix5,11
+IND712124AAA,Hooghly_DC (West Bengal),West Bengal,22.7657,88.1281,prefix5,59
+IND712103AAA,Hoogly_Bandel_D (West Bengal),West Bengal,22.8956,88.4025,exact,50
+IND461001AAA,Hoshangabad_MnRDDPP_D (Madhya Pradesh),Madhya Pradesh,22.5083,77.7875,exact,6
+IND562114AAA,Hoskote_DC (Karnataka),Karnataka,13.3333,77.65,prefix5,37
+IND583201AAA,Hospet (Karnataka),Karnataka,15.3417,76.5167,prefix4,61
+IND711409AAA,Howrah_Salap_DC (West Bengal),West Bengal,22.6104,88.1143,exact,1
+IND580028AAA,Hubli_Adargchi_IP (Karnataka),Karnataka,16.2928,76.0442,prefix5,145
+IND580030AAA,Hubli_Dc (Karnataka),Karnataka,16.2928,76.0442,prefix4,1
+IND585330AAE,Humnabad_EBroad_D (Karnataka),Karnataka,17.0833,76.8,prefix5,41
+IND571105AAA,Hunsur_RatnaDPP_D (Karnataka),Karnataka,12.2381,76.7278,prefix4,13
+IND723130AAA,Hura_Central_D_1 (West Bengal),West Bengal,24.1222,88.8175,name,45
+IND505467AAA,Husnabad_Greenmkt_D (Telangana),Telangana,17.0667,77.65,exact,26
+IND500032AAA,Hyd_Chandanagar_Dc (Telangana),Telangana,15.9667,77.6667,exact,4
+IND500035AAA,Hyd_LB-Nagar_Dc (Telangana),Telangana,15.9667,77.6667,exact,3
+IND500055AAA,Hyd_Trimulgherry_Dc (Telangana),Telangana,16.7024,78.1036,prefix5,3
+IND500039AAB,Hyd_Uppal_Dc (Telangana),Telangana,15.9667,77.6667,exact,2
+IND500010AAA,Hyderabad_Alwal_I (Telangana),Telangana,17.4381,78.5406,exact,38
+IND500010AAB,Hyderabad_Alwal_L (Telangana),Telangana,17.4381,78.5406,exact,72
+IND000000ABG,Hyderabad_Bownplly_C (Telangana),Telangana,16.7024,78.1036,name,11
+IND000000ACK,Hyderabad_Chikdply_C (Telangana),Telangana,16.7024,78.1036,name,32
+IND500080AAB,Hyderabad_Chikdply_I (Telangana),Telangana,16.7024,78.1036,prefix4,48
+IND500084AAB,Hyderabad_Kondapur_D (Telangana),Telangana,16.7024,78.1036,prefix4,1
+IND000000ACN,Hyderabad_Mhdiptnm_C (Telangana),Telangana,16.7024,78.1036,name,27
+IND500055AAC,Hyderabad_North_D_2 (Telangana),Telangana,16.7024,78.1036,prefix5,17
+IND500018AAA,Hyderabad_PndrgNgr_DC (Telangana),Telangana,17.4381,78.5406,exact,4
+IND501359AAE,Hyderabad_Shamshbd_H (Telangana),Telangana,18.1308,79.1847,prefix3,734
+IND501359AAF,Hyderabad_Shamshbd_P (Telangana),Telangana,18.1308,79.1847,prefix3,59
+IND500035AAD,Hyderabad_South_D_12 (Telangana),Telangana,15.9667,77.6667,exact,8
+IND500008AAF,Hyderabad_South_D_4 (Telangana),Telangana,16.7024,78.1036,exact,19
+IND501359AAG,Hyderabad_South_R_11 (Telangana),Telangana,18.1308,79.1847,prefix3,11
+IND500008AAC,Hyderabad_Tolichwk_I (Telangana),Telangana,16.7024,78.1036,exact,33
+IND500008AAD,Hyderabad_Tolichwk_L (Telangana),Telangana,16.7024,78.1036,exact,6
+IND500039AAC,Hyderabad_Uppal_I (Telangana),Telangana,15.9667,77.6667,exact,84
+IND500039AAD,Hyderabad_Uppal_L (Telangana),Telangana,15.9667,77.6667,exact,14
+IND586211AAA,Indi_SindgiRD_D (Karnataka),Karnataka,17.0583,76.0,exact,37
+IND680712AAA,Irinjlkuda_Greens_D (Kerala),Kerala,10.4267,76.2167,exact,16
+IND415409AAB,Islampur_Shantanu_D (Maharashtra),Maharashtra,17.5944,74.1667,prefix3,17
+IND791111AAC,Itanagar_WageDPP_D (Arunachal Pradesh),Arunachal Pradesh,27.15,93.75,exact,5
+IND461111AAA,Itarsi_DivrsnRd_D (Madhya Pradesh),Madhya Pradesh,22.6167,77.75,exact,21
+IND482002AAA,Jabalpur (Madhya Pradesh),Madhya Pradesh,23.181,80.2514,exact,7
+IND842003AAB,Jabalpur_Adhartal_IP (Madhya Pradesh),Madhya Pradesh,25.2917,88.5333,prefix5,62
+IND509301AAA,Jadcherla_Badeplly_D (Telangana),Telangana,16.65,77.5167,prefix5,38
+IND754103AAA,Jagatsghpr_Markndpr_D (Orissa),Orissa,20.15,86.2833,exact,8
+IND142026AAA,Jagraon_DC (Punjab),Punjab,30.7457,75.2044,exact,40
+IND505327AAA,Jagtial_Aravind_D (Telangana),Telangana,17.448,78.5913,exact,21
+IND176048AAA,Jahu_Sulgwan_D (Himachal Pradesh),Himachal Pradesh,32.0537,76.2852,exact,23
+IND302006AAA,Jaipur (Rajasthan),Rajasthan,26.1748,74.8799,exact,29
+IND302026AAA,Jaipur_Bhankrot_DC (Rajasthan),Rajasthan,26.1748,74.8799,prefix4,22
+IND302033AAB,Jaipur_Central_D_1 (Rajasthan),Rajasthan,26.1748,74.8799,prefix4,1
+IND302006AAC,Jaipur_Central_D_10 (Rajasthan),Rajasthan,26.1748,74.8799,exact,23
+IND302014AAB,Jaipur_Central_I_7 (Rajasthan),Rajasthan,26.1748,74.8799,exact,216
+IND302014AAA,Jaipur_Hub (Rajasthan),Rajasthan,26.1748,74.8799,exact,192
+IND302004AAA,Jaipur_NgrNigam_DC (Rajasthan),Rajasthan,26.1748,74.8799,exact,35
+IND302022AAD,Jaipur_RIICO_L (Rajasthan),Rajasthan,26.1748,74.8799,prefix4,27
+IND302020AAA,Jaipur_VarunCly_DC (Rajasthan),Rajasthan,26.1748,74.8799,prefix4,37
+IND792121AAB,Jairampur_Mdiclcly_D (Arunachal Pradesh),Arunachal Pradesh,27.3917,96.1417,exact,22
+IND345001AAA,Jaisalmer_Gopa3PL_D (Rajasthan),Rajasthan,27.0958,71.4167,exact,11
+IND152024AAA,Jalalabad_Muktsar_D (Punjab),Punjab,30.6167,74.25,exact,4
+IND242221AAA,Jalalabad_farukngr_D (Uttar Pradesh),Uttar Pradesh,27.7583,79.625,exact,10
+IND222136AAA,Jalalpur_Mhimapur_D (Uttar Pradesh),Uttar Pradesh,29.6522,77.3378,exact,2
+IND144001AAA,Jalandhar_DC (Punjab),Punjab,31.3256,75.5792,exact,18
+IND144001AAB,Jalandhar_DPC (Punjab),Punjab,31.3256,75.5792,exact,134
+IND144001AAC,Jalandhar_Sodal Road (Punjab),Punjab,31.3256,75.5792,exact,27
+IND207302AAA,Jalesar_ChngiDPP_D (Uttar Pradesh),Uttar Pradesh,27.4833,78.3167,exact,12
+IND756032AAA,Jaleswar_NaturDPP_D (Orissa),Orissa,21.7889,87.3222,exact,10
+IND452001AAC,Jalgaon_DC (Maharashtra),Maharashtra,22.8023,75.5605,exact,25
+IND431203AAA,Jalna_BhgyaNgr_D (Maharashtra),Maharashtra,18.9321,76.5179,exact,27
+IND343001AAA,Jalore_RoopNgr_D (Rajasthan),Rajasthan,24.9833,72.4333,exact,7
+IND360530AAB,Jamjodhpur_Court_D (Gujarat),Gujarat,21.7,69.6917,exact,28
+IND505122AAA,Jammikunta_ConduDPP_D (Telangana),Telangana,17.448,78.5913,exact,31
+IND181152AAB,Jammu_Central_I_1 (Jammu & Kashmir),Jammu & Kashmir,32.7278,74.9056,exact,23
+IND181152AAA,Jammu_TrnptNgr_L (Jammu & Kashmir),Jammu & Kashmir,32.7278,74.9056,exact,11
+IND361001AAA,Jamnagar_Dc (Gujarat),Gujarat,22.3292,69.875,exact,16
+IND832109AAB,Jamshedpur_Central_I_3 (Jharkhand),Jharkhand,22.2833,86.7167,exact,36
+IND815351AAA,Jamtara_D (Jharkhand),Jharkhand,23.95,86.8,exact,23
+IND811307AAA,Jamui_Mehsouri_D (Bihar),Bihar,24.3298,85.6667,exact,2
+IND110078AAA,Janakpuri (Delhi),Delhi,28.6528,76.9539,prefix5,47
+IND506167AAB,Jangaon_Hanmkond_D (Telangana),Telangana,17.0289,78.3025,exact,32
+IND457226AAA,Jaora_RtlamNka_D (Madhya Pradesh),Madhya Pradesh,23.4333,75.05,prefix5,32
+IND410206AAA,Jasai_JNPT_D (Maharashtra),Maharashtra,18.8389,73.6833,prefix5,32
+IND360050AAA,Jasdan_MotiDPP_D (Gujarat),Gujarat,22.0333,71.2,exact,1
+IND176201AAA,Jassur_AadiDPP_D (Himachal Pradesh),Himachal Pradesh,32.225,76.0,exact,16
+IND416404AAA,Jath_Shivprsad_D (Maharashtra),Maharashtra,16.9167,74.1375,exact,15
+IND222001AAA,Jaunpur_Katghara_D (Uttar Pradesh),Uttar Pradesh,29.6383,77.3892,exact,3
+IND621802AAA,Jayamkondan_Chithbrm_D (Tamil Nadu),Tamil Nadu,10.4694,78.5056,exact,29
+IND743395AAA,Jaynagar_MjlprDPP_D (West Bengal),West Bengal,22.6944,88.7803,prefix3,8
+IND847226AAA,Jaynagar_Wardno6_D (Bihar),Bihar,25.2917,88.5333,exact,42
+IND360370AAA,Jetpur_DC (Gujarat),Gujarat,21.9429,70.3214,exact,11
+IND203135AAA,Jewar_SJRoad_D (Uttar Pradesh),Uttar Pradesh,29.5878,77.2992,prefix5,32
+IND764001AAC,Jeypore_Kelasahi_D (Orissa),Orissa,18.52,82.4767,exact,11
+IND457661AAA,Jhabua_Ward11_D (Madhya Pradesh),Madhya Pradesh,23.4,74.8667,prefix3,11
+IND124103AAA,Jhajjar_DC (Haryana),Haryana,28.62,76.67,exact,22
+IND847404AAB,Jhanjharpur_Nagar_D (Bihar),Bihar,25.2917,88.5333,exact,38
+IND284001AAA,Jhansi_LVMColge_D (Uttar Pradesh),Uttar Pradesh,25.125,78.8583,exact,6
+IND721507AAA,Jhargram_UBamdDPP_D (West Bengal),West Bengal,22.484,87.4703,prefix3,13
+IND768201AAA,Jharsuguda_MbRoad_D (Orissa),Orissa,21.8333,84.05,exact,1
+IND825409AAA,JhumriTlya_RadhaCpx_D (Jharkhand),Jharkhand,24.4333,85.5167,exact,28
+IND151506AAA,Jhunir_BhaRDDPP_D (Punjab),Punjab,29.9222,75.2944,exact,23
+IND333001AAA,Jhunjhunu_DC (Rajasthan),Rajasthan,28.1583,75.3,prefix4,6
+IND126102AAA,Jind_DC (Haryana),Haryana,29.1333,76.4167,exact,11
+IND276140AAA,Jiyanpur_Central_DPP_1 (Uttar Pradesh),Uttar Pradesh,27.3167,83.5,prefix5,5
+IND758034AAA,Joda_Central_D_1 (Orissa),Orissa,21.6017,85.8877,prefix5,17
+IND342005AAD,Jodhpur_Basni_I (Rajasthan),Rajasthan,26.3542,72.4,prefix5,51
+IND175015AAA,JognderNgr_Dhelu_D (Himachal Pradesh),Himachal Pradesh,31.5958,77.0458,prefix4,24
+IND509124AAA,JoguGadwal_ColctrOf_D (Telangana),Telangana,14.95,78.5,prefix5,33
+IND785001AAA,Jorhat_RicMilRd_D (Assam),Assam,26.6843,94.2648,exact,30
+IND793150AAA,Jowai_Ldthlabh_D (Meghalaya),Meghalaya,25.45,92.2,exact,3
+IND362001AAA,Junagadh_DPC (Gujarat),Gujarat,21.3778,70.5833,exact,73
+IND362220AAA,Junagadh_keshod_DC (Gujarat),Gujarat,21.3333,70.2333,exact,22
+IND110064AAB,KN_RPC (Delhi),Delhi,28.6488,77.1726,exact,11
+IND788121AAA,Kabuganj_Jantaclg_D (Assam),Assam,24.7194,92.7722,exact,5
+IND574221AAA,Kadaba_AnugrDPP_D (Karnataka),Karnataka,14.2467,76.2933,exact,13
+IND382715AAA,Kadi_KaranNGR_D (Gujarat),Gujarat,23.3,72.3333,exact,36
+IND515591AAA,Kadiri_GVManu_D (Andhra Pradesh),Andhra Pradesh,14.1167,78.1667,exact,19
+IND509358AAA,Kadthal_GndhiDPP_D (Telangana),Telangana,16.65,77.5167,exact,34
+IND504296AAA,Kaghaznagar_Central_DPP_1 (Telangana),Telangana,19.2833,78.1917,exact,7
+IND813203AAA,Kahalgaon_NdiaTola_D (Bihar),Bihar,21.6833,72.2833,prefix5,19
+IND521333AAA,Kaikaluru_Atapaka_D (Andhra Pradesh),Andhra Pradesh,16.5833,81.3,exact,32
+IND136027AAA,Kaithal_DC (Haryana),Haryana,29.8,76.3833,name,43
+IND743347AAA,Kakdwip_KlngrDPP_D (West Bengal),West Bengal,22.6944,88.7803,prefix3,18
+IND533003AAA,Kakinada_DC (Andhra Pradesh),Andhra Pradesh,17.0222,82.1028,exact,38
+IND134102AAA,Kalka_Pinjore_DC (Haryana),Haryana,30.5224,77.046,exact,19
+IND673506AAA,Kallachi_ZamQuatr_D (Kerala),Kerala,11.7,75.6667,exact,34
+IND695572AAB,Kallikkad_Mutyvila_D (Kerala),Kerala,8.4333,77.05,prefix5,33
+IND691574AAA,Kalluvathukal_Pariplly_D (Kerala),Kerala,8.8333,76.9167,prefix5,42
+IND603102AAA,Kalpakkam_Sadras_D (Tamil Nadu),Tamil Nadu,12.5319,80.1611,exact,16
+IND673121AAA,Kalpetta_Ward19_D (Kerala),Kerala,11.4354,75.725,exact,19
+IND509324AAA,Kalwakurthy_VidyaNGR_D (Telangana),Telangana,16.65,77.5167,exact,17
+IND515761AAA,Kalyandurg_Shankrpa_D (Andhra Pradesh),Andhra Pradesh,14.3447,77.8319,exact,38
+IND321022AAA,Kaman_BsstdDPP_D (Rajasthan),Rajasthan,27.65,77.2667,exact,18
+IND503111AAC,Kamareddy_Devenply_I (Telangana),Telangana,18.4,78.1333,exact,44
+IND712612AAA,Kamarpukur_ChatiDPP_D (West Bengal),West Bengal,22.2397,88.4019,exact,4
+IND562117AAA,Kanakapura_VaniThtr_D (Karnataka),Karnataka,13.3333,77.65,prefix5,21
+IND631501AAA,Kanchipuram_DC (Tamil Nadu),Tamil Nadu,12.8917,79.7583,prefix5,20
+IND742137AAA,Kandi_DohalDPP_D (West Bengal),West Bengal,24.75,92.5667,name,9
+IND523105AAA,Kandukur_LICOffce_D (Andhra Pradesh),Andhra Pradesh,15.6917,79.5083,prefix5,39
+IND638701AAA,Kangayam_Thvlrsrt_D (Tamil Nadu),Tamil Nadu,11.0,77.4667,prefix5,33
+IND176001AAB,Kangra_Central_D_2 (Himachal Pradesh),Himachal Pradesh,32.0537,76.2852,exact,1
+IND176001AAA,Kangra_Gurkhari_D (Himachal Pradesh),Himachal Pradesh,32.0537,76.2852,exact,2
+IND671315AAA,Kanhangad_Arangadi_D (Kerala),Kerala,12.4,75.05,prefix5,2
+IND523230AAA,Kanigiri_Tiglgndi_D (Andhra Pradesh),Andhra Pradesh,15.9167,80.05,prefix4,40
+IND416602AAC,Kankavali_NrdawDPP_D (Maharashtra),Maharashtra,16.9167,74.1375,prefix4,13
+IND494334AAB,Kanker_KrisnKunj_D (Chhattisgarh),Chhattisgarh,20.4069,81.5172,exact,12
+IND431103AAA,Kannad_KolheDPP_D (Maharashtra),Maharashtra,19.6556,75.4944,prefix5,1
+IND208017AAA,Kanpur_Central_D_5 (Uttar Pradesh),Uttar Pradesh,26.4833,80.2667,exact,6
+IND208012AAA,Kanpur_Central_D_7 (Uttar Pradesh),Uttar Pradesh,26.4833,80.2667,exact,34
+IND209304AAA,Kanpur_Central_H_6 (Uttar Pradesh),Uttar Pradesh,27.01,79.9467,prefix5,392
+IND208006AAA,Kanpur_GovndNgr_DC (Uttar Pradesh),Uttar Pradesh,26.475,80.3083,prefix5,17
+IND208019AAA,Kanpur_Rawatpur_D (Uttar Pradesh),Uttar Pradesh,26.4833,80.2667,prefix5,24
+IND244501AAA,Kanth_Dayanand_D (Uttar Pradesh),Uttar Pradesh,29.0889,78.6778,prefix5,18
+IND843109AAB,Kanti_Central_DPP_2 (Bihar),Bihar,25.2917,88.5333,exact,29
+IND387620AAB,Kapadvanj_Busstand_D (Gujarat),Gujarat,22.9167,73.15,exact,2
+IND274301AAB,Kaptanganj_Subshngr_D (Uttar Pradesh),Uttar Pradesh,26.7879,82.6172,exact,31
+IND144601AAA,Kapurthala_DC (Punjab),Punjab,31.3794,75.3847,exact,6
+IND415124AAA,Karad_Mundhe_D (Maharashtra),Maharashtra,17.5944,74.1667,prefix4,29
+IND609602AAA,Karaikal_Thalthru_DC (Pondicherry),Pondicherry,10.9167,79.8333,exact,19
+IND757037AAA,Karanjia_Sarubali_D (Orissa),Orissa,21.7408,86.001,prefix5,19
+IND322241AAA,Karauli_HnsChowk_D (Rajasthan),Rajasthan,26.6333,77.2167,prefix5,29
+IND788713AAA,Karimganj_Alngjuri_D (Assam),Assam,24.75,92.35,prefix5,24
+IND505001AAA,Karimnagar_DC (Telangana),Telangana,17.448,78.5913,exact,10
+IND505001AAB,Karimnagar_KamnHbRD_I (Telangana),Telangana,17.448,78.5913,exact,77
+IND574104AAA,Karkala_MarketRd_D (Karnataka),Karnataka,12.8,74.85,prefix5,20
+IND132001AAA,Karnal (Haryana),Haryana,29.752,76.6199,exact,13
+IND246444AAB,Karnaprayag_Umalodge_D (Uttarakhand),Uttarakhand,30.2917,79.5667,exact,31
+IND686540AAA,Karukachal_MnimlaRd_D (Kerala),Kerala,9.7667,76.4,exact,11
+IND690573AAA,Karungaply_Mrtrklgr_D (Kerala),Kerala,9.3,76.4667,exact,1
+IND639001AAA,Karur (Tamil Nadu),Tamil Nadu,12.1397,78.5489,exact,9
+IND581303AAA,Karwar_Central_D_1 (Karnataka),Karnataka,15.0567,74.4767,prefix5,27
+IND207123AAA,Kasganj_BnkrGate_D (Uttar Pradesh),Uttar Pradesh,28.0667,78.575,prefix5,3
+IND263401AAA,Kashipur_BajprDPP_D (Uttarakhand),Uttarakhand,29.4806,79.3,prefix3,34
+IND244713AAA,Kashipur_Vaishali_D (Uttarakhand),Uttarakhand,29.2167,78.95,exact,35
+IND184104AAA,Kathua_BOB_D (Jammu & Kashmir),Jammu & Kashmir,32.3667,75.5167,exact,21
+IND854105AAB,Katihar_Central_D_2 (Bihar),Bihar,24.9833,81.0583,exact,20
+IND854105AAA,Katihar_Shyndco_D (Bihar),Bihar,24.9833,81.0583,exact,4
+IND483501AAA,Katni_Bargawan_DC (Madhya Pradesh),Madhya Pradesh,23.4111,80.0222,exact,17
+IND685514AAA,Kattappana_Palikval_D (Kerala),Kerala,10.2762,76.2548,prefix5,18
+IND713130AAA,Katwa_BSarani_D (West Bengal),West Bengal,23.3222,88.0278,exact,34
+IND524201AAA,Kavali_Kacheri_D (Andhra Pradesh),Andhra Pradesh,14.85,79.5083,prefix5,37
+IND491995AAB,Kawardha_TrnsptNGR_D (Chhattisgarh),Chhattisgarh,22.0167,81.25,exact,12
+IND690537AAA,Kayamkulam_Bhrnikvu_D (Kerala),Kerala,9.3,76.4667,prefix5,1
+IND695582AAA,Kazhakkoottam_Rdiosttn_D (Kerala),Kerala,8.4333,77.05,prefix5,20
+IND305404AAA,Kekri_LxmntDPP_D (Rajasthan),Rajasthan,25.7083,75.1667,prefix5,22
+IND754211AAA,Kendrpara_Kapleswr_D (Orissa),Orissa,20.4,85.3389,exact,3
+IND758001AAA,Kendujhar_Sirjudin_D (Orissa),Orissa,21.6017,85.8877,exact,13
+IND683511AAB,Kerala_Cochin_L (Kerala),Kerala,10.2762,76.2548,exact,1
+IND721133AAA,Keshiary_MdnprDPP_D (West Bengal),West Bengal,22.3,87.5,prefix5,4
+IND851204AAA,Khagaria_GodamDPP_D (Bihar),Bihar,24.9833,81.0583,prefix5,15
+IND272175AAA,Khalilabad_MrgnjDPP_D (Uttar Pradesh),Uttar Pradesh,26.69525,83.05555,prefix5,2
+IND361305AAC,Khambhalia_JdswarRD_D (Gujarat),Gujarat,22.2278,69.3333,exact,27
+IND388620AAB,Khambhat_MotvdDPP_D (Gujarat),Gujarat,22.7483,73.2167,exact,24
+IND444303AAA,Khamgaon_WamanDPP_D (Maharashtra),Maharashtra,20.7288,77.1106,prefix5,3
+IND507002AAA,Khammam_NSTRoad_I (Telangana),Telangana,17.4333,80.675,exact,91
+IND712406AAA,Khanakul_Ramnagar_D (West Bengal),West Bengal,22.7167,87.85,exact,10
+IND591302AAB,Khanapur_StatinRD_D (Karnataka),Karnataka,15.4667,74.5167,prefix5,15
+IND421802AAA,Khandala_Satara_D (Maharashtra),Maharashtra,19.1833,73.2083,prefix3,9
+IND332709AAA,Khandela_PlsrdDPP_D (Rajasthan),Rajasthan,27.35,75.475,prefix5,6
+IND142401AAA,Khanna_DC (Punjab),Punjab,30.7457,75.2044,prefix3,21
+IND506132AAA,Khanpur_Nrsampt_D (Telangana),Telangana,17.0289,78.3025,prefix4,39
+IND811213AAA,KharagpurBR_Central_DPP_1 (Bihar),Bihar,24.3298,85.6667,exact,6
+IND721306AAA,Kharagpur_DC (West Bengal),West Bengal,22.484,87.4703,prefix3,49
+IND251201AAA,Khatauli_TilakNgr_D (Uttar Pradesh),Uttar Pradesh,26.575000000000003,78.6708,prefix3,3
+IND722140AAA,Khatra_KoralDPP_D (West Bengal),West Bengal,23.1611,87.0667,prefix5,22
+IND415709AAA,Khed_Mahad_D (Maharashtra),Maharashtra,17.6,73.1667,prefix5,22
+IND383255AAB,Khedbrahma_Patelfli_D (Gujarat),Gujarat,24.65,79.6583,exact,21
+IND321606AAA,Kherli_GodamDPP_D (Rajasthan),Rajasthan,27.1333,77.0944,prefix5,16
+IND333504AAA,Khetri_NagarDPP_D (Rajasthan),Rajasthan,27.8833,75.7667,exact,3
+IND792130AAB,Khonsa_Central_D_1 (Arunachal Pradesh),Arunachal Pradesh,27.8333,96.1625,prefix4,10
+IND470117AAA,Khurai_Talaiya_D (Madhya Pradesh),Madhya Pradesh,23.7833,78.3667,prefix5,9
+IND752050AAA,Khurdha_JatniDPP_D (Orissa),Orissa,20.1667,85.7,exact,5
+IND752056AAA,Khurdha_MdhsnDPP_D (Orissa),Orissa,20.2,85.7083,exact,8
+IND752055AAA,Khurdha_MunplDPP_D (Orissa),Orissa,20.2,85.7083,prefix5,4
+IND203131AAA,Khurja_Pnjbiyon_D (Uttar Pradesh),Uttar Pradesh,29.5878,77.2992,exact,21
+IND695614AAA,Kilimanoor_Krvnkuzy_D (Kerala),Kerala,8.4333,77.05,exact,24
+IND283122AAB,Kirauli_AchneraRD_D (Uttar Pradesh),Uttar Pradesh,27.03555,77.9444,prefix4,28
+IND305802AAA,Kishangarh_Central_D_2 (Rajasthan),Rajasthan,26.65,74.95,prefix5,17
+IND591115AAB,Kittur_ColageRD_D (Karnataka),Karnataka,15.8767,74.9133,prefix5,12
+IND508206AAA,Kodad_VidyaNgr_D (Telangana),Telangana,17.1667,79.4333,exact,36
+IND624101AAA,Kodaikanal_Athithnr_DC (Tamil Nadu),Tamil Nadu,10.5333,78.0667,prefix3,25
+IND362720AAA,Kodinar_NCplxDPP_D (Gujarat),Gujarat,21.3778,70.5833,prefix5,33
+IND516101AAA,Koduru_MGRoad_D (Andhra Pradesh),Andhra Pradesh,14.7917,79.8917,prefix5,37
+IND783370AAB,Kokrajhar_HplrdDPP_D (Assam),Assam,26.44725,90.45555,prefix5,2
+IND783370AAC,Kokrajhar_PigonDPP_D (Assam),Assam,26.44725,90.45555,prefix5,17
+IND721134AAB,Kolaghat_Central_DPP_2 (West Bengal),West Bengal,22.3,87.5,exact,34
+IND563101AAB,Kolar_Ambedkar_D (Karnataka),Karnataka,13.2,78.0167,prefix4,35
+IND796081AAA,Kolasib_Diakkawn_D (Mizoram),Mizoram,23.75,92.75,exact,4
+IND416122AAA,Kolhapur_Central_H_2 (Maharashtra),Maharashtra,17.1367,74.2533,exact,2
+IND416012AAA,Kolhapur_Shivaji_I (Maharashtra),Maharashtra,16.9167,74.1375,prefix4,92
+IND712311AAA,Kolkata_Dankuni_HB (West Bengal),West Bengal,22.97,88.1033,prefix4,481
+IND712310AAA,Kolkata_Dankuni_P (West Bengal),West Bengal,22.97,88.1033,prefix4,38
+IND700136AAG,Kolkata_Narynpur_C (West Bengal),West Bengal,22.569,88.3697,exact,23
+IND712310AAE,Kolkata_North_I_4 (West Bengal),West Bengal,22.97,88.1033,prefix4,88
+IND700088AAA,Kolkata_TrtllaRD_L (West Bengal),West Bengal,22.569,88.3697,exact,39
+IND691001AAB,Kollam_Central_H_1 (Kerala),Kerala,8.8333,76.9167,prefix5,64
+IND571440AAA,Kollegala_NarsipuraRd_D (Karnataka),Karnataka,12.0667,77.0333,prefix5,20
+IND285205AAB,Konch_Central_D_2 (Uttar Pradesh),Uttar Pradesh,26.0083,79.4917,prefix5,26
+IND423601AAA,Kopargaon_NkshtrPz_D (Maharashtra),Maharashtra,20.49165,74.4667,prefix3,29
+IND571104AAA,Koppa_BMRd_D (Karnataka),Karnataka,12.2381,76.7278,prefix4,32
+IND577126AAA,Koppa_Sangetha_D (Karnataka),Karnataka,13.2667,75.7167,prefix5,2
+IND583231AAA,Koppal_Banikatt_D (Karnataka),Karnataka,15.3417,76.5167,exact,30
+IND764020AAC,Koraput_GhtimDPP_D (Orissa),Orissa,18.52,82.4767,prefix5,2
+IND505326AAA,Koratla_BhemuDPP_D (Telangana),Telangana,17.448,78.5913,prefix5,1
+IND495677AAA,Korba_Tilknagr_DC (Chhattisgarh),Chhattisgarh,26.1872,80.0646,exact,7
+IND643217AAA,Kotagiri_CroslySRT_D (Tamil Nadu),Tamil Nadu,11.4611,76.55,prefix5,23
+IND246149AAA,Kotdwara_Nzbadrd_D (Uttarakhand),Uttarakhand,29.5,78.75,exact,33
+IND686632AAA,Kothanalloor_Majoor_D (Kerala),Kerala,9.7667,76.4,prefix5,2
+IND303108AAB,Kotputli_LXngrDPP_D (Rajasthan),Rajasthan,27.2167,75.95,prefix5,9
+IND691506AAA,Kottarakkara_Amankovl_D (Kerala),Kerala,8.8333,76.9167,prefix5,41
+IND686028AAB,Kottayam_Central_H_1 (Kerala),Kerala,9.7667,76.4,prefix4,42
+IND673305AAA,Koyilandy_Pshrikvu_D (Kerala),Kerala,11.15,75.8167,exact,20
+IND689650AAA,Kozhenchery_Cherukole_D (Kerala),Kerala,10.2762,76.2548,prefix4,9
+IND673632AAA,Kozhikode_Central_H_4 (Kerala),Kerala,11.4667,75.8,exact,23
+IND673027AAB,Kozhikode_Feroke_H (Kerala),Kerala,11.2167,75.7917,exact,4
+IND635001AAA,Krishnagiri_BnglorRd_D (Tamil Nadu),Tamil Nadu,12.5729,78.2729,exact,16
+IND741101AAB,Krishnanagar_AnadiDPP_D (West Bengal),West Bengal,13.9463,92.1467,exact,2
+IND571602AAA,Krishnarajngr_JublieRD_D (Karnataka),Karnataka,12.3201,76.8179,prefix5,14
+IND571426AAA,Krishnarajpet_MuruPost_D (Karnataka),Karnataka,11.7667,76.5667,exact,33
+IND639104AAB,Kulithalai_AnnaNGR_D (Tamil Nadu),Tamil Nadu,12.1397,78.5489,prefix5,17
+IND175101AAA,Kullu_AkhraBzr_D (Himachal Pradesh),Himachal Pradesh,31.9593,77.1741,exact,21
+IND602001AAB,Kumbakonam_Mettu_DC (Tamil Nadu),Tamil Nadu,13.1575,79.9194,prefix5,11
+IND581343AAC,Kumta_Central_DPP_2 (Karnataka),Karnataka,14.9,74.1,prefix5,8
+IND576201AAA,Kundapura_DC (Karnataka),Karnataka,13.675,74.7083,exact,8
+IND683565AAA,Kunnathund_Pringla_D (Kerala),Kerala,10.2762,76.2548,prefix5,20
+IND518002AAA,Kurnool_AbbasNgr_I (Andhra Pradesh),Andhra Pradesh,15.3333,77.9381,exact,140
+IND734203AAA,Kurseong_ABPath_D (West Bengal),West Bengal,26.9222,88.2667,exact,3
+IND136118AAA,Kurukshetra_DC (Haryana),Haryana,29.8041,76.9393,name,39
+IND274402AAA,Kushinagar_JiswlDPP_D (Uttar Pradesh),Uttar Pradesh,26.7879,82.6172,prefix5,7
+IND274304AAA,Kushinagar_KasyaDPP_D (Uttar Pradesh),Uttar Pradesh,26.7879,82.6172,exact,9
+IND507159AAA,Kusumnchi_SKRoad_D (Telangana),Telangana,17.6,80.3333,prefix5,30
+IND670643AAA,Kuthuparamba_IdstrlAr_D (Kerala),Kerala,12.05,75.2667,exact,22
+IND787001AAA,LakhimpurN_SashPhkn_D (Assam),Assam,27.3722,94.45,exact,10
+IND262701AAA,Lakhimpur_Maheva_D (Uttar Pradesh),Uttar Pradesh,25.1333,81.3,exact,40
+IND783129AAA,Lakhipur_WrdN4DPP_D (Assam),Assam,25.9889,90.5444,exact,11
+IND480886AAA,Lakhnadon_Central_DPP_1 (Madhya Pradesh),Madhya Pradesh,22.4,79.5333,prefix5,16
+IND284403AAA,Lalitpur_RjghatRd_D (Uttar Pradesh),Uttar Pradesh,24.6833,78.4167,exact,9
+IND608301AAA,Lalpet_PriyrNGR_D (Tamil Nadu),Tamil Nadu,11.4667,79.6333,prefix5,26
+IND140501AAA,Lalru_OnkarDPP_D (Punjab),Punjab,30.7871,76.5526,exact,28
+IND303503AAA,Lalsot_NWclyDPP_D (Rajasthan),Rajasthan,26.5667,76.3333,exact,23
+IND413531AAA,Latur_Srnwsngr_D (Maharashtra),Maharashtra,18.3917,76.4917,prefix5,8
+IND791125AAB,Likabali_ZoomCDPP_D (Arunachal Pradesh),Arunachal Pradesh,27.6333,93.8333,prefix5,4
+IND363421AAB,Limbdi_Busstand_D (Gujarat),Gujarat,22.5667,71.8,exact,27
+IND431708AAA,Loha_SivjiCWK_D (Maharashtra),Maharashtra,18.9667,77.3,exact,31
+IND127201AAA,Loharu_BstndDPP_D (Haryana),Haryana,28.45,75.8167,name,11
+IND410401AAA,Lonavala_NngrgnRd_D (Maharashtra),Maharashtra,18.75,73.4167,exact,20
+IND400011AAA,LowerParel_CP (Maharashtra),Maharashtra,19.0167,72.85,exact,84
+IND226024AAA,Lucknow_Aliganj (Uttar Pradesh),Uttar Pradesh,27.5167,79.9833,prefix4,1
+IND226004AAA,Lucknow_Hub (Uttar Pradesh),Uttar Pradesh,27.5167,79.9833,exact,7
+IND226016AAA,Lucknow_Indira Nagar (Uttar Pradesh),Uttar Pradesh,27.5167,79.9833,exact,6
+IND226004AAC,Lucknow_Pandriba_L (Uttar Pradesh),Uttar Pradesh,27.5167,79.9833,exact,1
+IND141010AAA,Ludhiana_DC (Punjab),Punjab,30.9,75.85,prefix4,1
+IND141003AAB,Ludhiana_GillChwk_DC (Punjab),Punjab,30.9,75.85,exact,29
+IND000000ACA,Ludhiana_MilrGanj_HB (Punjab),Punjab,30.9,75.85,name,262
+IND389230AAB,Lunawada_VrdhriRD_D (Gujarat),Gujarat,22.8333,69.3667,exact,1
+IND504215AAA,Luxettipet_ShivaDPP_D (Telangana),Telangana,19.2833,78.1917,exact,17
+IND600056AAB,MAA_Poonamallee_HB (Tamil Nadu),Tamil Nadu,13.0385,80.2345,prefix5,541
+IND141115AAA,Machhiwara_MnBzrDPP_D (Punjab),Punjab,30.9147,76.1983,exact,23
+IND521001AAA,Machilipatnam_DC (Andhra Pradesh),Andhra Pradesh,16.5056,80.9111,exact,28
+IND515301AAA,Madakasira_RTCStand_D (Andhra Pradesh),Andhra Pradesh,13.9369,77.2694,exact,30
+IND852113AAA,Madhepura_Krishnpr_D (Bihar),Bihar,24.9833,81.0583,exact,38
+IND847212AAA,Madhubani_Bardivan_D (Bihar),Bihar,25.2917,88.5333,prefix5,43
+IND815353AAA,Madhupur_Sitarmrd_D (Jharkhand),Jharkhand,24.25,86.65,exact,18
+IND577598AAB,Madikeri_MuthpTmp_D (Karnataka),Karnataka,14.2473,76.3193,prefix5,33
+IND517325AAA,Madnapalle_PngnrRd_D (Andhra Pradesh),Andhra Pradesh,13.55,78.5,exact,1
+IND625008AAA,Madurai_Kappalur_H (Tamil Nadu),Tamil Nadu,10.025,78.0417,exact,73
+IND509001AAA,Mahabubnagar_DC (Telangana),Telangana,17.044,78.9628,exact,36
+IND402301AAA,Mahad_Govndsgr_D (Maharashtra),Maharashtra,18.469,72.9349,prefix3,33
+IND505503AAA,Mahadevpur_Kataram_D (Telangana),Telangana,17.448,78.5913,prefix5,2
+IND626138AAA,Maharajapuram_Krsnakcl_D (Tamil Nadu),Tamil Nadu,9.6333,77.65,prefix5,25
+IND273303AAA,Maharajganj_PakriDPP_D (Uttar Pradesh),Uttar Pradesh,27.4333,83.7,exact,2
+IND493445AAB,Mahasamund_RajpurRD_D (Chhattisgarh),Chhattisgarh,21.1,82.1,exact,12
+IND122001AAJ,Mahbubabad_Yellanda_D (Telangana),Telangana,28.09,76.9567,exact,32
+IND210427AAA,Mahoba_Mlkpura_D (Uttar Pradesh),Uttar Pradesh,25.2833,79.8667,exact,19
+IND485771AAA,Maihar_MngalDPP_D (Madhya Pradesh),Madhya Pradesh,24.2667,80.75,exact,5
+IND735224AAA,Mainaguri_MilpaDPP_D (West Bengal),West Bengal,26.9,88.9167,exact,8
+IND205001AAB,Mainpuri_Agraroad_I (Uttar Pradesh),Uttar Pradesh,26.9833,79.8111,exact,47
+IND431131AAB,Majalgaon_SmbjiCwk_D (Maharashtra),Maharashtra,19.8,75.2333,prefix5,1
+IND341505AAA,Makrana_Mwalibad_D (Rajasthan),Rajasthan,26.8917,74.4,exact,18
+IND676509AAA,Malappuram_Munduprm_D (Kerala),Kerala,11.075,76.125,prefix5,11
+IND571430AAA,Malavalli_SulthnRd_D (Karnataka),Karnataka,12.6581,76.7154,prefix5,21
+IND732103AAB,Malda_Central_I_3 (West Bengal),West Bengal,26.4167,88.9333,name,24
+IND732103AAA,Malda_krshnPly_DC (West Bengal),West Bengal,26.4167,88.9333,name,4
+IND423105AAA,Malegaon_Rawlgaon_D (Maharashtra),Maharashtra,19.7167,74.4833,prefix5,17
+IND603301AAA,Malemruvathur_Achipkam_D (Tamil Nadu),Tamil Nadu,12.5833,79.95,exact,27
+IND148023AAA,Malerkotla_DC (Punjab),Punjab,30.3667,75.8667,exact,11
+IND581400AAB,Mallapur_ShtDRDPP_D (Karnataka),Karnataka,14.5917,74.375,prefix5,25
+IND152107AAA,Malout_DC (Punjab),Punjab,30.2125,74.2417,exact,3
+IND563130AAA,Malur_NharuExt_D (Karnataka),Karnataka,13.2,78.0167,prefix5,20
+IND416606AAA,Malvan_BllvMarg_D (Maharashtra),Maharashtra,16.9167,74.1375,prefix4,24
+IND614620AAA,Manamelkudi_TmpleSrt_D (Tamil Nadu),Tamil Nadu,10.4167,79.4,prefix5,31
+IND670645AAB,Mananthavady_Central_D_1 (Kerala),Kerala,12.05,75.2667,exact,15
+IND621306AAA,Manapparai_BypassRd_D (Tamil Nadu),Tamil Nadu,10.5333,78.3,prefix5,12
+IND504208AAB,Mancherial_Hitech_D (Telangana),Telangana,19.2833,78.1917,prefix5,21
+IND533308AAB,Mandapeta_Mainrd_D (Andhra Pradesh),Andhra Pradesh,17.0222,82.1028,prefix4,31
+IND147301AAA,Mandi_Gobindgarh_DC (Punjab),Punjab,30.3541,76.2855,exact,6
+IND175001AAA,Mandi_PlaceCol_D (Himachal Pradesh),Himachal Pradesh,31.5958,77.0458,exact,33
+IND481661AAA,Mandla_Mharajpr_D (Madhya Pradesh),Madhya Pradesh,22.0615,80.2808,exact,17
+IND458001AAB,Mandsaur_YashDPP_D (Madhya Pradesh),Madhya Pradesh,24.4375,75.1375,exact,23
+IND571401AAA,Mandya_Dc (Karnataka),Karnataka,12.2332,76.8562,prefix5,19
+IND784125AAA,Mangaldoi_LNBRoad_D (Assam),Assam,26.6,92.4833,exact,7
+IND575004AAB,Mangalore_Kuntikna_H (Karnataka),Karnataka,13.3666,76.171,exact,57
+IND721434AAB,Manglamaro_Bypassrd_D (West Bengal),West Bengal,22.484,87.4703,prefix3,4
+IND362225AAA,Mangrol_JilRDDPP_D (Gujarat),Gujarat,21.3333,70.2333,prefix5,12
+IND671323AAD,Manjeshwar_Central_D_1 (Kerala),Kerala,12.6833,74.9,exact,4
+IND851127AAA,Manjhaul_Purbari_D (Bihar),Bihar,24.9833,81.0583,prefix5,37
+IND423106AAA,Manmad_Malegaon_D (Maharashtra),Maharashtra,19.7167,74.4833,prefix5,14
+IND614018AAA,Mannargudi_Vadasari_D (Tamil Nadu),Tamil Nadu,10.4167,79.4,prefix5,22
+IND151505AAA,Mansa_GreenVly_D (Punjab),Punjab,29.9833,75.3833,exact,21
+IND713145AAB,Manteswar_MemariRD_D (West Bengal),West Bengal,23.4333,88.1,exact,6
+IND505184AAC,Manthani_Chaitnya_D (Telangana),Telangana,17.1842,78.3897,exact,19
+IND689503AAB,Manthuka_Central_D_1 (Kerala),Kerala,10.2762,76.2548,exact,2
+IND507117AAB,Manuguru_AskNagar_D (Telangana),Telangana,17.3921,79.3615,prefix5,38
+IND584123AAA,Manvi_APMCYard_D (Karnataka),Karnataka,16.1583,76.8583,prefix5,3
+IND604303AAA,Marakkanam_MJRDPP_D (Tamil Nadu),Tamil Nadu,12.3167,79.7167,prefix5,8
+IND786181AAC,Margherita_CivilHPL_D (Assam),Assam,27.2833,95.6833,exact,59
+IND785634AAA,Mariani_Mainroad_D (Assam),Assam,26.6667,94.3333,exact,5
+IND523316AAB,Markapur_VidyaNgr_D (Andhra Pradesh),Andhra Pradesh,15.4667,78.9667,prefix5,28
+IND629179AAA,Marthandam_Nallur_D (Tamil Nadu),Tamil Nadu,9.5333,78.0167,exact,11
+IND306001AAA,MarwarJn_SndbrDPP_D (Rajasthan),Rajasthan,25.4333,73.5333,prefix3,3
+IND736146AAA,Mathabhang_Pshimpra_D (West Bengal),West Bengal,24.1222,88.8175,exact,16
+IND281004AAA,Mathura_DC (Uttar Pradesh),Uttar Pradesh,27.5933,77.7567,prefix5,8
+IND275101AAA,Mau_BaliaMod_D (Uttar Pradesh),Uttar Pradesh,26.4,81.5333,prefix5,5
+IND502110AAA,Medak_Dwaraka_D (Telangana),Telangana,16.1667,81.1667,exact,38
+IND501401AAC,Medchal_MROoffce_D (Telangana),Telangana,18.1308,79.1847,prefix3,33
+IND250002AAA,Meerut (Uttar Pradesh),Uttar Pradesh,29.0611,77.5556,exact,13
+IND124112AAA,Meham_GModDPP_D (Haryana),Haryana,28.8917,76.4167,exact,15
+IND443301AAA,Mehkar_SagarDPP_D (Maharashtra),Maharashtra,20.14165,76.55,prefix5,7
+IND384205AAA,Mehsana_Panchot_IP (Gujarat),Gujarat,23.63,71.98,exact,102
+IND722143AAB,Mejia_Central_D_1 (West Bengal),West Bengal,23.1611,87.0667,prefix5,19
+IND625106AAA,Melur_MduraiRD_D (Tamil Nadu),Tamil Nadu,10.025,78.0417,prefix5,25
+IND341510AAB,Merta_Central_DPP_1 (Rajasthan),Rajasthan,26.7333,74.4667,prefix5,27
+IND505325AAA,Metpally_GunjRDPP_D (Telangana),Telangana,17.448,78.5913,prefix5,11
+IND636402AAA,Mettur_RTOroad_D (Tamil Nadu),Tamil Nadu,11.7333,78.0667,prefix5,17
+IND721102AAA,Midnapore_Talkui_D (West Bengal),West Bengal,22.484,87.4703,prefix5,18
+IND734214AAB,Mirik_WardNo3_D (West Bengal),West Bengal,26.9,88.1667,exact,3
+IND508207AAB,Miryalguda_Ragvendr_D (Telangana),Telangana,17.1667,79.4333,exact,28
+IND722154AAA,MirzapurWB_VidyaDPP_D (West Bengal),West Bengal,23.075,87.0583,exact,7
+IND231001AAA,Mirzapur_JangiRd_D (Uttar Pradesh),Uttar Pradesh,24.8167,82.7889,exact,3
+IND383315AAC,Modasa_Central_D_1 (Gujarat),Gujarat,23.2417,73.10835,prefix4,26
+IND201204AAA,Modinagar_SikriKla_DC (Uttar Pradesh),Uttar Pradesh,27.2384,78.7478,prefix5,15
+IND142001AAB,Moga_DPC (Punjab),Punjab,30.7457,75.2044,exact,57
+IND821109AAA,Mohania_Bhabua_D (Bihar),Bihar,23.908,85.4865,prefix5,17
+IND798601AAA,Mokokchung_Central_D_1 (Nagaland),Nagaland,26.3333,94.5333,exact,6
+IND577535AAC,Molakalmuru_KnsgraRD_D (Karnataka),Karnataka,14.2473,76.3193,prefix5,20
+IND574227AAA,Moodbidri_MrdiVlge_D (Karnataka),Karnataka,14.2467,76.2933,prefix5,11
+IND244001AAA,Moradabad_DC (Uttar Pradesh),Uttar Pradesh,29.0889,78.6778,exact,35
+IND785675AAA,Moranhat_TiloiDPP_D (Assam),Assam,26.6656,94.2635,exact,4
+IND363641AAA,Morbi_DC (Gujarat),Gujarat,22.6417,70.8333,exact,7
+IND476001AAA,Morena_Prjapati_D (Madhya Pradesh),Madhya Pradesh,26.25,77.6333,prefix3,4
+IND731237AAB,Morgram_Kntgorya_D (West Bengal),West Bengal,23.95,87.6667,exact,33
+IND508277AAB,Mothkur_Mainroad_D (Telangana),Telangana,17.1667,79.4333,prefix5,25
+IND845401AAA,Motihari_RajaBzr_D (Bihar),Bihar,25.2917,88.5333,exact,41
+IND577132AAD,Mudigere_HesglDPP_D (Karnataka),Karnataka,13.2667,75.7167,prefix5,18
+IND232101AAB,MughalSarai_Central_D_2 (Uttar Pradesh),Uttar Pradesh,26.2962,81.7729,exact,11
+IND152026AAA,Muktsar_DPC (Punjab),Punjab,30.8439,74.4943,exact,72
+IND563131AAA,Mulbagal_Sunku_D (Karnataka),Karnataka,13.2,78.0167,exact,28
+IND506343AAA,Mulugu_LaxmiNGR_D (Telangana),Telangana,17.0289,78.3025,prefix4,4
+IND400037AAA,Mumbai Antop Hill (Maharashtra),Maharashtra,19.0167,72.85,exact,15
+IND400072AAB,Mumbai Hub (Maharashtra),Maharashtra,19.0167,72.85,exact,534
+IND400016AAA,Mumbai Mahim (Maharashtra),Maharashtra,19.0167,72.85,exact,1
+IND421502AAA,Mumbai_Ambernath_Dc (Maharashtra),Maharashtra,19.15,73.2667,exact,17
+IND400078AAB,Mumbai_Bhandup West_Dc (Maharashtra),Maharashtra,19.0167,72.85,exact,1
+IND400072AAI,Mumbai_Chndivli_D (Maharashtra),Maharashtra,19.0167,72.85,exact,1
+IND400072AAD,Mumbai_Chndivli_PC (Maharashtra),Maharashtra,19.0167,72.85,exact,184
+IND400015AAB,Mumbai_CotnGren_M (Maharashtra),Maharashtra,19.0167,72.85,exact,61
+IND400015AAA,Mumbai_CottonGreen_DPC (Maharashtra),Maharashtra,19.0167,72.85,exact,147
+IND421302AAR,Mumbai_East_I_21 (Maharashtra),Maharashtra,19.1833,73.2083,prefix5,134
+IND421302AAS,Mumbai_East_L_23 (Maharashtra),Maharashtra,19.1833,73.2083,prefix5,2
+IND400701AAA,Mumbai_Ghansoli_DC (Maharashtra),Maharashtra,19.0778,72.8944,prefix5,19
+IND400102AAB,Mumbai_Jogeshwri_L (Maharashtra),Maharashtra,19.0778,72.8944,exact,53
+IND400102AAC,Mumbai_Jogshwri_I (Maharashtra),Maharashtra,19.0778,72.8944,exact,98
+IND421302AAF,Mumbai_Kalyan (Maharashtra),Maharashtra,19.1833,73.2083,prefix5,13
+IND421301AAA,Mumbai_Kalyan West _Dc (Maharashtra),Maharashtra,19.1833,73.2083,exact,32
+IND410209AAA,Mumbai_Khandeshwar_Dc (Maharashtra),Maharashtra,18.8389,73.6833,exact,40
+IND400052AAA,Mumbai_Khar West _Dc (Maharashtra),Maharashtra,19.0167,72.85,exact,8
+IND410210AAA,Mumbai_Kharghar_D (Maharashtra),Maharashtra,18.8389,73.6833,prefix4,13
+IND400064AAB,Mumbai_MaladWest_CP (Maharashtra),Maharashtra,19.0167,72.85,exact,21
+IND400016AAB,Mumbai_MhimWest_C (Maharashtra),Maharashtra,19.0167,72.85,exact,16
+IND401104AAA,Mumbai_MiraRd_IP (Maharashtra),Maharashtra,19.9167,73.2333,prefix3,268
+IND401104AAB,Mumbai_MiraRoad_M (Maharashtra),Maharashtra,19.9167,73.2333,prefix3,39
+IND400612AAA,Mumbai_Mumbra_DC (Maharashtra),Maharashtra,19.2,72.9833,prefix4,24
+IND400706AAA,Mumbai_Nerul_D (Maharashtra),Maharashtra,19.0778,72.8944,prefix5,4
+IND410206AAB,Mumbai_Panvel_D (Maharashtra),Maharashtra,18.8389,73.6833,prefix5,37
+IND400701AAB,Mumbai_Pawane_L (Maharashtra),Maharashtra,19.0778,72.8944,prefix5,51
+IND400705AAA,Mumbai_Sanpada_CP (Maharashtra),Maharashtra,19.0778,72.8944,prefix5,13
+IND400072AAJ,Mumbai_Tejpal_I (Maharashtra),Maharashtra,19.0167,72.85,exact,53
+IND400072AAA,Mumbai_Tejpal_M (Maharashtra),Maharashtra,19.0167,72.85,exact,30
+IND421004AAA,Mumbai_Ulhasngr_DC (Maharashtra),Maharashtra,19.2167,73.15,prefix5,27
+IND401209AAB,Mumbai_Vasai_CP (Maharashtra),Maharashtra,19.9167,73.2333,prefix5,32
+IND401209AAA,Mumbai_Virar_DC (Maharashtra),Maharashtra,19.9167,73.2333,prefix5,24
+IND686513AAA,Mundakayam_Central_D_1 (Kerala),Kerala,9.7667,76.4,exact,24
+IND473443AAA,Mungaoli_AshkngRd_D (Madhya Pradesh),Madhya Pradesh,24.5167,77.9667,prefix5,9
+IND495334AAB,Mungeli_Panderia_D (Chhattisgarh),Chhattisgarh,26.1872,80.0646,exact,23
+IND811201AAB,Munger_Kaura_D (Bihar),Bihar,24.3298,85.6667,exact,6
+IND421401AAC,Murbad_SnkunDPP_D (Maharashtra),Maharashtra,19.1833,73.2083,prefix3,21
+IND621211AAA,Musiri_ThryrRD_D (Tamil Nadu),Tamil Nadu,10.4694,78.5056,prefix5,15
+IND248122AAB,Mussoorie_BrlwgDPP_D (Uttarakhand),Uttarakhand,30.4395,77.9109,exact,31
+IND623704AAA,Muthukulathur_VaiklSRT_D (Tamil Nadu),Tamil Nadu,9.5958,78.7333,exact,15
+IND251001AAA,Muzaffrngr_MhmodNgr_D (Uttar Pradesh),Uttar Pradesh,27.5667,78.3083,exact,22
+IND842001AAA,Muzaffrpur_Bbganj_I (Bihar),Bihar,25.2917,88.5333,exact,336
+IND609001AAA,Mylduthuri_Thiruviz_D (Tamil Nadu),Tamil Nadu,10.9167,79.8167,exact,23
+IND570020AAA,Mysore_Yadvgiri_IP (Karnataka),Karnataka,13.3666,76.171,exact,53
+IND201301AAD,NOI_RPC (Delhi),Delhi,27.2384,78.7478,prefix5,5
+IND741316AAA,Nabadwip_Srirmpur_D (West Bengal),West Bengal,13.9463,92.1467,prefix3,2
+IND764059AAA,Nabarangpr_PhdofDPP_D (Orissa),Orissa,18.1833,82.1083,exact,10
+IND147201AAA,Nabha_Sahni_D (Punjab),Punjab,30.3747,76.1486,exact,14
+IND177033AAA,Nadaun_Ward6_D (Himachal Pradesh),Himachal Pradesh,31.7833,76.35,exact,27
+IND387001AAA,Nadiad_DC (Gujarat),Gujarat,22.84,73.01,exact,25
+IND571432AAB,Nagamangala_MandyaRD_D (Karnataka),Karnataka,12.8156,76.7575,exact,29
+IND611001AAA,Nagapttinm_Sttyapar_D (Tamil Nadu),Tamil Nadu,10.7667,79.8333,exact,21
+IND629001AAA,Nagarcoil_AsrplmRd_DC (Tamil Nadu),Tamil Nadu,10.9667,78.5167,exact,12
+IND341001AAC,Nagaur_KisanCo_D (Rajasthan),Rajasthan,27.0633,73.9833,exact,14
+IND445101AAA,Nagpur_Gondkhry_H (Maharashtra),Maharashtra,20.3556,78.0944,exact,1
+IND440014AAA,Nagpur_Jaripatk_DC (Maharashtra),Maharashtra,21.15,79.1,exact,1
+IND791110AAA,Naharlagun_JmpuCntr_D (Arunachal Pradesh),Arunachal Pradesh,27.15,93.75,prefix5,1
+IND263002AAA,Nainital_Sookhtal_D (Uttarakhand),Uttarakhand,29.44,79.3283,exact,26
+IND246763AAA,Najibabad_KotdwrRD_D (Uttar Pradesh),Uttar Pradesh,29.6333,78.3333,exact,26
+IND741126AAB,Nakashipara_MaxDPP_D (West Bengal),West Bengal,13.9463,92.1467,prefix4,39
+IND370615AAB,Nakhatrana_ClgRDDPP_D (Gujarat),Gujarat,23.3333,69.25,exact,12
+IND144040AAA,Nakodar_ChowkDPP_D (Punjab),Punjab,31.3294,75.5846,prefix4,27
+IND174101AAB,Nalagarh_Central_DPP_2 (Himachal Pradesh),Himachal Pradesh,31.05,76.7167,exact,12
+IND401208AAA,Nalasopara (Maharashtra),Maharashtra,19.9167,73.2333,prefix5,37
+IND781335AAA,Nalbari_Bhgtpura_D (Assam),Assam,26.4778,91.2333,exact,6
+IND508001AAA,Nalgonda_HydRoad_DC (Telangana),Telangana,17.1084,79.1517,exact,29
+IND637001AAA,Namakkal_Rkcomplx_DC (Tamil Nadu),Tamil Nadu,12.9908,80.2131,exact,10
+IND792103AAB,Namsai_HelipadRD_D (Arunachal Pradesh),Arunachal Pradesh,28.0833,96.55,exact,21
+IND431603AAA,Nanded_Aswningr_I (Maharashtra),Maharashtra,18.9321,76.37559999999999,prefix3,40
+IND521185AAA,Nandigama_Chndrlpd_D (Andhra Pradesh),Andhra Pradesh,15.95,80.9167,prefix5,17
+IND518401AAA,Nandikotkr_UmarDPP_D (Andhra Pradesh),Andhra Pradesh,15.5333,77.55,prefix4,25
+IND425412AAA,Nandurbar_DhuleRd_D (Maharashtra),Maharashtra,20.4833,74.8333,prefix5,29
+IND518501AAA,Nandyal_SrnvsNgr_D (Andhra Pradesh),Andhra Pradesh,14.8,78.5583,prefix4,33
+IND571301AAA,Nanjangud_RPRoad_D (Karnataka),Karnataka,12.129,76.7844,prefix4,17
+IND731301AAA,Nanoor_Central_DPP_1 (West Bengal),West Bengal,23.8333,87.8167,exact,35
+IND134203AAA,Naraingarh_Ward2DPP_D (Haryana),Haryana,30.4833,77.1333,exact,16
+IND532421AAA,Narasnpeta_HudcoDPP_D (Andhra Pradesh),Andhra Pradesh,18.65,83.7667,prefix5,39
+IND502286AAB,Narayankhed_Datatrya_D (Telangana),Telangana,16.6289,80.0624,prefix5,44
+IND626607AAB,Narikkudi_MukkuRD_D (Tamil Nadu),Tamil Nadu,10.15,77.65,prefix5,14
+IND845455AAB,Narktiganj_Central_DPP_2 (Bihar),Bihar,25.2917,88.5333,exact,35
+IND123001AAA,Narnaul_DC (Haryana),Haryana,28.5,76.2111,exact,16
+IND854335AAA,Narpatganj_Central_DPP_1 (Bihar),Bihar,23.55,74.8667,exact,22
+IND502313AAA,Narsapur_Xroad_D (Telangana),Telangana,17.0911,78.9581,prefix4,25
+IND465669AAB,Narsinghgarh_Central_D_1 (Madhya Pradesh),Madhya Pradesh,23.5667,76.4667,prefix5,21
+IND487001AAB,Narsinghpur_KndliDPP_D (Madhya Pradesh),Madhya Pradesh,22.875,78.8,exact,9
+IND487001AAA,Narsingpur_JrjolDPP_D (Madhya Pradesh),Madhya Pradesh,22.875,78.8,exact,6
+IND531116AAA,Narsiptnm_Wardno8_D (Andhra Pradesh),Andhra Pradesh,17.825,82.8694,prefix4,10
+IND422011AAD,Nashik_TgrniaRD_I (Maharashtra),Maharashtra,19.925,73.8917,prefix3,74
+IND305601AAC,Nasirabad_Central_DPP_2 (Rajasthan),Rajasthan,26.3,74.7333,exact,31
+IND272207AAB,Naugarh_Central_D_1 (Uttar Pradesh),Uttar Pradesh,27.2,83.1167,exact,3
+IND853204AAA,Naugchia_Vijayght_D (Bihar),Bihar,24.9833,81.0583,exact,18
+IND396445AAA,Navsari_DC (Gujarat),Gujarat,20.9333,72.9167,exact,14
+IND333042AAA,Nawalgarh_NavldiDPP_D (Rajasthan),Rajasthan,27.85,75.2667,exact,27
+IND144514AAA,Nawanshahr_DC (Punjab),Punjab,31.0667,76.1667,exact,18
+IND741165AAB,Nazirpur_Central_D_1 (West Bengal),West Bengal,13.9463,92.1467,prefix4,33
+IND695541AAA,Nedumangad_Arsprmbu_D (Kerala),Kerala,8.4333,77.05,prefix5,16
+IND332713AAA,NeemKaThana_War5DPP_D (Rajasthan),Rajasthan,27.5333,75.75,prefix5,9
+IND301705AAA,Neemrana_Rcocmplx_D (Rajasthan),Rajasthan,27.5972,76.5639,prefix5,8
+IND458664AAA,Neemuch_KarjuDPP_D (Madhya Pradesh),Madhya Pradesh,24.4375,75.1375,prefix4,13
+IND524003AAA,Nellore_DC (Andhra Pradesh),Andhra Pradesh,18.4,82.4333,exact,28
+IND695121AAA,Neyatinkra_Arlumodu_D (Kerala),Kerala,8.4333,77.05,prefix5,38
+IND607801AAA,Neyveli_NJVNgr_D (Tamil Nadu),Tamil Nadu,11.725,79.4833,prefix5,29
+IND273304AAA,Nichlaul_Wardno13_D (Uttar Pradesh),Uttar Pradesh,27.4333,83.7,prefix5,17
+IND679329AAA,Nilambur_StteHW28_D (Kerala),Kerala,11.2,76.2333,exact,3
+IND312601AAA,Nimbahera_MsjidDPP_D (Rajasthan),Rajasthan,23.6667,74.85,prefix5,12
+IND591237AAB,Nipani_AkkolRD_D (Karnataka),Karnataka,16.5667,74.55,prefix5,14
+IND791109AAA,Nirjuli_BageDPP_D (Arunachal Pradesh),Arunachal Pradesh,28.025,95.0,prefix5,1
+IND828205AAA,Nirsa_ShantiDPP_D (Jharkhand),Jharkhand,23.7667,86.3935,exact,1
+IND335523AAB,Nohar_Central_DPP_2 (Rajasthan),Rajasthan,29.5833,74.5167,prefix5,7
+IND201307AAA,Noida_Chukhndi_D (Uttar Pradesh),Uttar Pradesh,27.2384,78.7478,prefix5,33
+IND201301AAF,Noida_Sec 02_DPC (Uttar Pradesh),Uttar Pradesh,27.2384,78.7478,prefix5,120
+IND201304AAA,Noida_Sec-83_DC (Uttar Pradesh),Uttar Pradesh,27.2384,78.7478,exact,31
+IND811399AAA,Noida_Sector02_C (Uttar Pradesh),Uttar Pradesh,24.3298,85.6667,prefix4,61
+IND201301AAM,Noida_Sector63_L (Uttar Pradesh),Uttar Pradesh,27.2384,78.7478,prefix5,66
+IND201306AAA,Noida_Surajpur_DC (Uttar Pradesh),Uttar Pradesh,27.2384,78.7478,prefix5,9
+IND334803AAA,Nokha_DeVDPP_D (Rajasthan),Rajasthan,27.8,73.35,exact,9
+IND110085AAA,North Delhi (Delhi),Delhi,28.6488,77.1726,prefix5,1
+IND521201AAA,Nuzvid_Ward17_D (Andhra Pradesh),Andhra Pradesh,16.5056,80.9111,prefix4,24
+IND110020AAB,OK_RPC (Delhi),Delhi,28.6488,77.1726,exact,13
+IND624619AAA,Oddnchtram_Palani_D (Tamil Nadu),Tamil Nadu,10.5333,78.0667,exact,22
+IND523002AAA,Ongole_SubhVRTL_I (Andhra Pradesh),Andhra Pradesh,15.6917,79.5083,exact,74
+IND643001AAA,Ooty_Davisdle_D (Tamil Nadu),Tamil Nadu,11.4611,76.55,exact,16
+IND285001AAD,Orai_Ajnari_D (Uttar Pradesh),Uttar Pradesh,26.0556,79.4444,exact,42
+IND623315AAB,Oriyur_Vllyaprm_D (Tamil Nadu),Tamil Nadu,9.5958,78.7333,prefix5,30
+IND413501AAA,Osmanabad_Kakdepot_D (Maharashtra),Maharashtra,18.3917,76.4917,exact,44
+IND411021AAA,PNQ Pashan DPC (Maharashtra),Maharashtra,18.1617,74.5404,prefix5,73
+IND411017AAA,PNQ Rahatani DPC (Maharashtra),Maharashtra,18.1617,74.5404,exact,35
+IND411014AAA,PNQ Vadgaon Sheri DPC (Maharashtra),Maharashtra,18.1617,74.5404,prefix5,76
+IND424201AAA,Pachora_PcrrdDPP_D (Maharashtra),Maharashtra,20.6667,75.35,exact,2
+IND465683AAA,Pachore_Shop3DPP_D (Madhya Pradesh),Madhya Pradesh,23.5667,76.4667,exact,24
+IND274304AAB,Padrauna_BawliDPPP_D (Uttar Pradesh),Uttar Pradesh,26.7879,82.6172,exact,24
+IND203396AAB,Pahasu_Kanongyn_D (Uttar Pradesh),Uttar Pradesh,29.5878,77.2992,prefix3,27
+IND431107AAB,Paithan_SantaNGR_D (Maharashtra),Maharashtra,19.6556,75.4944,prefix5,13
+IND816107AAA,Pakur_Hatpada_D (Jharkhand),Jharkhand,24.75,87.6875,exact,19
+IND534260AAC,Palakollu_CroadDPP_D (Andhra Pradesh),Andhra Pradesh,16.775,81.4917,exact,9
+IND532440AAA,Palakonda_VadaiDPP_D (Andhra Pradesh),Andhra Pradesh,18.6,83.75,exact,34
+IND517408AAA,Palamaner_Lakshmi_D (Andhra Pradesh),Andhra Pradesh,13.8183,78.91,exact,1
+IND176061AAA,Palampur_Cnsrvila_D (Himachal Pradesh),Himachal Pradesh,32.1167,76.5333,exact,5
+IND624601AAA,Palani_RjndraRd_D (Tamil Nadu),Tamil Nadu,10.5333,78.0667,exact,27
+IND385001AAA,Palanpur_DC (Gujarat),Gujarat,24.0,71.9333,exact,27
+IND532222AAA,Palasa_Central_DPP_1 (Andhra Pradesh),Andhra Pradesh,18.7667,84.4167,prefix5,32
+IND484551AAA,PaliBirsighpr_CtyLgDPP_D (Madhya Pradesh),Madhya Pradesh,23.0542,81.51875,prefix3,2
+IND306401AAB,Pali_Nayagaon_I (Rajasthan),Rajasthan,25.4337,73.5082,exact,94
+IND364270AAA,Palitana_STRdDPP_D (Gujarat),Gujarat,21.5167,71.8333,exact,2
+IND121102AAA,Palwal (Haryana),Haryana,28.9915,76.2541,exact,53
+IND713148AAA,Panagarh_Central_D_1 (West Bengal),West Bengal,23.3533,87.9833,exact,20
+IND403507AAA,Panaji Goa (Goa),Goa,15.6,73.8167,exact,8
+IND413304AAA,Pandharpur_RajCmplx_D (Maharashtra),Maharashtra,17.4417,75.5167,prefix5,24
+IND480334AAA,Pandhurna_Mataward_D (Madhya Pradesh),Madhya Pradesh,22.2389,79.4981,exact,42
+IND695609AAA,Pangodu_Central_D_1 (Kerala),Kerala,8.4333,77.05,prefix5,6
+IND132103AAA,Panipat (Haryana),Haryana,29.3111,76.9924,exact,11
+IND132103AAB,Panipat_PC (Haryana),Haryana,29.3111,76.9924,exact,11
+IND488001AAA,Panna_Mohnprwa_D (Madhya Pradesh),Madhya Pradesh,24.7167,80.2,exact,7
+IND607106AAA,Panruti_GandhiRd_D (Tamil Nadu),Tamil Nadu,11.725,79.4833,prefix5,28
+IND721139AAC,Panskura_Central_D_3 (West Bengal),West Bengal,22.4167,87.7,exact,23
+IND173025AAA,PaontSahib_Gurudwar_D (Himachal Pradesh),Himachal Pradesh,30.45,77.6167,exact,23
+IND303106AAA,Paota_SmClyDPP_D (Rajasthan),Rajasthan,27.2167,75.95,prefix5,20
+IND764071AAB,Pappadahandi_Central_DPP_2 (Orissa),Orissa,19.3,82.7333,exact,7
+IND754142AAA,Paradip_Udyabata_D (Orissa),Orissa,20.2542,86.3,exact,4
+IND686507AAA,Parakkdavu_KeRoad_D (Kerala),Kerala,9.7667,76.4,prefix5,17
+IND761200AAA,Paralakhemundi_Ward14_D (Orissa),Orissa,19.5125,84.7569,prefix5,24
+IND623701AAA,Paramakudi_VagaiNgr_D (Tamil Nadu),Tamil Nadu,9.5958,78.7333,exact,12
+IND341512AAA,Parbatsar_AjmhwDPP_D (Rajasthan),Rajasthan,26.7333,74.4667,prefix5,11
+IND431401AAA,Parbhani_Rjndrngr_D (Maharashtra),Maharashtra,18.9321,76.37559999999999,prefix3,1
+IND506164AAA,Parkal_AmbedDPP_D (Telangana),Telangana,17.0289,78.3025,prefix5,1
+IND431515AAA,Parli_JirgeNgr_D (Maharashtra),Maharashtra,16.9833,75.2,prefix5,30
+IND414302AAB,Parner_Hindcwk_D (Maharashtra),Maharashtra,19.15,74.3833,prefix5,5
+IND535501AAB,Parvathipuram_Central_D_2 (Andhra Pradesh),Andhra Pradesh,10.2762,76.2548,name,38
+IND173220AAA,Parwanoo_Central_D_1 (Himachal Pradesh),Himachal Pradesh,31.2042,77.0581,exact,8
+IND791102AAA,Pasighat_MissonRd_D (Arunachal Pradesh),Arunachal Pradesh,28.0667,95.3333,exact,6
+IND384265AAB,Patan_Central_D_2 (Gujarat),Gujarat,23.63,71.98,exact,24
+IND500050AAA,Patancheru_Ameenpur_I (Telangana),Telangana,16.7024,78.1036,prefix5,46
+IND122503AAA,Pataudi_DC (Haryana),Haryana,28.09,76.9567,prefix3,4
+IND145001AAA,Pathankot_DC (Punjab),Punjab,32.2833,75.65,exact,21
+IND147001AAB,Patiala (Punjab),Punjab,30.3267,76.4003,exact,26
+IND147001AAD,Patiala_GainMrkt_L (Punjab),Punjab,30.3267,76.4003,exact,16
+IND147105AAA,Patran_MheshNGR_D (Punjab),Punjab,30.2304,76.3242,exact,20
+IND614602AAA,Pattukotai_anthniyr_D (Tamil Nadu),Tamil Nadu,10.4167,79.4,exact,16
+IND246001AAA,Pauri_Khndyusn_D (Uttarakhand),Uttarakhand,29.8718,78.8233,exact,4
+IND561202AAB,Pavagada_PnukndRD_D (Karnataka),Karnataka,14.1,77.2667,exact,30
+IND680587AAA,Pazhayannur_AlathurRD_D (Kerala),Kerala,10.4333,76.2167,exact,29
+IND505172AAA,Peddapalli_UdaynDPP_D (Telangana),Telangana,17.448,78.5913,prefix5,1
+IND136128AAA,Pehowa_WdN14DPP_D (Haryana),Haryana,29.9833,76.5833,name,44
+IND628613AAA,Peikulam_SriVnktpm_D (Tamil Nadu),Tamil Nadu,8.6333,78.0167,prefix5,30
+IND402107AAA,Pen_BljiMrkt_D (Maharashtra),Maharashtra,18.469,72.9349,prefix4,31
+IND606105AAA,Pennadam_EastmnRD_D (Tamil Nadu),Tamil Nadu,12.29,79.0267,prefix5,28
+IND621212AAA,Perambalur_goplpurm_D (Tamil Nadu),Tamil Nadu,10.4694,78.5056,exact,34
+IND614804AAA,Peravurani_SH71_D (Tamil Nadu),Tamil Nadu,10.4167,79.4,prefix5,32
+IND638052AAA,Perundurai_Viveka_DC (Tamil Nadu),Tamil Nadu,11.1667,77.6167,prefix5,3
+IND829121AAA,Peterbar_GagiDPP_D (Jharkhand),Jharkhand,23.6708,85.5875,exact,16
+IND144401AAB,Phagwara_Lovely_D (Punjab),Punjab,31.2178,75.7694,exact,31
+IND342301AAA,Phalodi_PalikDPP_D (Rajasthan),Rajasthan,26.7167,72.8833,prefix5,30
+IND762001AAA,Phulbani_Krusphrma_D (Orissa),Orissa,20.3867,84.2267,exact,2
+IND303338AAB,Phulera_NarenaRD_D (Rajasthan),Rajasthan,26.7333,75.81665000000001,prefix4,12
+IND212402AAA,Phulpur_Shekhpur_D (Uttar Pradesh),Uttar Pradesh,25.7278,80.9944,prefix5,26
+IND825102AAA,Phusro_RhmgjDPP_D (Jharkhand),Jharkhand,23.7333,85.4111,exact,6
+IND333031AAA,Pilani (Rajasthan),Rajasthan,28.1583,75.3,exact,20
+IND335803AAA,Pilibanga_BsstdDPP_D (Rajasthan),Rajasthan,29.4784,74.0878,prefix5,16
+IND262001AAA,Pilibhit_ViksClny_D (Uttar Pradesh),Uttar Pradesh,29.7438,80.1,prefix3,12
+IND245304AAA,Pilkhuwa_HapurRD_D (Uttar Pradesh),Uttar Pradesh,28.7167,77.8167,prefix3,53
+IND342601AAA,Piparcity_BsstdDPP_D (Rajasthan),Rajasthan,26.4,73.7833,prefix5,18
+IND262501AAA,Pithorgarh_Kumud_D (Uttarakhand),Uttarakhand,29.7438,80.2229,exact,19
+IND741156AAA,Plassey_BtaiRoad_D (West Bengal),West Bengal,13.9463,92.1467,prefix4,41
+IND345021AAA,Pokhran_SttinDPP_D (Rajasthan),Rajasthan,27.2583,71.8167,prefix5,17
+IND642001AAA,Pollachi_Venkatsa_DC (Tamil Nadu),Tamil Nadu,10.5833,77.25,exact,36
+IND606803AAA,Polur_StationRD_D (Tamil Nadu),Tamil Nadu,12.1167,79.15,prefix5,24
+IND605010AAB,Pondicherry_Vasanthm_I (Pondicherry),Pondicherry,12.5205,79.8348,exact,42
+IND622407AAA,Ponnamaravathi_Puduvalvu_D (Tamil Nadu),Tamil Nadu,9.7693,78.1427,prefix5,28
+IND360575AAA,Porbandar_DC (Gujarat),Gujarat,21.7,69.6917,exact,21
+IND312605AAB,Pratapgarh_Nimachrd_D (Rajasthan),Rajasthan,23.6667,74.85,prefix5,33
+IND679322AAA,Printhlmna_EmsPnmbi_D (Kerala),Kerala,11.2,76.2333,exact,4
+IND516360AAB,Proddatur_Central_D_2 (Andhra Pradesh),Andhra Pradesh,14.4833,78.1333,prefix5,4
+IND689645AAA,Pthnmthitt_Klskhrpt_D (Kerala),Kerala,10.2762,76.2548,prefix5,30
+IND622001AAA,Pudukkotti_Mrthndpr_D (Tamil Nadu),Tamil Nadu,9.7693,78.1427,exact,14
+IND209111AAA,Pukhrayan_Arulimod_D (Uttar Pradesh),Uttar Pradesh,27.01,79.9467,prefix5,38
+IND516390AAA,Pulivendula_RTCStand_D (Andhra Pradesh),Andhra Pradesh,14.4833,78.1333,prefix5,30
+IND691305AAA,Punalur_PostofJN_D (Kerala),Kerala,8.8333,76.9167,exact,36
+IND736165AAA,Pundibari_StatonRD_D (West Bengal),West Bengal,24.1222,88.8175,prefix5,5
+IND411043AAA,Pune Balaji Nagar (Maharashtra),Maharashtra,18.1617,74.5404,prefix5,10
+IND411033AAB,Pune_Chinchwad DC (Maharashtra),Maharashtra,18.1617,74.5404,prefix5,1
+IND411057AAF,Pune_East_D_7 (Maharashtra),Maharashtra,18.1617,74.5404,prefix4,1
+IND411048AAA,Pune_East_D_8 (Maharashtra),Maharashtra,18.1617,74.5404,prefix5,8
+IND411036AAA,Pune_Mundhawa_L (Maharashtra),Maharashtra,18.1617,74.5404,prefix5,65
+IND412105AAC,Pune_North_D_3 (Maharashtra),Maharashtra,18.7333,73.65,prefix5,35
+IND000000AAL,Pune_PC (Maharashtra),Maharashtra,18.1617,74.5404,name,35
+IND411033AAA,Pune_Tathawde_H (Maharashtra),Maharashtra,18.1617,74.5404,prefix5,733
+IND843320AAA,Pupri_SngihiRD_D (Bihar),Bihar,25.2917,88.5333,exact,29
+IND262122AAB,Puranpur_MdothdRD_D (Uttar Pradesh),Uttar Pradesh,29.75,78.1167,exact,10
+IND854326AAB,Purnia_Central_H_2 (Bihar),Bihar,26.4167,87.25,exact,132
+IND614809AAA,Pushpavanam_Thmpulam_D (Tamil Nadu),Tamil Nadu,10.4167,79.4,prefix5,34
+IND515134AAA,Puttaprthi_Gokulam_D (Andhra Pradesh),Andhra Pradesh,14.3447,77.8319,prefix3,55
+IND517583AAA,Puttur_Artmclny_D (Andhra Pradesh),Andhra Pradesh,15.7667,77.9167,prefix5,38
+IND574202AAA,Puttur_Darbe_DC (Karnataka),Karnataka,14.2467,76.2933,exact,11
+IND385340AAB,Radhanpur_Santalpr_D (Gujarat),Gujarat,23.8333,71.6,exact,21
+IND584101AAA,Raichur_LSRoad_DC (Karnataka),Karnataka,16.1583,76.8583,exact,33
+IND733134AAA,Raiganj_SubrtDPP_D (West Bengal),West Bengal,27.4333,83.7,name,8
+IND496001AAA,Raigarh_MithmdRd_D (Chhattisgarh),Chhattisgarh,22.1894,83.4273,exact,7
+IND141109AAA,Raikot_DC (Punjab),Punjab,30.65,75.6,exact,37
+IND306304AAB,Raipur_BypRDDPP_D (Rajasthan),Rajasthan,26.0039,73.8406,exact,2
+IND492007AAA,Raipur_Central_D_5 (Chhattisgarh),Chhattisgarh,21.3244,81.9627,exact,8
+IND492001AAB,Raipur_Katora_IP (Chhattisgarh),Chhattisgarh,21.3244,81.9627,exact,8
+IND335051AAA,RaisingNgr_BisnolDPP_D (Rajasthan),Rajasthan,29.5358,73.4492,exact,17
+IND532127AAA,Rajam_SamathBv_D (Andhra Pradesh),Andhra Pradesh,18.6896,84.0292,exact,42
+IND516115AAA,Rajampet_RSRoad_D (Andhra Pradesh),Andhra Pradesh,14.2333,79.7333,exact,35
+IND533106AAA,Rajamundry_AtoNgrRd_I (Andhra Pradesh),Andhra Pradesh,17.0222,82.1028,prefix5,101
+IND770017AAB,Rajgangpur_Central_D_2 (Orissa),Orissa,22.1667,83.9917,exact,6
+IND331023AAA,Rajgarh_SadulDPP_D (Rajasthan),Rajasthan,27.75,74.5833,exact,8
+IND410505AAB,Rajgurunagar_Chakan_D (Maharashtra),Maharashtra,18.7167,73.6833,exact,16
+IND360003AAA,Rajkot_Kothriya_DC (Gujarat),Gujarat,22.0833,70.9167,exact,2
+IND360002AAB,Rajkot_PedakRd_P (Gujarat),Gujarat,22.0833,70.9167,exact,4
+IND626117AAA,Rajpalayam_AshkTalk_D (Tamil Nadu),Tamil Nadu,9.45,77.5667,exact,26
+IND140401AAA,Rajpura_DC (Punjab),Punjab,30.4831,76.595,exact,15
+IND313324AAA,Rajsamand_kankroli_D (Rajasthan),Rajasthan,25.0667,73.8833,exact,19
+IND505209AAA,Ramagundam_Pdmavati_D (Telangana),Telangana,17.448,78.5913,exact,17
+IND562159AAA,Ramanagara_BMRd_DC (Karnataka),Karnataka,13.05,77.85,prefix5,11
+IND573142AAA,Ramanathapura_Central_D_2 (Karnataka),Karnataka,12.6908,76.0842,prefix5,36
+IND591123AAC,Ramdurg_GndhiNGR_D (Karnataka),Karnataka,15.8056,74.7389,exact,37
+IND623526AAA,Rameswram_Kdthdstrt_D (Tamil Nadu),Tamil Nadu,9.6667,78.85,prefix5,15
+IND829122AAA,Ramgarh_HotelPrk_D (Jharkhand),Jharkhand,23.6708,85.5875,exact,28
+IND244715AAA,Ramnagar_BhwniGnj_D (Uttarakhand),Uttarakhand,29.2167,78.95,exact,34
+IND623503AAA,Ramnthpurm_TnhbBlkC_D (Tamil Nadu),Tamil Nadu,9.6389,78.8278,prefix5,14
+IND244901AAB,Rampur_RoshnBgh_I (Uttar Pradesh),Uttar Pradesh,29.0889,78.6778,exact,131
+IND244901AAC,Rampur_ThanaDPP_D (Uttar Pradesh),Uttar Pradesh,29.0889,78.6778,exact,3
+IND151103AAA,RampuraPhul_DC (Punjab),Punjab,30.2611,75.1722,exact,7
+IND731224AAA,Rampurhat_SrifoDPP_D (West Bengal),West Bengal,24.3,87.8167,exact,26
+IND741201AAC,Ranaghat_ArickDPP_D (West Bengal),West Bengal,13.9463,92.1467,prefix3,5
+IND834002AAB,Ranchi_Hub (Jharkhand),Jharkhand,22.7583,85.3728,exact,146
+IND581115AAC,Ranebennur_SriRmNGR_D (Karnataka),Karnataka,15.175,75.1,prefix4,39
+IND781354AAA,Rangia_HosptlRd_D (Assam),Assam,26.4667,91.6333,exact,10
+IND854334AAA,Raniganj_Central_DPP_1 (Bihar),Bihar,23.55,74.8667,prefix5,25
+IND263645AAA,Ranikhet_Subhash_D (Uttarakhand),Uttarakhand,29.1889,78.9389,exact,28
+IND632402AAA,Ranipet_MBTRd_DC (Tamil Nadu),Tamil Nadu,12.8533,79.2267,prefix3,19
+IND637408AAA,Rasipurm_Knrpati_D (Tamil Nadu),Tamil Nadu,11.3833,78.25,prefix5,10
+IND221706AAA,Ratanpura_MubarDPP_D (Uttar Pradesh),Uttar Pradesh,25.9833,83.8833,prefix5,18
+IND210431AAA,Rath_Mughlpra_D (Uttar Pradesh),Uttar Pradesh,25.3667,79.675,prefix4,10
+IND125051AAA,Ratia_SchdvDPP_D (Haryana),Haryana,29.5333,75.0167,exact,17
+IND457001AAA,Ratlam_Khjurwli_DC (Madhya Pradesh),Madhya Pradesh,23.3167,75.0667,exact,36
+IND415612AAA,Ratnagiri_MjgaonRd_D (Maharashtra),Maharashtra,17.5944,74.1667,prefix5,18
+IND425508AAB,Raver_Truptingr_D (Maharashtra),Maharashtra,21.1667,75.85,prefix5,27
+IND335524AAA,Rawatsar_ShivmDPP_D (Rajasthan),Rajasthan,29.5833,74.5167,prefix5,8
+IND845305AAA,Raxaul_KairiyaT_D (Bihar),Bihar,25.2917,88.5333,prefix5,42
+IND516269AAA,Rayachoti_Madnpali_D (Andhra Pradesh),Andhra Pradesh,14.0333,78.5,prefix5,25
+IND515865AAB,Rayadurgam_RailGate_D (Andhra Pradesh),Andhra Pradesh,15.0167,77.3833,prefix5,36
+IND506314AAA,Rayaparthi_Perkadrd_D (Telangana),Telangana,17.0289,78.3025,exact,28
+IND533242AAA,Razole_Shanthi_D (Andhra Pradesh),Andhra Pradesh,17.0046,80.19485,prefix5,8
+IND332404AAA,Reengus_Shop2DPP_D (Rajasthan),Rajasthan,27.4833,75.3667,exact,21
+IND470227AAB,Rehli_Ward7DPP_D (Madhya Pradesh),Madhya Pradesh,23.881,79.2214,prefix5,7
+IND231217AAA,Renukoot_Govind_D (Uttar Pradesh),Uttar Pradesh,24.7167,82.675,prefix5,13
+IND303603AAB,Renwal_ChomuRD_D (Rajasthan),Rajasthan,27.2667,75.4333,prefix5,14
+IND486001AAA,Rewa_Dc (Madhya Pradesh),Madhya Pradesh,24.5,81.4167,prefix3,5
+IND123401AAB,Rewari_YuktiDPP_D (Haryana),Haryana,28.1833,76.6167,exact,26
+IND249201AAA,Rishikesh_DC (Uttarakhand),Uttarakhand,30.1167,78.3167,exact,43
+IND231216AAA,Robertsganj_ArtoDPP_D (Uttar Pradesh),Uttar Pradesh,24.7167,82.675,prefix5,6
+IND402109AAA,Roha_DataSagr_D (Maharashtra),Maharashtra,18.469,72.9349,prefix4,38
+IND124001AAB,Rohtak (Haryana),Haryana,28.9,76.5667,exact,8
+IND792110AAA,Roing_DibngVly_D (Arunachal Pradesh),Arunachal Pradesh,27.8333,95.8667,exact,4
+IND582209AAA,Rona_GadagRD_D (Karnataka),Karnataka,15.3875,75.7333,prefix5,33
+IND140001AAA,RoopNagar_ChotiHvl_DC (Punjab),Punjab,30.7871,76.5526,exact,40
+IND247667AAA,Roorkee_Dc (Uttarakhand),Uttarakhand,29.7192,77.3806,exact,19
+IND247667AAB,Roorkee_IOTCEncl_L (Uttarakhand),Uttarakhand,29.7192,77.3806,exact,17
+IND263153AAB,Rudrapur_UdhamNgr_H (Uttarakhand),Uttarakhand,29.4,79.3,exact,104
+IND713364AAB,Rupnarayanpur_Salanpur_D (West Bengal),West Bengal,23.7583,87.05,exact,18
+IND848210AAA,Rusera_Wardno4_D (Bihar),Bihar,25.55,88.6167,prefix5,41
+IND126112AAA,Safidon_HatRDDPP_D (Haryana),Haryana,29.6517,76.318,prefix5,16
+IND470004AAA,Sagar_Bahreya_I (Madhya Pradesh),Madhya Pradesh,23.881,79.2214,prefix5,7
+IND577401AAA,Sagara_Vardhard_D (Karnataka),Karnataka,14.0458,75.1917,exact,17
+IND852201AAA,Saharsa_Gangjala_D (Bihar),Bihar,24.9833,81.0583,exact,34
+IND277211AAA,Sahatwar_PnchmDPP_D (Uttar Pradesh),Uttar Pradesh,24.2833,83.5,exact,11
+IND816109AAA,Sahebganj_BaraLoha_D (Jharkhand),Jharkhand,25.25,87.65,exact,24
+IND573134AAB,Sakleshpur_RgvdrDPP_D (Karnataka),Karnataka,12.964,76.0939,exact,29
+IND424304AAC,Sakri_DhuleRoad_D (Maharashtra),Maharashtra,20.7417,75.5667,prefix5,21
+IND636016AAA,Salem (Tamil Nadu),Tamil Nadu,11.225,79.3417,exact,20
+IND636005AAC,Salem_Kadtmpty_D (Tamil Nadu),Tamil Nadu,11.225,79.3417,prefix5,1
+IND636005AAA,Salem_Kadtmpty_H (Tamil Nadu),Tamil Nadu,11.225,79.3417,prefix5,5
+IND274509AAB,Salempur_Banjaria_D (Uttar Pradesh),Uttar Pradesh,26.7879,82.6172,exact,18
+IND535591AAA,Salur_ward9_D (Andhra Pradesh),Andhra Pradesh,18.4,83.6167,name,24
+IND147101AAA,Samana_PODPP_D (Punjab),Punjab,30.1583,76.1931,exact,20
+IND848101AAA,Samastipur_Haripur_D (Bihar),Bihar,25.55,88.6167,exact,37
+IND184121AAA,Samba_Wardno13_D (Jammu & Kashmir),Jammu & Kashmir,32.5667,75.1167,exact,22
+IND768004AAD,Sambalpur_Central_H_2 (Orissa),Orissa,21.1417,83.4417,exact,5
+IND244301AAA,Sambhal_Khwssrai_D (Uttar Pradesh),Uttar Pradesh,29.0889,78.6778,prefix5,21
+IND583119AAA,Sandur_WrdN1DPP_D (Karnataka),Karnataka,15.1,76.55,exact,18
+IND422605AAA,Sangamner_JawanChk_D (Maharashtra),Maharashtra,19.925,73.8917,prefix5,20
+IND502295AAA,Sangareddy_Pothredy_D (Telangana),Telangana,16.6289,80.0624,prefix5,6
+IND413307AAB,Sangola_Central_DPP_2 (Maharashtra),Maharashtra,17.4417,75.5167,prefix5,7
+IND413307AAC,Sangola_Central_DPP_3 (Maharashtra),Maharashtra,17.4417,75.5167,prefix5,2
+IND148001AAA,Sangrur_DC (Punjab),Punjab,30.2333,75.8333,exact,2
+IND679303AAA,Sankaramangalam_Central_D_1 (Kerala),Kerala,10.75,76.4333,exact,25
+IND627756AAA,Sankaran_Kovil_D (Tamil Nadu),Tamil Nadu,9.0833,77.35,prefix5,34
+IND637301AAA,Sankari_Trchngrd_D (Tamil Nadu),Tamil Nadu,12.056,78.8116,prefix5,10
+IND757024AAA,Sankerko_AmbkaDPP_D (Orissa),Orissa,21.851,86.8765,exact,1
+IND276305AAA,Saraimeer_MsmcyDPP_D (Uttar Pradesh),Uttar Pradesh,26.2778,83.2222,prefix5,13
+IND843126AAA,Saraiya_Wardno4_D (Bihar),Bihar,25.2917,88.5333,exact,26
+IND821115AAB,Sasaram_Central_I_2 (Bihar),Bihar,23.908,85.4865,exact,80
+IND423301AAB,Satana_ThrbadRD_D (Maharashtra),Maharashtra,20.7667,74.1333,prefix5,7
+IND415003AAA,Satara_DC (Maharashtra),Maharashtra,17.5944,74.1667,prefix5,17
+IND507303AAA,Sathupally_VidyaNGR_D (Telangana),Telangana,17.2667,81.0167,prefix5,37
+IND638401AAA,Sathyamangalam_Mlydpthr_D (Tamil Nadu),Tamil Nadu,11.7833,77.0167,prefix5,24
+IND485001AAC,Satna_Central_I_2 (Madhya Pradesh),Madhya Pradesh,24.2944,80.0944,exact,50
+IND591126AAA,Saundatti_ShanthiS_D (Karnataka),Karnataka,15.8056,74.7389,prefix5,2
+IND480106AAA,Sausar_Central_DPP_1 (Madhya Pradesh),Madhya Pradesh,21.95,79.1167,prefix5,21
+IND441107AAB,Savner_Wagodha_D (Maharashtra),Maharashtra,20.45625,78.13329999999999,prefix4,11
+IND322001AAC,SawaiMadhopur_Central_DPP_1 (Rajasthan),Rajasthan,26.2167,76.6333,exact,4
+IND416510AAA,Sawantwadi_LaxmiNgr_D (Maharashtra),Maharashtra,16.9167,74.1375,prefix5,34
+IND585222AAA,Sedam_DBRCmplx_D (Karnataka),Karnataka,17.0667,76.9833,prefix5,43
+IND466001AAA,Sehore_Mangalam_D (Madhya Pradesh),Madhya Pradesh,23.1667,76.6667,prefix3,29
+IND451666AAA,Sendhwa_VishnuVhr_D (Madhya Pradesh),Madhya Pradesh,22.0,75.0667,prefix5,10
+IND480661AAA,Seoni_Kidwai_D (Madhya Pradesh),Madhya Pradesh,21.9667,79.5167,prefix5,22
+IND509216AAC,Shadnagar_Central_D_1 (Telangana),Telangana,17.2067,78.34,prefix5,22
+IND241124AAB,Shahabad_KDRoad_D (Uttar Pradesh),Uttar Pradesh,25.825,79.3833,prefix5,15
+IND425409AAA,Shahada_Nandrbar_D (Maharashtra),Maharashtra,20.4833,74.8333,prefix4,24
+IND484001AAA,Shahdol_Sohagpur_D (Madhya Pradesh),Madhya Pradesh,23.0542,81.51875,prefix3,10
+IND223101AAB,Shahganj_KcharaRD_D (Uttar Pradesh),Uttar Pradesh,26.158299999999997,82.86670000000001,prefix3,14
+IND242001AAA,Shahjhnpur_NavdaCln_D (Uttar Pradesh),Uttar Pradesh,28.2236,79.1956,exact,5
+IND465001AAA,Shajapur_MhpraRD_D (Madhya Pradesh),Madhya Pradesh,23.5375,76.4667,prefix3,22
+IND247776AAA,Shamli_KarnalRd_D (Uttar Pradesh),Uttar Pradesh,29.5237,77.2903,prefix5,20
+IND501218AAC,Shamshabad_Lngrguda_D (Telangana),Telangana,17.5091,78.8475,prefix4,6
+IND444203AAA,Shegaon_SChwkDPP_D (Maharashtra),Maharashtra,20.7288,77.1106,prefix3,8
+IND811105AAA,Sheikhpura_Bgwtichk_D (Bihar),Bihar,24.3298,85.6667,prefix5,5
+IND843329AAB,Sheohar_Ward9DPP_D (Bihar),Bihar,25.2917,88.5333,prefix5,26
+IND414502AAA,Shevgaon_VidyaNgr_D (Maharashtra),Maharashtra,19.1375,74.725,prefix3,14
+IND205135AAA,Shikohabad_Katrmira_D (Uttar Pradesh),Uttar Pradesh,26.9833,79.8111,prefix5,21
+IND793001AAA,Shillong (Meghalaya),Meghalaya,25.4643,91.7571,exact,13
+IND577201AAA,Shimoga_DC (Karnataka),Karnataka,13.9083,75.85,exact,20
+IND425406AAA,Shindkheda_KakaCplx_D (Maharashtra),Maharashtra,20.4833,74.8333,prefix4,18
+IND415408AAC,Shirala_Central_DPP_3 (Maharashtra),Maharashtra,17.5944,74.1667,prefix3,17
+IND423109AAA,Shirdi_SaiBansi_D (Maharashtra),Maharashtra,19.7167,74.4833,prefix5,30
+IND425405AAA,Shirpur_KrantiNgr_D (Maharashtra),Maharashtra,20.4833,74.8333,prefix4,22
+IND412210AAC,Shirur_Central_DPP_3 (Maharashtra),Maharashtra,18.5611,74.0556,prefix5,3
+IND473551AAA,Shivpuri_BypassRD_D (Madhya Pradesh),Madhya Pradesh,24.69,77.5367,prefix3,1
+IND631102AAA,Sholinghur_ArkonmRD_D (Tamil Nadu),Tamil Nadu,13.0167,79.7333,prefix5,23
+IND679531AAA,Shoranur_KdrShrRd_D (Kerala),Kerala,10.975,76.3333,exact,29
+IND332715AAB,Shrimadhopur_RLSTNDPP_D (Rajasthan),Rajasthan,27.5333,75.75,exact,1
+IND413709AAA,Shrirampur_DavkharRd_D (Maharashtra),Maharashtra,19.3833,74.65,prefix5,31
+IND465333AAA,Shujalpur_AstrdDPP_D (Madhya Pradesh),Madhya Pradesh,23.8167,76.3667,prefix5,7
+IND486661AAA,Sidhi_Padra_D (Madhya Pradesh),Madhya Pradesh,24.4833,81.0333,prefix5,11
+IND331701AAA,Sidhmukh_MnbzrDPP_D (Rajasthan),Rajasthan,27.8083,74.5767,prefix3,3
+IND483225AAA,Sihora_KtnRdDPP_D (Madhya Pradesh),Madhya Pradesh,23.4,80.05,prefix5,6
+IND277303AAC,Sikandarpur_Central_D_3 (Uttar Pradesh),Uttar Pradesh,24.2833,83.5,prefix5,24
+IND204215AAA,SikandraRao_JydevNGR_D (Uttar Pradesh),Uttar Pradesh,27.2384,78.7478,exact,10
+IND203205AAA,Sikandrabd_GTRoad_D (Uttar Pradesh),Uttar Pradesh,28.4583,77.55,prefix5,19
+IND332001AAB,Sikar_FatehpRd_I (Rajasthan),Rajasthan,27.5333,75.1333,prefix4,54
+IND787059AAB,Silapathar_Hejunagr_D (Assam),Assam,27.3722,94.45,exact,11
+IND788026AAC,Silchar_Sirikona_H (Assam),Assam,24.8667,92.7667,prefix5,57
+IND431112AAB,Sillod_ZebaTWR_D (Maharashtra),Maharashtra,19.6556,75.4944,prefix5,22
+IND396232AAA,Silvassa_Samrvrni_D (Dadra and Nagar Haveli),Dadra and Nagar Haveli,20.2833,72.95,prefix5,32
+IND722151AAA,Simlapal_Central_D_1 (West Bengal),West Bengal,23.075,87.0583,prefix5,17
+IND852111AAA,Simrahi_Bazar_D (Bihar),Bihar,24.9833,81.0583,exact,38
+IND586128AAA,Sindagi_KalyanNg_D (Karnataka),Karnataka,16.2167,76.1,prefix5,37
+IND584128AAA,Sindhanur_VasaviNg_D (Karnataka),Karnataka,16.1583,76.8583,prefix5,3
+IND486886AAA,Singrauli_Waidhan_D (Madhya Pradesh),Madhya Pradesh,24.4833,81.0333,exact,14
+IND486889AAA,Singrauli_Ward8DPP_D (Madhya Pradesh),Madhya Pradesh,24.4833,81.0333,prefix5,14
+IND422103AAC,Sinnar_Central_D_1 (Maharashtra),Maharashtra,19.925,73.8917,prefix3,22
+IND140406AAA,SirhindFatehgarh_DC (Punjab),Punjab,30.4831,76.595,exact,9
+IND609110AAA,Sirkazhi_Pngktgudi_D (Tamil Nadu),Tamil Nadu,10.9167,79.8167,prefix5,15
+IND307001AAA,Sirohi_Ricco_D (Rajasthan),Rajasthan,24.4833,72.7833,prefix4,4
+IND125104AAA,Sirsa_AnprnDPP_D (Haryana),Haryana,29.4278,74.9722,exact,11
+IND581402AAA,Sirsi_Vidygiri_D (Karnataka),Karnataka,14.5917,74.375,prefix5,25
+IND583121AAA,Siruguppa_Wrd12DPP_D (Karnataka),Karnataka,15.5333,76.8833,exact,2
+IND843301AAA,Sitamari_Durma_D (Bihar),Bihar,25.2917,88.5333,exact,39
+IND458990AAA,Sitamau_Central_DPP_1 (Madhya Pradesh),Madhya Pradesh,24.4375,75.1375,prefix3,21
+IND261001AAA,Sitapur_Chowk_D (Uttar Pradesh),Uttar Pradesh,27.6917,80.6833,exact,39
+IND262405AAA,Sitarganj_SidculRd_D (Uttarakhand),Uttarakhand,29.1167,79.3167,prefix5,2
+IND626123AAA,Sivakasi_Msstreet_DC (Tamil Nadu),Tamil Nadu,9.5417,77.6083,prefix5,34
+IND785682AAA,Sivasagar_Babupaty_D (Assam),Assam,26.8778,94.6778,exact,39
+IND841226AAB,Siwan_HnmntNgr_D (Bihar),Bihar,25.0333,88.45,exact,6
+IND173212AAA,Solan_MohanPrk_D (Himachal Pradesh),Himachal Pradesh,30.9833,77.13,exact,28
+IND413002AAA,Solapur_Central_I_2 (Maharashtra),Maharashtra,18.5571,75.256,prefix5,109
+IND785690AAB,Sonari_Central_DPP_1 (Assam),Assam,27.0667,95.0333,exact,18
+IND767017AAA,Sonepur_BrezeDPP_D (Orissa),Orissa,20.6278,83.2667,exact,7
+IND841101AAA,Sonepur_Sabalpur_D (Bihar),Bihar,25.0333,88.45,prefix5,3
+IND131021AAA,Sonipat_AmzonDev_V (Haryana),Haryana,29.2,76.8167,exact,58
+IND131028AAE,Sonipat_Central_D_2 (Haryana),Haryana,29.2,76.8167,prefix5,4
+IND131028AAB,Sonipat_Kundli_H (Haryana),Haryana,29.2,76.8167,prefix5,574
+IND131028AAA,Sonipat_Kundli_P (Haryana),Haryana,29.2,76.8167,prefix5,58
+IND212501AAA,Soraon_BypassRD_D (Uttar Pradesh),Uttar Pradesh,25.7278,80.9944,prefix3,26
+IND756045AAB,Soro_UttarDPP_D (Orissa),Orissa,21.6667,87.4333,exact,2
+IND532001AAB,Srikakulam_Kuslpram_I (Andhra Pradesh),Andhra Pradesh,18.6896,84.0292,exact,119
+IND517644AAA,Sriklahsti_SDKNgr_D (Andhra Pradesh),Andhra Pradesh,13.6833,79.6,prefix4,31
+IND246174AAA,SrinagarUK_Srikot_D (Uttarakhand),Uttarakhand,30.2167,78.7833,exact,36
+IND571438AAB,Srirangapatna_Bburynkpl_D (Karnataka),Karnataka,12.6581,76.7154,prefix5,9
+IND518102AAA,Srisailam_Sishumdr_D (Andhra Pradesh),Andhra Pradesh,15.1917,78.2083,prefix4,28
+IND335703AAA,Srivijaynagar_BhwanDPP_D (Rajasthan),Rajasthan,29.4784,74.0878,prefix5,18
+IND331507AAA,Sujangarh_JngidDPP_D (Rajasthan),Rajasthan,27.8083,74.4,exact,3
+IND341306AAA,Sujangarh_LdnunDPP_D (Rajasthan),Rajasthan,27.65,74.3833,exact,18
+IND176110AAB,Sujanpur_SainkSCL_D (Himachal Pradesh),Himachal Pradesh,31.8333,76.5,exact,16
+IND574239AAA,Sullia_Srirampt_D (Karnataka),Karnataka,12.6833,75.4833,prefix5,13
+IND333028AAA,Sultana_Central_DPP_1 (Rajasthan),Rajasthan,28.25,75.3917,prefix5,7
+IND813213AAA,Sultanganj_Wardno3_D (Bihar),Bihar,21.6833,72.2833,prefix5,4
+IND673592AAA,SultnBthry_Kollgpra_D (Kerala),Kerala,11.6333,75.6333,exact,42
+IND306902AAA,Sumerpur_BazarDPP_D (Rajasthan),Rajasthan,25.4333,72.95,exact,3
+IND148028AAA,Sunam_DC (Punjab),Punjab,30.3667,75.8667,prefix5,12
+IND175018AAA,SundarNgr_Bhogpur_D (Himachal Pradesh),Himachal Pradesh,31.5958,77.0458,prefix4,31
+IND770001AAA,Sundargarh_DiyoDPP_D (Orissa),Orissa,22.1667,83.9917,exact,12
+IND852131AAA,Supaul_SadrHsptl_D (Bihar),Bihar,24.9833,81.0583,prefix5,20
+IND395010AAB,Surat_Brpc (Gujarat),Gujarat,21.1667,72.8333,prefix4,1
+IND395009AAA,Surat_Central_D_12 (Gujarat),Gujarat,21.1667,72.8333,prefix5,20
+IND395004AAB,Surat_Central_D_3 (Gujarat),Gujarat,21.1667,72.8333,prefix5,21
+IND395001AAA,Surat_Central_D_9 (Gujarat),Gujarat,21.1667,72.8333,prefix5,22
+IND395023AAD,Surat_Central_I_4 (Gujarat),Gujarat,21.1667,72.8333,prefix4,105
+IND395023AAA,Surat_HUB (Gujarat),Gujarat,21.1667,72.8333,prefix4,174
+IND394221AAA,Surat_Pandesra_Gateway (Gujarat),Gujarat,20.9778,73.1,exact,2
+IND395006AAA,Surat_Varachha_DC (Gujarat),Gujarat,21.1667,72.8333,prefix5,30
+IND335804AAD,Suratgarh_Central_DPP_2 (Rajasthan),Rajasthan,29.4784,74.0878,exact,19
+IND575014AAA,Surathkal_DC (Karnataka),Karnataka,13.3666,76.171,prefix5,3
+IND363001AAA,Surendranagar_DC (Gujarat),Gujarat,22.7,71.6833,exact,27
+IND508213AAB,Suryapet_Krishna_D (Telangana),Telangana,17.1667,79.4333,exact,28
+IND515411AAA,Tadipatri_CBRoad_D (Andhra Pradesh),Andhra Pradesh,14.6833,77.8722,exact,4
+IND362150AAA,Talala_SsnRdDPP_D (Gujarat),Gujarat,21.3778,70.5833,exact,22
+IND410501AAF,Talegaon_Central_DPP_4 (Maharashtra),Maharashtra,18.7167,73.6833,prefix5,9
+IND507167AAA,Tallada_PtrlBunk_D (Telangana),Telangana,17.6,80.3333,exact,9
+IND151302AAA,TalwandiSabo_Wardno3_D (Punjab),Punjab,30.1667,75.1881,exact,33
+IND721636AAB,Tamluk_Central_DPP_2 (West Bengal),West Bengal,22.484,87.4703,prefix3,4
+IND501141AAA,Tandur_SnthiNGR_D (Telangana),Telangana,19.15,79.4667,exact,13
+IND754022AAA,Tangi_SriDPP_D (Orissa),Orissa,20.6083,86.025,prefix5,4
+IND331304AAA,Taranagar_RajRdDPP_D (Rajasthan),Rajasthan,28.6833,75.0333,exact,7
+IND712410AAC,Tarkeshwar_Naraynpr_D (West Bengal),West Bengal,22.4167,88.1167,prefix5,15
+IND341030AAA,Tarnau_BsstdDPP_D (Rajasthan),Rajasthan,26.7333,74.1333,exact,5
+IND532201AAA,Tekkali_AmvdiDPP_D (Andhra Pradesh),Andhra Pradesh,18.8833,84.5833,prefix4,41
+IND627811AAA,Tenkasi_RailwyRd_D (Tamil Nadu),Tamil Nadu,8.6854,77.6146,prefix5,20
+IND785112AAC,Teok_Wardno3_D (Assam),Assam,26.8333,94.4167,exact,7
+IND784001AAA,Tezpur_Mhbhirab_D (Assam),Assam,26.7696,92.6559,exact,13
+IND792001AAA,Tezu_Farmnala_D (Arunachal Pradesh),Arunachal Pradesh,27.9167,96.1667,exact,14
+IND678583AAA,Thachnttukra_Nattukal_D (Kerala),Kerala,10.4833,76.7,prefix5,1
+IND244601AAB,Thakurdwara_Fathuluh_D (Uttar Pradesh),Uttar Pradesh,29.2,78.85,exact,18
+IND673573AAA,Thamarassery_Chungam_D (Kerala),Kerala,11.6333,75.6333,exact,12
+IND625531AAA,Theni_Rathnam_D (Tamil Nadu),Tamil Nadu,10.0667,78.05,prefix4,13
+IND577432AAA,Thirthahalli_NadthiCx_D (Karnataka),Karnataka,14.0458,75.1917,prefix5,2
+IND614715AAA,Thirthurpondi_Madaprum_D (Tamil Nadu),Tamil Nadu,10.35,79.4,prefix5,34
+IND613104AAA,Thirukkatupli_Poondi_D (Tamil Nadu),Tamil Nadu,10.7042,79.5208,prefix5,10
+IND508223AAA,Thirumalagiri_Xroad_D (Telangana),Telangana,17.1667,79.4333,prefix4,26
+IND623407AAA,Thiruvadanai_RamnadRD_D (Tamil Nadu),Tamil Nadu,9.5958,78.7333,prefix5,30
+IND610001AAA,Thiruvarur_Bypasrd_D (Tamil Nadu),Tamil Nadu,10.7042,79.5208,prefix5,54
+IND627657AAA,Thisayanvilai_UdnkdiRD_D (Tamil Nadu),Tamil Nadu,8.6854,77.6146,prefix4,33
+IND636352AAA,Thoppur_HghsclRD_D (Tamil Nadu),Tamil Nadu,11.8667,78.15,prefix5,5
+IND621010AAA,Thuraiyur_Mthrapuri_D (Tamil Nadu),Tamil Nadu,10.4694,78.5056,prefix5,31
+IND472001AAA,Tikamgarh_MndiRoad_D (Madhya Pradesh),Madhya Pradesh,24.8833,79.15,exact,30
+IND242307AAB,Tilhar_SingCLNY_D (Uttar Pradesh),Uttar Pradesh,27.9833,79.7333,exact,11
+IND786125AAA,Tinusukia_Chrwpaty_D (Assam),Assam,27.3278,95.5833,exact,13
+IND572201AAB,Tiptur_YTRd_D (Karnataka),Karnataka,13.5225,76.7483,exact,20
+IND628204AAA,Tirchchndr_Shnmgprm_D (Tamil Nadu),Tamil Nadu,8.6333,78.0167,prefix4,34
+IND637211AAA,Tirchngode_Mhdhvpur_D (Tamil Nadu),Tamil Nadu,12.056,78.8116,prefix5,31
+IND641664AAA,Tirpur_Palladam_DC (Tamil Nadu),Tamil Nadu,10.9375,76.975,prefix3,30
+IND754160AAA,Tirtol_Central_D_2 (Orissa),Orissa,20.2542,86.3,exact,1
+IND620020AAA,Tiruchi (Tamil Nadu),Tamil Nadu,10.8,78.7333,exact,25
+IND620012AAA,Tiruchi_Manikndm_H (Tamil Nadu),Tamil Nadu,10.8,78.7333,exact,2
+IND621112AAA,Tiruchi_Samyaprm_D (Tamil Nadu),Tamil Nadu,10.9333,78.7333,exact,26
+IND571124AAA,Tirumakudalu_Narasipr_D (Karnataka),Karnataka,12.2381,76.7278,exact,21
+IND627005AAA,Tirunelveli_VdkkuSrt_I (Tamil Nadu),Tamil Nadu,8.6854,77.6146,prefix5,77
+IND517501AAB,Tirupati_Balajicly_I (Andhra Pradesh),Andhra Pradesh,14.55,78.75,exact,68
+IND635601AAB,Tiruppattur_KoilStrt_D (Tamil Nadu),Tamil Nadu,12.5729,78.2729,prefix4,21
+IND641607AAA,Tirupur_Koliplm_I (Tamil Nadu),Tamil Nadu,10.9375,76.975,prefix3,64
+IND676306AAA,Tirurangadi_Kooriyad_D (Kerala),Kerala,11.075,76.125,exact,11
+IND689101AAA,Tiruvalla_TKRoad_D (Kerala),Kerala,10.2762,76.2548,prefix4,26
+IND304001AAA,Tonk_DC (Rajasthan),Rajasthan,26.15,75.2167,exact,5
+IND695012AAB,Trivandrum_Mnanthla_D (Kerala),Kerala,8.4333,77.05,prefix5,3
+IND695012AAA,Trivandrum_Mnanthla_H (Kerala),Kerala,8.4333,77.05,prefix5,23
+IND852139AAB,Triveninganj_Central_D_1 (Bihar),Bihar,24.9833,81.0583,exact,41
+IND271210AAA,Tulsipur_Central_DPP_1 (Uttar Pradesh),Uttar Pradesh,27.5167,82.65,exact,19
+IND572101AAA,Tumkur_Veersagr_I (Karnataka),Karnataka,13.6417,76.9293,exact,19
+IND533401AAA,Tuni_Eaglvari_D (Andhra Pradesh),Andhra Pradesh,17.1333,82.13335000000001,prefix4,36
+IND794101AAA,Tura_Sracmplx_D (Meghalaya),Meghalaya,25.3,89.85,exact,10
+IND574117AAA,Uchila_Busstand_D (Karnataka),Karnataka,12.8,74.85,exact,8
+IND313001AAB,Udaipur_Mangri_I (Rajasthan),Rajasthan,25.7736,75.6278,exact,100
+IND757041AAA,Udala_NagplDPP_D (Orissa),Orissa,21.5742,86.565,exact,8
+IND413517AAA,Udgir_NlgaonRd_D (Maharashtra),Maharashtra,18.3833,77.1167,exact,8
+IND642126AAA,Udumalpet_Artclgrd_D (Tamil Nadu),Tamil Nadu,13.0064,80.2542,exact,35
+IND576101AAA,Udupi (Karnataka),Karnataka,13.25,74.75,exact,6
+IND581119AAB,Ukkadagatri_Tuminkte_D (Karnataka),Karnataka,15.175,75.1,prefix4,30
+IND484661AAE,Umaria_Central_DPP_3 (Madhya Pradesh),Madhya Pradesh,23.5333,80.8333,exact,5
+IND764073AAA,Umerkote_Central_DPP_1 (Orissa),Orissa,19.3,82.7333,exact,2
+IND388220AAA,Umreth_Dakor_DC (Gujarat),Gujarat,22.7,73.1167,exact,29
+IND362560AAA,Una_Mamlatdr_DC (Gujarat),Gujarat,20.7,70.9833,exact,28
+IND384170AAA,Unjha_DC (Gujarat),Gujarat,23.5037,72.1241,exact,18
+IND209801AAA,Unnao_VikasRam_D (Uttar Pradesh),Uttar Pradesh,26.7,80.6417,exact,25
+IND360490AAA,Upleta_AdrshSt_DC (Gujarat),Gujarat,21.7333,70.2833,exact,12
+IND625532AAA,Usilampatti_MrutiNGR_D (Tamil Nadu),Tamil Nadu,10.0667,78.05,prefix4,7
+IND635207AAA,Uthangarai_RgstrOFC_D (Tamil Nadu),Tamil Nadu,12.2667,78.55,exact,2
+IND673104AAA,Vadakara_Mandodi_D (Kerala),Kerala,11.4354,75.725,exact,33
+IND678683AAA,Vadakkencherry_Robinson_D (Kerala),Kerala,11.0167,76.35,prefix4,27
+IND625218AAA,Vadipatti_lalaNGR_D (Tamil Nadu),Tamil Nadu,10.025,78.0417,prefix3,12
+IND384355AAB,Vadnagar_BsstdDPP_D (Gujarat),Gujarat,23.7833,72.5667,prefix5,26
+IND390020AAA,Vadodara (Gujarat),Gujarat,21.9417,73.2917,prefix4,18
+IND390018AAB,Vadodara_Karelibaug_DC (Gujarat),Gujarat,21.9417,73.2917,exact,2
+IND390022AAA,Vadodara_Karelibaug_DPC (Gujarat),Gujarat,21.9417,73.2917,prefix4,78
+IND423701AAB,Vaijiapur_YeolaRD_D (Maharashtra),Maharashtra,19.9167,74.7333,exact,34
+IND686141AAA,Vaikom_KotyamRD_D (Kerala),Kerala,9.7667,76.4,exact,1
+IND627117AAA,Vallior_Radhaprm_D (Tamil Nadu),Tamil Nadu,8.2667,77.7,prefix5,22
+IND396001AAA,Valsad_DC (Gujarat),Gujarat,20.6,72.9,exact,13
+IND396580AAB,Vansda_CikhliRD_D (Gujarat),Gujarat,21.4583,72.8333,prefix4,25
+IND396191AAC,Vapi_IndEstat_I (Gujarat),Gujarat,20.3583,72.8208,prefix4,56
+IND396191AAB,Vapi_IndEstat_L (Gujarat),Gujarat,20.3583,72.8208,prefix4,2
+IND221010AAA,Varanasi (Uttar Pradesh),Uttar Pradesh,25.3333,83.0,exact,3
+IND221313AAA,Varanasi_Central_H_4 (Uttar Pradesh),Uttar Pradesh,25.95,84.3833,prefix5,21
+IND221010AAB,Varanasi_MahmurGj_IP (Uttar Pradesh),Uttar Pradesh,25.3333,83.0,exact,7
+IND632006AAA,Vellore_GndhiNgr_IP (Tamil Nadu),Tamil Nadu,12.8533,79.2267,exact,79
+IND505302AAB,Vemulawada_Central_DPP_2 (Telangana),Telangana,17.448,78.5913,prefix5,23
+IND524132AAA,Venktagiri_TirupthiRd_D (Andhra Pradesh),Andhra Pradesh,14.0333,79.7167,exact,29
+IND362265AAA,Veraval_DC (Gujarat),Gujarat,21.2417,70.25,prefix5,26
+IND464001AAA,Vidisha_ShrprDPP_D (Madhya Pradesh),Madhya Pradesh,23.3063,77.8417,exact,1
+IND520011AAA,Vijayawada (Andhra Pradesh),Andhra Pradesh,15.8677,80.4563,exact,9
+IND521225AAB,Vijayawada_Rynapadu_H (Andhra Pradesh),Andhra Pradesh,16.5056,80.9111,prefix5,132
+IND501101AAB,Vikarabad_Central_DPP_2 (Telangana),Telangana,18.1308,79.1847,prefix5,11
+IND605601AAA,Villupuram_Thirumtr_IP (Tamil Nadu),Tamil Nadu,12.5205,79.8348,prefix5,52
+IND522647AAA,Vinukonda_Kothapet_D (Andhra Pradesh),Andhra Pradesh,16.3375,80.3083,prefix4,33
+IND606003AAA,Virudhchlm_SelamRd_D (Tamil Nadu),Tamil Nadu,12.29,79.0267,prefix3,29
+IND530012AAA,Visakhapatnam_Gajuwaka_IP (Andhra Pradesh),Andhra Pradesh,17.7375,82.8347,prefix5,138
+IND530043AAA,Visakhapatnam_VislkNgr_DC (Andhra Pradesh),Andhra Pradesh,17.7375,82.8347,prefix4,26
+IND531162AAA,Vishakhapatnam (Andhra Pradesh),Andhra Pradesh,17.825,82.8694,prefix5,8
+IND530018AAA,Vizag _NAD (Andhra Pradesh),Andhra Pradesh,17.7375,82.8347,prefix5,1
+IND530026AAA,Vizag_Gajuwaka (Andhra Pradesh),Andhra Pradesh,17.7375,82.8347,exact,4
+IND530012AAC,Vizag_Gajuwaka_L (Andhra Pradesh),Andhra Pradesh,17.7375,82.8347,prefix5,5
+IND281121AAB,Vrindavan_MathuraRD_D (Uttar Pradesh),Uttar Pradesh,27.5833,77.7,exact,13
+IND521165AAA,Vuyyuru_BhogdDPP_D (Andhra Pradesh),Andhra Pradesh,15.95,80.9167,prefix4,7
+IND412803AAB,Wai_Central_DPP_3 (Maharashtra),Maharashtra,17.9333,73.9,exact,9
+IND509103AAB,Wanaparthy_VallaDPP_D (Telangana),Telangana,16.7831,78.5394,exact,21
+IND363621AAB,Wankaner_JivanDPP_D (Gujarat),Gujarat,22.6167,70.9333,exact,8
+IND506001AAC,Warangal_Central_D_2 (Telangana),Telangana,17.0289,78.3025,exact,15
+IND506002AAA,Warangal_HunterRd_I (Telangana),Telangana,17.0289,78.3025,exact,87
+IND442001AAA,Wardha_RamaNgr_D (Maharashtra),Maharashtra,20.4333,76.9611,prefix5,5
+IND321408AAB,Weir_BsstdDPP_D (Rajasthan),Rajasthan,25.6817,75.7308,exact,5
+IND135001AAA,YamunaNagar_DC (Haryana),Haryana,30.1667,77.3,exact,19
+IND445001AAB,Yavatmal_JajuDPP_D (Maharashtra),Maharashtra,20.3556,78.0944,exact,12
+IND507123AAA,Yellandu_Sudimala_D (Telangana),Telangana,17.6,80.3333,exact,25
+IND503122AAA,Yellareddy_JKRoad_D (Telangana),Telangana,18.2833,78.1917,exact,39
+IND502220AAC,Zahirabad_Mohim_D (Telangana),Telangana,16.6289,80.0624,exact,44
+IND140603AAA,Zirakpur_DC (Punjab),Punjab,30.575699999999998,76.67555,prefix5,29
+IND342902A1B,,,26.36045,72.6333,prefix3,16
+IND577116AAA,,,13.2667,75.7167,prefix5,16
+IND282002AAD,,,27.2167,78.0167,exact,60
+IND465333A1B,,,23.8167,76.3667,prefix5,4
+IND841301AAC,,,25.0333,88.45,exact,2
+IND509103AAC,,,16.7831,78.5394,exact,11
+IND126116AAA,,,29.6167,76.1167,exact,10
+IND331022A1B,,,27.75,74.5833,exact,1
+IND505326AAB,,,17.448,78.5913,prefix5,8
+IND852118A1B,,,24.9833,81.0583,prefix5,12
+IND221005A1A,,,25.3333,83.0,exact,1
+IND250002AAC,,,29.0611,77.5556,exact,3
+IND331001A1C,,,27.75,74.5833,exact,1
+IND122015AAC,,,28.09,76.9567,exact,2
