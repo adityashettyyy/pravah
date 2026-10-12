@@ -1,0 +1,45 @@
+Pravah Criticality Index: expected share of network traffic exposed when a hub is disrupted at severity 0.8 (150 Monte Carlo runs per hub, 1,594 hubs)
+cascade rules are ASSUMED (see graph/cascade.py); traffic, graph and hub risk are real
+
+Spearman rank correlation of PCI with classical measures (1 = identical ranking):
+  PCI vs degree                        0.55
+  PCI vs traffic (legs through hub)    0.93
+  PCI vs PageRank                      0.58
+  PCI vs betweenness                   0.44
+  PCI (simulator) vs PCI (GNN surrogate): 0.98  (the GNN gives the same ranking)
+
+Top 15 hubs by PCI
+hub                                       PCI % exp.hubs rank deg rank betw
+Gurgaon_Bilaspur_HB (Haryana)              7.30     21.7        1         1
+Bhiwandi_Mankoli_HB (Maharashtra)          5.47     15.5        5         3
+Bangalore_Nelmngla_H (Karnataka)           4.81      9.7        2         2
+Pune_Tathawde_H (Maharashtra)              3.07     12.5        7         6
+Bengaluru_Bomsndra_HB (Karnataka)          2.89      6.3       14        23
+Hyderabad_Shamshbd_H (Telangana)           2.58     12.0        4         4
+Chandigarh_Mehmdpur_H (Punjab)             2.56     11.7        3         8
+Bengaluru_KGAirprt_HB (Karnataka)          2.37      4.2       30        42
+Kolkata_Dankuni_HB (West Bengal)           2.01     18.1        8         5
+Ahmedabad_East_H_1 (Gujarat)               1.97     11.8       12        16
+Delhi_Airport_H (Delhi)                    1.96     12.1        6        11
+MAA_Poonamallee_HB (Tamil Nadu)            1.88      9.0       10        12
+Sonipat_Kundli_H (Haryana)                 1.84     11.8        9         7
+Mumbai Hub (Maharashtra)                   1.78      5.7       19        82
+Muzaffrpur_Bbganj_I (Bihar)                1.68     15.2       15        19
+
+'Hidden' critical hubs: top-50 by PCI but outside the top-150 by degree: 6
+  Mumbai_Chndivli_PC (Maharashtra)          PCI 0.97%  degree rank 272
+  LowerParel_CP (Maharashtra)               PCI 0.78%  degree rank 272
+  Delhi_Gateway_HB (Delhi)                  PCI 0.72%  degree rank 492
+  Noida_Sector02_C (Uttar Pradesh)          PCI 0.66%  degree rank 492
+  Mumbai_CottonGreen_DPC (Maharashtra)      PCI 0.63%  degree rank 168
+  Mumbai_Jogshwri_I (Maharashtra)           PCI 0.52%  degree rank 492
+
+Targeted removal: share of shipments still served after removing the top-k hubs
+k              PCI     traffic betweenness      random
+0           100.0%      100.0%      100.0%      100.0%
+5            77.7%       77.0%       77.8%       99.1%
+10           68.5%       68.7%       70.6%       98.1%
+20           58.3%       58.0%       60.9%       97.2%
+40           51.8%       51.1%       53.7%       95.1%
+80           42.8%       41.6%       46.2%       90.5%
+(lower = the ordering finds hubs the network depends on more)
